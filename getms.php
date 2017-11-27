@@ -25,7 +25,7 @@ $conn = new mysqli($servername, $username, $password);
 	$query = 'SELECT * FROM cities;';
 	
 	//echo $query;
-	$result = mysqli_query($query);
+	$result = mysqli_query($conn,$query);
 	if (!$result){
 		echo "<string>EMPTY</string>";
 	} else {
