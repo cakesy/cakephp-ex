@@ -30,7 +30,8 @@ if ($conn->connect_error) {
 	//$result = mysqli_query($conn,$query);
 
     $result = $conn->query($query);
-	if ($result->num_rows = 0){
+	if (!$result){
+        printf("Errormessage: %s\n", $mysqli->error);
 		echo "<string>EMPTY $query</string> ".getenv("DATABASE_SERVICE_NAME")." ".getenv("DATABASE_USER");
 	} else {
 			$num = 1;
