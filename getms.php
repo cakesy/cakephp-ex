@@ -22,7 +22,7 @@ $conn = new mysqli($servername, $username, $password);
 	
 	//name, descript,image,d,loc
 	
-	$query = 'SELECT * FROM cities limit 10;';
+	$query = 'SELECT * FROM help_category limit 10;';
 	
 	//echo $query;
 	$result = mysqli_query($conn,$query);
