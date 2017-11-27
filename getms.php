@@ -22,17 +22,17 @@ $conn = new mysqli($servername, $username, $password);
 	
 	//name, descript,image,d,loc
 	
-	$query = 'SELECT * FROM cities';
+	$query = 'SELECT * FROM cities;';
 	
 	//echo $query;
-	$result = mysql_query($query);
+	$result = mysqli_query($query);
 	if (!$result){
 		echo "<string>EMPTY</string>";
 	} else {
-		if(mysql_num_rows($result) > 0){
+		if(mysqli_num_rows($result) > 0){
 			$num = 1;
 			//name 	title 	udid 	image 	about 	gps 	id 	date Ascending 	idate
-			while ($row = mysql_fetch_assoc($result)){
+			while ($row = mysqli_fetch_assoc($result)){
 					echo '<string>'.$row['name'].'</string>';
 				
 			}
