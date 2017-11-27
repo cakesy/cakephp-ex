@@ -2,7 +2,7 @@
 	echo '<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"><plist version="1.0"><array>';
 	
 	
-$servername = getenv(strtoupper("getenv("DATABASE_SERVICE_NAME")")."_SERVICE_HOST");
+$servername = getenv(strtoupper(getenv("DATABASE_SERVICE_NAME"))."_SERVICE_HOST");
 $username = getenv("DATABASE_USER");
 $password = getenv("DATABASE_PASSWORD");
 
@@ -22,7 +22,7 @@ $conn = new mysqli($servername, $username, $password);
 	
 	//name, descript,image,d,loc
 	
-	$query = 'SELECT * FROM cities;';
+	$query = 'SELECT * FROM cities limit 10;';
 	
 	//echo $query;
 	$result = mysqli_query($conn,$query);
