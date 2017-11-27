@@ -7,8 +7,10 @@ $username = getenv("DATABASE_USER");
 $password = getenv("DATABASE_PASSWORD");
 
 // Create connection
-$conn = new mysqli($servername, $username, $password);
+$conn = new mysqli_connect($servername, $username, $password, "default");
 	
+
+
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 } 
@@ -24,7 +26,7 @@ if ($conn->connect_error) {
 	
 	//name, descript,image,d,loc
 	
-	$query = 'SELECT * FROM help_category limit 10;';
+	$query = 'SELECT * FROM cities limit 10;';
 	
 	//echo $query;
 	//$result = mysqli_query($conn,$query);
