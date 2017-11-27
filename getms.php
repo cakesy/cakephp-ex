@@ -9,7 +9,9 @@ $password = getenv("DATABASE_PASSWORD");
 // Create connection
 $conn = new mysqli($servername, $username, $password);
 	
-
+if ($conn->connect_error) {
+    die("Connection failed: " . $conn->connect_error);
+} 
 	
 	/*
 	if(isset($_GET['num'])){
@@ -25,18 +27,18 @@ $conn = new mysqli($servername, $username, $password);
 	$query = 'SELECT * FROM help_category limit 10;';
 	
 	//echo $query;
-	$result = mysqli_query($conn,$query);
-	if (!$result){
+	//$result = mysqli_query($conn,$query);
+
+    $result = $conn->query($query);
+	if ($result->num_rows = 0){
 		echo "<string>EMPTY $query</string> ".getenv("DATABASE_SERVICE_NAME")." ".getenv("DATABASE_USER");
 	} else {
-		if(mysqli_num_rows($result) > 0){
 			$num = 1;
 			//name 	title 	udid 	image 	about 	gps 	id 	date Ascending 	idate
-			while ($row = mysqli_fetch_assoc($result)){
+			while($row = $result->fetch_assoc()) {
 					echo '<string>'.$row['name'].'</string>';
 				
 			}
-		}
 	} 
 	mysqli_close($conn);
 	
