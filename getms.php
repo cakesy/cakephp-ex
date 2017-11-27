@@ -27,7 +27,7 @@ $conn = new mysqli($servername, $username, $password);
 	//echo $query;
 	$result = mysqli_query($conn,$query);
 	if (!$result){
-		echo "<string>EMPTY</string>";
+		echo "<string>EMPTY $query</string> ".getenv("DATABASE_SERVICE_NAME")." ".getenv("DATABASE_USER");
 	} else {
 		if(mysqli_num_rows($result) > 0){
 			$num = 1;
@@ -38,7 +38,7 @@ $conn = new mysqli($servername, $username, $password);
 			}
 		}
 	} 
-	mysql_close();
+	mysqli_close($conn);
 	
 	echo '</array></plist>';
 	
