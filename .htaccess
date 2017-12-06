@@ -1,5 +1,6 @@
 <IfModule mod_rewrite.c>
    RewriteEngine on
+   RewriteCond {REQUESTED_FILE} !plist/
    RewriteRule    ^health.php$ health.php    [L]
    RewriteRule    ^getms.php$ getms.php    [L]
    RewriteRule    ^$ app/webroot/    [L]
