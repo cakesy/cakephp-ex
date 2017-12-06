@@ -1,0 +1,215 @@
+<?xml version=1.0 encoding=UTF-8?>
+<!DOCTYPE plist PUBLIC -//Apple//DTD PLIST 1.0//EN http://www.apple.com/DTDs/PropertyList-1.0.dtd>
+<plist version=1.0>
+<array><string>48165</string><string>Le Domus Romane di Palazzo Valentini</string><string></string><string>LeDomusRomanediPalazzoValentiniRome.jpg</string><string>41.896793,12.483687</string>
+<string>48166</string><string>Church of San Luigi dei Francesi</string><string></string><string>ChurchofSanLuigideiFrancesiRome.jpg</string><string>41.9015141,12.4607737</string>
+<string>48167</string><string>Centro Storico</string><string></string><string>CentroStoricoRome.jpg</string><string>41.8994934,12.4773687</string>
+<string>48168</string><string>San Giovanni in Laterano</string><string></string><string>SanGiovanniinLateranoRome.jpg</string><string>41.8869402,12.5065593</string>
+<string>48169</string><string>Basilica di San Clemente</string><string></string><string>BasilicadiSanClementeRome.jpg</string><string>41.8892339,12.4974504</string>
+<string>48170</string><string>Church of Sant&amp;apos;Ignazio Di Loyola</string><string></string><string>ChurchofSantIgnazioDiLoyolaRome.jpg</string><string>41.899544,12.479916</string>
+<string>48171</string><string>Galleria Borghese</string><string></string><string>GalleriaBorgheseRome.jpg</string><string>41.9140510,12.4920400</string>
+<string>48172</string><string>St. Paul Outside the Walls (Basilica di San Paolo Fuori le Mura)</string><string></string><string>StPaulOutsidetheWallsBasilicadiSanPaoloFuorileMuraRome.jpg</string><string>41.8587090,12.4766451</string>
+<string>48173</string><string>Pantheon</string><string></string><string>PantheonRome.jpg</string><string>41.8988610,12.4769306</string>
+<string>48174</string><string>Colosseum (Colosseo)</string><string></string><string>ColosseumColosseoRome.jpg</string><string>41.8902680,12.4923150</string>
+<string>48175</string><string>Palazzo Massimo alle Terme</string><string></string><string>PalazzoMassimoalleTermeRome.jpg</string><string>41.90144,12.498455</string>
+<string>48176</string><string>Santa Prassede</string><string></string><string>SantaPrassedeRome.jpg</string><string>41.89622,12.49907</string>
+<string>48177</string><string>Palazzo Doria Pamphilj</string><string></string><string>PalazzoDoriaPamphiljRome.jpg</string><string>41.8977159,12.4817552</string>
+<string>48178</string><string>Aventine Hill</string><string></string><string>AventineHillRome.jpg</string><string>41.88479,12.478641</string>
+<string>48179</string><string>Basilica di Santa Maria Maggiore</string><string></string><string>BasilicadiSantaMariaMaggioreRome.jpg</string><string>41.8973670,12.4988375</string>
+<string>48180</string><string>Santa Maria Sopra Minerva</string><string></string><string>SantaMariaSopraMinervaRome.jpg</string><string>41.8979888,12.4780226</string>
+<string>48181</string><string>St. Peter in Chains (San Pietro in Vincoli)</string><string></string><string>StPeterinChainsSanPietroinVincoliRome.jpg</string><string>41.893806,12.492839</string>
+<string>48182</string><string>Santa Maria in Trastevere</string><string></string><string>SantaMariainTrastevereRome.jpg</string><string>41.889565,12.471054</string>
+<string>48183</string><string>Chiesa del Gesu</string><string></string><string>ChiesadelGesuRome.jpg</string><string>41.895954,12.479385</string>
+<string>48184</string><string>Piazza Navona</string><string></string><string>PiazzaNavonaRome.jpg</string><string>41.8985524,12.4732110</string>
+<string>48185</string><string>Santa Maria della Vittoria</string><string></string><string>SantaMariadellaVittoriaRome.jpg</string><string>41.904655,12.494443</string>
+<string>48186</string><string>Villa Borghese</string><string></string><string>VillaBorgheseRome.jpg</string><string>41.9137580,12.4872380</string>
+<string>48187</string><string>Trevi Fountain (Fontana di Trevi)</string><string></string><string>TreviFountainFontanadiTreviRome.jpg</string><string>41.9010046,12.4832853</string>
+<string>48188</string><string>Centrale Montemartini</string><string></string><string>CentraleMontemartiniRome.jpg</string><string>41.8669377,12.4789793</string>
+<string>48189</string><string>Santa Maria degli Angeli</string><string></string><string>SantaMariadegliAngeliRome.jpg</string><string>41.9031117,12.4969899</string>
+<string>48190</string><string>Trastevere</string><string></string><string>TrastevereRome.jpg</string><string>41.8873150,12.4655510</string>
+<string>48191</string><string>Capitoline Museum (Musei Capitolini)</string><string></string><string>CapitolineMuseumMuseiCapitoliniRome.jpg</string><string>41.8931760,12.4827470</string>
+<string>48192</string><string>Roman Forum</string><string></string><string>RomanForumRome.jpg</string><string>41.8954692,12.4859094</string>
+<string>48193</string><string>Villa Malta o delle Rose</string><string></string><string>VillaMaltaodelleRoseRome.jpg</string><string>41.907978,12.486699</string>
+<string>48194</string><string>Fountain of the Four Rivers</string><string></string><string>FountainoftheFourRiversRome.jpg</string><string>41.8989431,12.4730873</string>
+<string>48195</string><string>Villa Farnesina</string><string></string><string>VillaFarnesinaRome.jpg</string><string>41.89354,12.467015</string>
+<string>48196</string><string>Roads to Rome Private Tours</string><string></string><string>RoadstoRomePrivateToursRome.jpg</string><string>41.9015141,12.4607737</string>
+<string>48197</string><string>Pincio Gardens (Monte Pincio)</string><string></string><string>PincioGardensMontePincioRome.jpg</string><string>41.911358,12.477744</string>
+<string>48198</string><string>Protestant Cemetery</string><string></string><string>ProtestantCemeteryRome.jpg</string><string>41.87631,12.47895</string>
+<string>48199</string><string>Teatro Colosseo</string><string></string><string>TeatroColosseoRome.jpg</string><string>41.8886,12.49601</string>
+<string>48200</string><string>Colle del Gianicolo</string><string></string><string>ColledelGianicoloRome.jpg</string><string>41.891735,12.461125</string>
+<string>48201</string><string>St. Ignazio</string><string></string><string>StIgnazioRome.jpg</string><string>41.89912,12.479795</string>
+<string>48202</string><string>Vittorio Emmanuel II Monument</string><string></string><string>VittorioEmmanuelIIMonumentRome.jpg</string><string>41.8945901,12.4831052</string>
+<string>48203</string><string>Explora</string><string></string><string>ExploraRome.jpg</string><string>41.9166885,12.4740252</string>
+<string>48204</string><string>Piazza del Campidoglio</string><string></string><string>PiazzadelCampidoglioRome.jpg</string><string>41.8929798,12.4835953</string>
+<string>48205</string><string>Villa Torlonia</string><string></string><string>VillaTorloniaRome.jpg</string><string>41.916,12.51125</string>
+<string>48206</string><string>Palatine Hill</string><string></string><string>PalatineHillRome.jpg</string><string>41.8883333,12.4869444</string>
+<string>48207</string><string>Cappuchin Crypt</string><string></string><string>CappuchinCryptRome.jpg</string><string>41.90459,12.488106</string>
+<string>48208</string><string>Fosse Ardeatine</string><string></string><string>FosseArdeatineRome.jpg</string><string>41.85719,12.510129</string>
+<string>48209</string><string>Trajan&amp;apos;s Column</string><string></string><string>TrajansColumnRome.jpg</string><string>41.89493,12.484224</string>
+<string>48210</string><string>Cremeria Alpi</string><string></string><string>CremeriaAlpiRome.jpg</string><string>41.9015141,12.4607737</string>
+<string>48211</string><string>Castel Sant&amp;apos;Angelo</string><string></string><string>CastelSantAngeloRome.jpg</string><string>48.6047491,-4.1281236</string>
+<string>48212</string><string>Barberini Palace</string><string></string><string>BarberiniPalaceRome.jpg</string><string>41.9015141,12.4607737</string>
+<string>48213</string><string>Scuola Gladiatori di Roma</string><string></string><string>ScuolaGladiatoridiRomaRome.jpg</string><string>41.869827,12.502066</string>
+<string>48214</string><string>Jewish Ghetto</string><string></string><string>JewishGhettoRome.jpg</string><string>41.9015141,12.4607737</string>
+<string>48215</string><string>Imperial Forums (Fori Imperiali)</string><string></string><string>ImperialForumsForiImperialiRome.jpg</string><string>41.9015141,12.4607737</string>
+<string>48216</string><string>Municipal Rose Garden (Roseto Comunale)</string><string></string><string>MunicipalRoseGardenRosetoComunaleRome.jpg</string><string>41.88533,12.483215</string>
+<string>48217</string><string>Museo Nazionale Romano</string><string></string><string>MuseoNazionaleRomanoRome.jpg</string><string>41.901634,12.498357</string>
+<string>48218</string><string>National Etruscan Museum (Museo Nazionale di Villa Giulia)</string><string></string><string>NationalEtruscanMuseumMuseoNazionalediVillaGiuliaRome.jpg</string><string>41.918797,12.477797</string>
+<string>48219</string><string>Ponte Sant&amp;apos;Angelo</string><string></string><string>PonteSantAngeloRome.jpg</string><string>41.90191,12.466468</string>
+<string>48220</string><string>Roma dal Cielo Terrazza delle Quadrighe</string><string></string><string>RomadalCieloTerrazzadelleQuadrigheRome.jpg</string><string>41.896034,12.482441</string>
+<string>48221</string><string>Auditorium - Parco della Musica</string><string></string><string>Auditorium-ParcodellaMusicaRome.jpg</string><string>41.929806,12.474235</string>
+<string>48222</string><string>Piazza Venezia</string><string></string><string>PiazzaVeneziaRome.jpg</string><string>41.8960729,12.4824464</string>
+<string>48223</string><string>Palazzo Altemps</string><string></string><string>PalazzoAltempsRome.jpg</string><string>41.9009337,12.4731150</string>
+<string>48224</string><string>Kami Spa</string><string></string><string>KamiSpaRome.jpg</string><string>41.9015141,12.4607737</string>
+<string>48225</string><string>Scala Santa and chapel of San Lorenzo</string><string></string><string>ScalaSantaandchapelofSanLorenzoRome.jpg</string><string>41.9015141,12.4607737</string>
+<string>48226</string><string>Santa Maria d&amp;apos;Aracoeli</string><string></string><string>SantaMariadAracoeliRome.jpg</string><string>41.89406,12.481384</string>
+<string>48227</string><string>Monte Palatino</string><string></string><string>MontePalatinoRome.jpg</string><string>41.887764,12.489907</string>
+<string>48228</string><string>Piazza di Trevi</string><string></string><string>PiazzadiTreviRome.jpg</string><string>41.90096,12.483499</string>
+<string>48229</string><string>Parco degli Acquedotti</string><string></string><string>ParcodegliAcquedottiRome.jpg</string><string>41.86126,12.569562</string>
+<string>48230</string><string>Star Limousine &amp; Services</string><string></string><string>StarLimousine&amp;ServicesRome.jpg</string><string>-33.7989189,151.1151431</string>
+<string>48231</string><string>National Gallery of Modern Art (Galleria Nazionale d&amp;apos;Arte Moderna)</string><string></string><string>NationalGalleryofModernArtGalleriaNazionaledArteModernaRome.jpg</string><string>41.916275,12.482343</string>
+<string>48232</string><string>Vittoriano Museum Complex (Complesso del Vittoriano)</string><string></string><string>VittorianoMuseumComplexComplessodelVittorianoRome.jpg</string><string>41.9015141,12.4607737</string>
+<string>48233</string><string>Appian Way</string><string></string><string>AppianWayRome.jpg</string><string>41.684315,12.778537</string>
+<string>48234</string><string>Santa Croce in Gerusalemme</string><string></string><string>SantaCroceinGerusalemmeRome.jpg</string><string>41.8883931,12.5154823</string>
+<string>48235</string><string>Trinita dei Monti</string><string></string><string>TrinitadeiMontiRome.jpg</string><string>41.90618,12.48326</string>
+<string>48236</string><string>Villa Doria Pamphilj</string><string></string><string>VillaDoriaPamphiljRome.jpg</string><string>41.88739,12.449175</string>
+<string>48237</string><string>Quartiere Coppede</string><string></string><string>QuartiereCoppedeRome.jpg</string><string>41.91888,12.50226</string>
+<string>48238</string><string>Templum Salutis</string><string></string><string>TemplumSalutisRome.jpg</string><string>41.87818,12.54093</string>
+<string>48239</string><string>Catacombs of St. Callixtus (Catacombe di San Callisto)</string><string></string><string>CatacombsofStCallixtusCatacombediSanCallistoRome.jpg</string><string>41.852654,12.519994</string>
+<string>48240</string><string>Santi Quattro Coronati</string><string></string><string>SantiQuattroCoronatiRome.jpg</string><string>41.88875,12.496626</string>
+<string>48241</string><string>Equilibrio Terme</string><string></string><string>EquilibrioTermeRome.jpg</string><string>41.9015141,12.4607737</string>
+<string>48242</string><string>Arch of Constantine (Arco di Constantino)</string><string></string><string>ArchofConstantineArcodiConstantinoRome.jpg</string><string>41.889645,12.49054</string>
+<string>48243</string><string>Terme di Caracalla</string><string></string><string>TermediCaracallaRome.jpg</string><string>41.88052,12.493714</string>
+<string>48244</string><string>Piazza del Popolo</string><string></string><string>PiazzadelPopoloRome.jpg</string><string>41.9106459,12.4760301</string>
+<string>48245</string><string>Victor Emmanuel Memorial</string><string></string><string>VictorEmmanuelMemorialRome.jpg</string><string>41.89615,12.482049</string>
+<string>48246</string><string>The Church of Immaculate Conception</string><string></string><string>TheChurchofImmaculateConceptionRome.jpg</string><string>41.7270030,-79.7264412</string>
+<string>48247</string><string>Catacombe di San Sebastiano</string><string></string><string>CatacombediSanSebastianoRome.jpg</string><string>41.85586,12.51636</string>
+<string>48248</string><string>Villa Medici - Accademia di Francia a Roma</string><string></string><string>VillaMedici-AccademiadiFranciaaRomaRome.jpg</string><string>41.907936,12.482514</string>
+<string>48249</string><string>Church of Santa Cecilia</string><string></string><string>ChurchofSantaCeciliaRome.jpg</string><string>41.8870160,12.4766780</string>
+<string>48250</string><string>Santa Costanza</string><string></string><string>SantaCostanzaRome.jpg</string><string>41.9224520,12.5187361</string>
+<string>48251</string><string>House of Augustus</string><string></string><string>HouseofAugustusRome.jpg</string><string>41.89061,12.488912</string>
+<string>48252</string><string>Palazzo Farnese</string><string></string><string>PalazzoFarneseRome.jpg</string><string>45.054886,9.69654</string>
+<string>48253</string><string>Isola Tiberina</string><string></string><string>IsolaTiberinaRome.jpg</string><string>41.891487,12.477239</string>
+<string>48254</string><string>Jewish Museum of Rome at the Great Synagogue</string><string></string><string>JewishMuseumofRomeattheGreatSynagogueRome.jpg</string><string>41.9015141,12.4607737</string>
+<string>48255</string><string>Church of Santa Maria del Popolo</string><string></string><string>ChurchofSantaMariadelPopoloRome.jpg</string><string>41.9114497,12.4763106</string>
+<string>48256</string><string>Spanish Steps (Piazza di Spagna)</string><string></string><string>SpanishStepsPiazzadiSpagnaRome.jpg</string><string>41.9059416,12.4827565</string>
+<string>48257</string><string>Ponte Milvio</string><string></string><string>PonteMilvioRome.jpg</string><string>41.93547,12.466985</string>
+<string>48258</string><string>Quirinale Palace (Palazzo del Quirinale)</string><string></string><string>QuirinalePalacePalazzodelQuirinaleRome.jpg</string><string>41.8996484,12.4870235</string>
+<string>48259</string><string>Torre Argentina</string><string></string><string>TorreArgentinaRome.jpg</string><string>41.8959460,12.4769157</string>
+<string>48260</string><string>Campo de&amp;apos; Fiori</string><string></string><string>CampodeFioriRome.jpg</string><string>52.3628700,9.8678600</string>
+<string>48261</string><string>Fontana delle Tartarughe</string><string></string><string>FontanadelleTartarugheRome.jpg</string><string>41.8938590,12.4775590</string>
+<string>48262</string><string>Catacombe di Priscilla</string><string></string><string>CatacombediPriscillaRome.jpg</string><string>41.9296893,12.5086603</string>
+<string>48263</string><string>Synagogue</string><string></string><string>SynagogueRome.jpg</string><string>41.89189,12.476352</string>
+<string>48264</string><string>Monumental Cemetery of the Capuchin Brothers (Cimitero Monumentale dei Padri Cappuccini)</string><string></string><string>MonumentalCemeteryoftheCapuchinBrothersCimiteroMonumentaledeiPadriCappucciniRome.jpg</string><string>41.9048816,12.4879186</string>
+<string>48265</string><string>Keats-Shelley House</string><string></string><string>Keats-ShelleyHouseRome.jpg</string><string>41.90579,12.48236</string>
+<string>48266</string><string>Galleria Colonna</string><string></string><string>GalleriaColonnaRome.jpg</string><string>41.897198,12.483269</string>
+<string>48267</string><string>Barcaccia Fountain</string><string></string><string>BarcacciaFountainRome.jpg</string><string>41.9015141,12.4607737</string>
+<string>48268</string><string>Galleria Nazionale di Palazzo Corsini</string><string></string><string>GalleriaNazionalediPalazzoCorsiniRome.jpg</string><string>41.89323,12.466988</string>
+<string>48269</string><string>Via Margutta</string><string></string><string>ViaMarguttaRome.jpg</string><string>41.90924,12.48019</string>
+<string>48270</string><string>Forum of Augustus</string><string></string><string>ForumofAugustusRome.jpg</string><string>41.9015141,12.4607737</string>
+<string>48271</string><string>St Paul&amp;apos;s Within the Walls</string><string></string><string>StPaulsWithintheWallsRome.jpg</string><string>41.901115,12.493829</string>
+<string>48272</string><string>Parco di Villa Pamphilj</string><string></string><string>ParcodiVillaPamphiljRome.jpg</string><string>41.8890952,12.4462482</string>
+<string>48273</string><string>Case Romane del Celio</string><string></string><string>CaseRomanedelCelioRome.jpg</string><string>41.8862922,12.4920404</string>
+<string>48274</string><string>Acqua Madre Hammam</string><string></string><string>AcquaMadreHammamRome.jpg</string><string>41.89292,12.47762</string>
+<string>48275</string><string>Via dei Condotti</string><string></string><string>ViadeiCondottiRome.jpg</string><string>41.905045,12.480123</string>
+<string>48276</string><string>Santa Maria della Concezione</string><string></string><string>SantaMariadellaConcezioneRome.jpg</string><string>41.904995,12.488494</string>
+<string>48277</string><string>Piazza della Rotonda</string><string></string><string>PiazzadellaRotondaRome.jpg</string><string>41.8988610,12.4769306</string>
+<string>48278</string><string>Cul de Sac</string><string></string><string>CuldeSacRome.jpg</string><string>44.1583490,0.7538660</string>
+<string>48279</string><string>Spa at Trilussa Palace Hotel</string><string></string><string>SpaatTrilussaPalaceHotelRome.jpg</string><string>41.9015141,12.4607737</string>
+<string>48280</string><string>Via del Babuino and around</string><string></string><string>ViadelBabuinoandaroundRome.jpg</string><string>41.9015141,12.4607737</string>
+<string>48281</string><string>Parco Savello - Giardino degli Aranci</string><string></string><string>ParcoSavello-GiardinodegliAranciRome.jpg</string><string>41.9015141,12.4607737</string>
+<string>48282</string><string>Chiesa di Sant&amp;apos;Agnese in Agone</string><string></string><string>ChiesadiSantAgneseinAgoneRome.jpg</string><string>41.899025,12.473304</string>
+<string>48283</string><string>La Scala Sancta</string><string></string><string>LaScalaSanctaRome.jpg</string><string>41.8872158,12.5067149</string>
+<string>48284</string><string>Foro Italico</string><string></string><string>ForoItalicoRome.jpg</string><string>41.933292,12.458217</string>
+<string>48285</string><string>Palazzo Venezia</string><string></string><string>PalazzoVeneziaRome.jpg</string><string>41.89617,12.482358</string>
+<string>48286</string><string>Basilica of Maxentius</string><string></string><string>BasilicaofMaxentiusRome.jpg</string><string>41.890587,12.488762</string>
+<string>48287</string><string>Catacombs of St. Domitilla (Catacombe di San Domitilla)</string><string></string><string>CatacombsofStDomitillaCatacombediSanDomitillaRome.jpg</string><string>41.860413,12.504877</string>
+<string>48288</string><string>Capitoline Hill</string><string></string><string>CapitolineHillRome.jpg</string><string>41.9000000,12.4666667</string>
+<string>48289</string><string>Teatro dell&amp;apos;Opera di Roma</string><string></string><string>TeatrodellOperadiRomaRome.jpg</string><string>41.90069,12.495375</string>
+<string>48290</string><string>Sant Andrea della Valle</string><string></string><string>SantAndreadellaValleRome.jpg</string><string>41.896183,12.474675</string>
+<string>48291</string><string>MAXXI - Museo Nazionale Delle Arti del XXI Secolo</string><string></string><string>MAXXI-MuseoNazionaleDelleArtidelXXISecoloRome.jpg</string><string>41.92832,12.467723</string>
+<string>48292</string><string>San Giorgio in Velabro</string><string></string><string>SanGiorgioinVelabroRome.jpg</string><string>41.88944,12.483103</string>
+<string>48293</string><string>Galleria Spada</string><string></string><string>GalleriaSpadaRome.jpg</string><string>41.894154,12.472007</string>
+<string>48294</string><string>Altemps Museum</string><string></string><string>AltempsMuseumRome.jpg</string><string>41.9015141,12.4607737</string>
+<string>48295</string><string>San Lorenzo in Lucina</string><string></string><string>SanLorenzoinLucinaRome.jpg</string><string>41.90345,12.478623</string>
+<string>48296</string><string>Column of Marcus Aurelius</string><string></string><string>ColumnofMarcusAureliusRome.jpg</string><string>41.9015141,12.4607737</string>
+<string>48297</string><string>MACRO - Museo d&amp;apos;Arte Contemporanea</string><string></string><string>MACRO-MuseodArteContemporaneaRome.jpg</string><string>41.8764849,12.4733499</string>
+<string>48298</string><string>San Francesco d&amp;apos;Assisi a Ripa</string><string></string><string>SanFrancescodAssisiaRipaRome.jpg</string><string>43.8073035,11.2905050</string>
+<string>48299</string><string>Chiesa di Santa Maria in Cosmedin</string><string></string><string>ChiesadiSantaMariainCosmedinRome.jpg</string><string>41.888184,12.48147</string>
+<string>48300</string><string>Basilica Di Santa Sabina</string><string></string><string>BasilicaDiSantaSabinaRome.jpg</string><string>41.84685,12.974671</string>
+<string>48301</string><string>Stadio Olimpico</string><string></string><string>StadioOlimpicoRome.jpg</string><string>41.9331077,12.4550783</string>
+<string>48302</string><string>Piazza Bocca della Verita</string><string></string><string>PiazzaBoccadellaVeritaRome.jpg</string><string>41.8885,12.481413</string>
+<string>48303</string><string>Museum of Roman Civilization (Museo della Civilita Romana)</string><string></string><string>MuseumofRomanCivilizationMuseodellaCivilitaRomanaRome.jpg</string><string>41.83131,12.477554</string>
+<string>48304</string><string>Quirinale</string><string></string><string>QuirinaleRome.jpg</string><string>41.901546,12.494992</string>
+<string>48305</string><string>Piazza Barberini</string><string></string><string>PiazzaBarberiniRome.jpg</string><string>41.901432,12.481391</string>
+<string>48306</string><string>Trajan&amp;apos;s Markets</string><string></string><string>TrajansMarketsRome.jpg</string><string>46.6267259,27.0318867</string>
+<string>48307</string><string>Mercati di Traiano - Museo dei Fori Imperiali</string><string></string><string>MercatidiTraiano-MuseodeiForiImperialiRome.jpg</string><string>41.89337,12.487024</string>
+<string>48308</string><string>Roman Walls</string><string></string><string>RomanWallsRome.jpg</string><string>41.8587090,12.4766451</string>
+<string>48309</string><string>Via del Corso</string><string></string><string>ViadelCorsoRome.jpg</string><string>41.9056454,12.4782266</string>
+<string>48310</string><string>Olgiata Golf Club</string><string></string><string>OlgiataGolfClubRome.jpg</string><string>41.9015141,12.4607737</string>
+<string>48311</string><string>Palace of Exhibitions</string><string></string><string>PalaceofExhibitionsRome.jpg</string><string>41.9015141,12.4607737</string>
+<string>48312</string><string>Celio</string><string></string><string>CelioRome.jpg</string><string>41.8833333,12.5000000</string>
+<string>48313</string><string>Antiquarium and Arch of Titus</string><string></string><string>AntiquariumandArchofTitusRome.jpg</string><string>41.890457,12.489223</string>
+<string>48314</string><string>Santi Giovanni e Paolo</string><string></string><string>SantiGiovanniePaoloRome.jpg</string><string>41.174618,14.38812</string>
+<string>48315</string><string>Obelisco della Minerva</string><string></string><string>ObeliscodellaMinervaRome.jpg</string><string>41.897984,12.477304</string>
+<string>48316</string><string>Piazza della Repubblica</string><string></string><string>PiazzadellaRepubblicaRome.jpg</string><string>41.90292,12.49593</string>
+<string>48317</string><string>Roman Hills</string><string></string><string>RomanHillsRome.jpg</string><string>41.890457,12.489223</string>
+<string>48318</string><string>Mouth of Truth</string><string></string><string>MouthofTruthRome.jpg</string><string>41.9015141,12.4607737</string>
+<string>48319</string><string>Church of Santa Maria in Domnica</string><string></string><string>ChurchofSantaMariainDomnicaRome.jpg</string><string>41.8846667,12.4955833</string>
+<string>48320</string><string>Aveda Hair &amp; Beauty</string><string></string><string>AvedaHair&amp;BeautyRome.jpg</string><string></string>
+<string>48321</string><string>Teatro di Roma - Argentina</string><string></string><string>TeatrodiRoma-ArgentinaRome.jpg</string><string>41.9015141,12.4607737</string>
+<string>48322</string><string>Pyramid of Caius Cestius</string><string></string><string>PyramidofCaiusCestiusRome.jpg</string><string>41.8763,12.481449</string>
+<string>48323</string><string>Direzionale Eur</string><string></string><string>DirezionaleEurRome.jpg</string><string>41.9015141,12.4607737</string>
+<string>48324</string><string>Teatro di Marcello</string><string></string><string>TeatrodiMarcelloRome.jpg</string><string>41.892006,12.479141</string>
+<string>48325</string><string>San Pietro in Carcere</string><string></string><string>SanPietroinCarcereRome.jpg</string><string>41.8938044,12.4841794</string>
+<string>48326</string><string>Largo di Torre Argentina</string><string></string><string>LargodiTorreArgentinaRome.jpg</string><string>41.89591,12.476907</string>
+<string>48327</string><string>Mercati Traianei</string><string></string><string>MercatiTraianeiRome.jpg</string><string>41.896236,12.485903</string>
+<string>48328</string><string>Santo Stefano Rotondo</string><string></string><string>SantoStefanoRotondoRome.jpg</string><string>41.8853,12.495832</string>
+<string>48329</string><string>Bioparco</string><string></string><string>BioparcoRome.jpg</string><string>41.9168877,12.4878503</string>
+<string>48330</string><string>Via Condotti</string><string></string><string>ViaCondottiRome.jpg</string><string>41.90497,12.479805</string>
+<string>48331</string><string>Santa Pudenziana</string><string></string><string>SantaPudenzianaRome.jpg</string><string>41.8984189,12.4957794</string>
+<string>48332</string><string>Cancun Centro Benessere Solarium</string><string></string><string>CancunCentroBenessereSolariumRome.jpg</string><string>41.9015141,12.4607737</string>
+<string>48333</string><string>Altar of Peace (Ara Pacis)</string><string></string><string>AltarofPeaceAraPacisRome.jpg</string><string>41.907585,12.474775</string>
+<string>48334</string><string>Villa Aldobrandini</string><string></string><string>VillaAldobrandiniRome.jpg</string><string>41.4485424,12.6265195</string>
+<string>48335</string><string>Fontana del Tritone</string><string></string><string>FontanadelTritoneRome.jpg</string><string>41.9015141,12.4607737</string>
+<string>48336</string><string>Balbi Crypt</string><string></string><string>BalbiCryptRome.jpg</string><string>41.9015141,12.4607737</string>
+<string>48337</string><string>Quattro Fontane</string><string></string><string>QuattroFontaneRome.jpg</string><string>41.901714,12.491377</string>
+<string>48338</string><string>Piazzale Garibaldi</string><string></string><string>PiazzaleGaribaldiRome.jpg</string><string>41.8936921,12.4601296</string>
+<string>48339</string><string>Ostiense</string><string></string><string>OstienseRome.jpg</string><string>41.8767567,12.4809135</string>
+<string>48340</string><string>San Carlo alle Quattro Fontane</string><string></string><string>SanCarloalleQuattroFontaneRome.jpg</string><string>41.9017866,12.4906284</string>
+<string>48341</string><string>Diocletian Bath (Gterme di Diocleziano)and the Octagonal Hall (Aula Ottagona)</string><string></string><string>DiocletianBathGtermediDioclezianoandtheOctagonalHallAulaOttagonaRome.jpg</string><string>41.903015,12.500288</string>
+<string>48342</string><string>Palazzo di Montecitorio</string><string></string><string>PalazzodiMontecitorioRome.jpg</string><string>41.90096,12.478194</string>
+<string>48343</string><string>Sant&amp;apos; Ivo</string><string></string><string>SantIvoRome.jpg</string><string>41.898994,12.474321</string>
+<string>48344</string><string>Ecstasy of Saint Teresa</string><string></string><string>EcstasyofSaintTeresaRome.jpg</string><string>41.90559,12.494674</string>
+<string>48345</string><string>Baja Bikes Rome</string><string></string><string>BajaBikesRomeRome.jpg</string><string>41.9015141,12.4607737</string>
+<string>48346</string><string>Via dei Coronari</string><string></string><string>ViadeiCoronariRome.jpg</string><string>41.9005178,12.4702128</string>
+<string>48347</string><string>Abbazia delle Tre Fontane</string><string></string><string>AbbaziadelleTreFontaneRome.jpg</string><string>41.835308,12.48167</string>
+<string>48348</string><string>San Lorenzo fuori le Mura</string><string></string><string>SanLorenzofuorileMuraRome.jpg</string><string>41.9023118,12.5189387</string>
+<string>48349</string><string>Golden House of Nero (Domus Aurea)</string><string></string><string>GoldenHouseofNeroDomusAureaRome.jpg</string><string>41.8905958,12.4944369</string>
+<string>48350</string><string>Blanco Urbanspa</string><string></string><string>BlancoUrbanspaRome.jpg</string><string>41.9015141,12.4607737</string>
+<string>48351</string><string>Curia</string><string></string><string>CuriaRome.jpg</string><string>41.890472,12.489181</string>
+<string>48352</string><string>Centro benessere El Spa</string><string></string><string>CentrobenessereElSpaRome.jpg</string><string>41.90733,12.46565</string>
+<string>48353</string><string>Via della Conciliazione</string><string></string><string>ViadellaConciliazioneRome.jpg</string><string>41.90329,12.462294</string>
+<string>48354</string><string>Temple of Vesta</string><string></string><string>TempleofVestaRome.jpg</string><string>41.9653,12.801177</string>
+<string>48355</string><string>Museo di Roma</string><string></string><string>MuseodiRomaRome.jpg</string><string>41.9013776,12.5125455</string>
+<string>48356</string><string>Arch of Septimius Severus</string><string></string><string>ArchofSeptimiusSeverusRome.jpg</string><string>41.89378,12.48475</string>
+<string>48357</string><string>National Gallery of Ancient Art</string><string></string><string>NationalGalleryofAncientArtRome.jpg</string><string>41.90255,12.489717</string>
+<string>48358</string><string>Testaccio</string><string></string><string>TestaccioRome.jpg</string><string>41.8826632,12.4753908</string>
+<string>48359</string><string>Aura Benessere Roma</string><string></string><string>AuraBenessereRomaRome.jpg</string><string>41.9015141,12.4607737</string>
+<string>48360</string><string>Via Giulia</string><string></string><string>ViaGiuliaRome.jpg</string><string>41.89747,12.468249</string>
+<string>48361</string><string>L&amp;apos;Arte del Bere</string><string></string><string>LArtedelBereRome.jpg</string><string>34.0566978,-117.1947382</string>
+<string>48362</string><string>Santa Maria della Conceziones Cappuccini</string><string></string><string>SantaMariadellaConcezionesCappucciniRome.jpg</string><string>41.904705,12.488301</string>
+<string>48363</string><string>Domine Quo Vadis</string><string></string><string>DomineQuoVadisRome.jpg</string><string>41.82896,12.546587</string>
+<string>48364</string><string>Sant Agnese fuori le Mura</string><string></string><string>SantAgnesefuorileMuraRome.jpg</string><string>41.922634,12.519178</string>
+<string>48365</string><string>Via Nazionale</string><string></string><string>ViaNazionaleRome.jpg</string><string>41.8996903,12.4916499</string>
+<string>48366</string><string>Santa Maria della Pace</string><string></string><string>SantaMariadellaPaceRome.jpg</string><string>41.8996980,12.4714810</string>
+<string>48367</string><string>Museo di Scultura Antica Giovanni Barracco</string><string></string><string>MuseodiSculturaAnticaGiovanniBarraccoRome.jpg</string><string>41.89688,12.47263</string>
+<string>48368</string><string>Chiesa Nuova</string><string></string><string>ChiesaNuovaRome.jpg</string><string>41.89836,12.469451</string>
+<string>48369</string><string>House of the Vestal Virgins</string><string></string><string>HouseoftheVestalVirginsRome.jpg</string><string>41.890457,12.489223</string>
+<string>48370</string><string>Sant Agostino</string><string></string><string>SantAgostinoRome.jpg</string><string>41.900616,12.47431</string>
+<string>48371</string><string>Palazzo della Cancelleria</string><string></string><string>PalazzodellaCancelleriaRome.jpg</string><string>41.89661,12.471982</string>
+<string>48372</string><string>Via Veneto</string><string></string><string>ViaVenetoRome.jpg</string><string>41.9061311,12.4895720</string>
+<string>48373</string><string>Museo Nazionale d&amp;apos;Arte Orientale &amp;apos;Giuseppe Tucci&amp;apos;</string><string></string><string>MuseoNazionaled&amp;aposArteOrientale&amp;aposGiuseppeTucci&amp;aposRome.jpg</string><string>41.89448,12.50051</string>
+<string>48374</string><string>Cinecitta Studios</string><string></string><string>CinecittaStudiosRome.jpg</string><string>41.85438,12.56696</string>
+</array>
+</plist>

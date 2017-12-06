@@ -1,0 +1,103 @@
+<?xml version=1.0 encoding=UTF-8?>
+<!DOCTYPE plist PUBLIC -//Apple//DTD PLIST 1.0//EN http://www.apple.com/DTDs/PropertyList-1.0.dtd>
+<plist version=1.0>
+<array><string>30701</string><string>Australian War Memorial</string><string></string><string>CanberraAustralia.jpg</string><string>-35.280994,149.14748</string>
+<string>30702</string><string>National Gallery of Australia</string><string></string><string>NationalGalleryofAustraliaCanberra.jpg</string><string></string>
+<string>30703</string><string>Questacon</string><string></string><string>QuestaconCanberra.jpg</string><string>-35.300114,149.13272</string>
+<string>30706</string><string>Museum of Australian Democracy</string><string></string><string>MuseumofAustralianDemocracyCanberra.jpg</string><string></string>
+<string>30707</string><string>Mount Ainslie Lookout</string><string></string><string>MountAinslieLookoutCanberra.jpg</string><string>-35.283207,149.15561</string>
+<string>30708</string><string>Lake Burley Griffin</string><string></string><string>LakeBurleyGriffinCanberra.jpg</string><string>-35.282017,149.12814</string>
+<string>30709</string><string>Canberra Deep Space Communication Complex</string><string></string><string>CanberraDeepSpaceCommunicationComplexCanberra.jpg</string><string>-35.401646,148.9831</string>
+<string>30710</string><string>National Film &amp; Sound Archive</string><string></string><string>NationalFilm&amp;SoundArchiveCanberra.jpg</string><string></string>
+<string>30711</string><string>Australian National Botanic Gardens</string><string></string><string>AustralianNationalBotanicGardensCanberra.jpg</string><string>-35.276936,149.1133</string>
+<string>30712</string><string>National Zoo and Aquarium</string><string></string><string>NationalZooandAquariumCanberra.jpg</string><string></string>
+<string>30713</string><string>Australian Vietnam Forces National Memorial</string><string></string><string>AustralianVietnamForcesNationalMemorialCanberra.jpg</string><string>-35.285843,149.14398</string>
+<string>30714</string><string>Floriade</string><string></string><string>FloriadeCanberra.jpg</string><string>-35.287037,149.12695</string>
+<string>30715</string><string>Commonwealth Park</string><string></string><string>CommonwealthParkCanberra.jpg</string><string>-35.290173,149.13043</string>
+<string>30716</string><string>Cockington Green</string><string></string><string>CockingtonGreenCanberra.jpg</string><string>-35.19175,149.08669</string>
+<string>30717</string><string>National Library of Australia</string><string></string><string>NationalLibraryofAustraliaCanberra.jpg</string><string>-35.29755,149.13512</string>
+<string>30718</string><string>High Court of Australia</string><string></string><string>HighCourtofAustraliaCanberra.jpg</string><string>-35.298996,149.1294</string>
+<string>30719</string><string>Canberra Museum and Gallery</string><string></string><string>CanberraMuseumandGalleryCanberra.jpg</string><string>-35.280796,149.13086</string>
+<string>30720</string><string>Booroomba Rocks Walk</string><string></string><string>BooroombaRocksWalkCanberra.jpg</string><string>-35.36108,149.21835</string>
+<string>30721</string><string>Namadgi National Park</string><string></string><string>NamadgiNationalParkCanberra.jpg</string><string></string>
+<string>30722</string><string>Lanyon Homestead</string><string></string><string>LanyonHomesteadCanberra.jpg</string><string></string>
+<string>30723</string><string>National Archives of Australia</string><string></string><string>NationalArchivesofAustraliaCanberra.jpg</string><string>-35.304733,149.13077</string>
+<string>30724</string><string>National Museum of Australia</string><string></string><string>NationalMuseumofAustraliaCanberra.jpg</string><string>-35.29283,149.12106</string>
+<string>30725</string><string>CSIRO Discovery</string><string></string><string>CSIRODiscoveryCanberra.jpg</string><string>-35.26772,149.11266</string>
+<string>30726</string><string>Australian National University</string><string></string><string>AustralianNationalUniversityCanberra.jpg</string><string>-35.28448,149.11671</string>
+<string>30727</string><string>Canberra Centre</string><string></string><string>CanberraCentreCanberra.jpg</string><string>-35.28003,149.13377</string>
+<string>30728</string><string>National Capital Exhibition</string><string></string><string>NationalCapitalExhibitionCanberra.jpg</string><string>-35.290173,149.13043</string>
+<string>30729</string><string>Captain Cook Memorial Water Jet</string><string></string><string>CaptainCookMemorialWaterJetCanberra.jpg</string><string>-35.290543,149.12982</string>
+<string>30730</string><string>Australian Service Nurses Memorial</string><string></string><string>AustralianServiceNursesMemorialCanberra.jpg</string><string>-35.285843,149.14398</string>
+<string>30731</string><string>National Carillon</string><string></string><string>NationalCarillonCanberra.jpg</string><string>-35.298428,149.14255</string>
+<string>30732</string><string>Telstra Tower</string><string></string><string>TelstraTowerCanberra.jpg</string><string>-35.279358,149.10191</string>
+<string>30733</string><string>Australian Railway Historical Society</string><string></string><string>AustralianRailwayHistoricalSocietyCanberra.jpg</string><string></string>
+<string>30734</string><string>Australian Institute of Sport</string><string></string><string>AustralianInstituteofSportCanberra.jpg</string><string></string>
+<string>30735</string><string>Batemans Bay</string><string></string><string>BatemansBayCanberra.jpg</string><string>-35.28193,149.1285</string>
+<string>30736</string><string>ANZAC Parade Walk</string><string></string><string>ANZACParadeWalkCanberra.jpg</string><string></string>
+<string>30737</string><string>Berrima</string><string></string><string>BerrimaCanberra.jpg</string><string></string>
+<string>30738</string><string>Australian and New Zealand 1916-1918 Memorial</string><string></string><string>AustralianandNewZealand1916-1918MemorialCanberra.jpg</string><string>-35.285843,149.14398</string>
+<string>30739</string><string>Stromlo Forest Park</string><string></string><string>StromloForestParkCanberra.jpg</string><string></string>
+<string>30740</string><string>Canberra Contemporary Art Space</string><string></string><string>CanberraContemporaryArtSpaceCanberra.jpg</string><string>-35.27756,149.13965</string>
+<string>30741</string><string>Australian National Korean War Memorial</string><string></string><string>AustralianNationalKoreanWarMemorialCanberra.jpg</string><string>-35.285843,149.14398</string>
+<string>30742</string><string>Mount Majura Vineyard</string><string></string><string>MountMajuraVineyardCanberra.jpg</string><string></string>
+<string>30743</string><string>Albert Hall</string><string></string><string>AlbertHallCanberra.jpg</string><string>-35.29023,149.12685</string>
+<string>30744</string><string>Calthorpes&amp;apos; House</string><string></string><string>CalthorpesHouseCanberra.jpg</string><string></string>
+<string>30745</string><string>Capital Public Golf Course</string><string></string><string>CapitalPublicGolfCourseCanberra.jpg</string><string></string>
+<string>30746</string><string>Ataturk Memorial garden</string><string></string><string>AtaturkMemorialgardenCanberra.jpg</string><string>-35.285843,149.14398</string>
+<string>30747</string><string>Canberra Stadium</string><string></string><string>CanberraStadiumCanberra.jpg</string><string>-35.249573,149.10223</string>
+<string>30748</string><string>Ginninderra Village</string><string></string><string>GinninderraVillageCanberra.jpg</string><string></string>
+<string>30749</string><string>National Police Memorial</string><string></string><string>NationalPoliceMemorialCanberra.jpg</string><string>-35.299023,149.14406</string>
+<string>30750</string><string>Presbyterian Church of St. Andrew</string><string></string><string>PresbyterianChurchofSt.AndrewCanberra.jpg</string><string>-35.30388,149.12439</string>
+<string>30751</string><string>Royal Australian Air Force Memorial</string><string></string><string>RoyalAustralianAirForceMemorialCanberra.jpg</string><string>-35.285843,149.14398</string>
+<string>30752</string><string>Canberra and Region Visitors Centre</string><string></string><string>CanberraandRegionVisitorsCentreCanberra.jpg</string><string>-35.2555,149.13333</string>
+<string>30753</string><string>ACT Baha&amp;apos;i Centre</string><string></string><string>ACTBahaiCentreCanberra.jpg</string><string></string>
+<string>30754</string><string>Brindabella Valley Trails</string><string></string><string>BrindabellaValleyTrailsCanberra.jpg</string><string></string>
+<string>30755</string><string>Blundells&amp;apos; Cottage</string><string></string><string>BlundellsCottageCanberra.jpg</string><string></string>
+<string>30756</string><string>Canberra Baptist Church</string><string></string><string>CanberraBaptistChurchCanberra.jpg</string><string></string>
+<string>30757</string><string>Black Mountain Nature Park</string><string></string><string>BlackMountainNatureParkCanberra.jpg</string><string>-35.271194,149.10075</string>
+<string>30758</string><string>Australian Army Memorial</string><string></string><string>AustralianArmyMemorialCanberra.jpg</string><string>-35.285843,149.14398</string>
+<string>30759</string><string>Corroboree Park</string><string></string><string>CorroboreeParkCanberra.jpg</string><string>-35.26708,149.14206</string>
+<string>30761</string><string>Captain Cook Memorial Globe</string><string></string><string>CaptainCookMemorialGlobeCanberra.jpg</string><string>-35.2944,149.12688</string>
+<string>30762</string><string>Royal Australian Navy Memorial</string><string></string><string>RoyalAustralianNavyMemorialCanberra.jpg</string><string>-35.285843,149.14398</string>
+<string>30763</string><string>King&amp;apos;s Park</string><string></string><string>KingsParkCanberra.jpg</string><string>-35.30034,149.14488</string>
+<string>30764</string><string>Rats of Tobruk Memorial</string><string></string><string>RatsofTobrukMemorialCanberra.jpg</string><string>-35.285843,149.14398</string>
+<string>30765</string><string>Earth Day Spa</string><string></string><string>EarthDaySpaCanberra.jpg</string><string>-35.28293,149.13481</string>
+<string>30766</string><string>Australian-Hellenic Memorial</string><string></string><string>Australian-HellenicMemorialCanberra.jpg</string><string>-35.285843,149.14398</string>
+<string>30767</string><string>Becker House</string><string></string><string>BeckerHouseCanberra.jpg</string><string></string>
+<string>30768</string><string>Greek Orthodox Church of St Nicholas</string><string></string><string>GreekOrthodoxChurchofStNicholasCanberra.jpg</string><string></string>
+<string>30769</string><string>Canberra Nature Park</string><string></string><string>CanberraNatureParkCanberra.jpg</string><string></string>
+<string>30770</string><string>All Saints Church</string><string></string><string>AllSaintsChurchCanberra.jpg</string><string></string>
+<string>30771</string><string>Big Splash Waterpark</string><string></string><string>BigSplashWaterparkCanberra.jpg</string><string></string>
+<string>30772</string><string>Canberra Railway Museum</string><string></string><string>CanberraRailwayMuseumCanberra.jpg</string><string></string>
+<string>30773</string><string>Canberra City Church</string><string></string><string>CanberraCityChurchCanberra.jpg</string><string>-35.276924,149.12907</string>
+<string>30774</string><string>Australian Reptile Centre</string><string></string><string>AustralianReptileCentreCanberra.jpg</string><string></string>
+<string>30775</string><string>National Convention Center</string><string></string><string>NationalConventionCenterCanberra.jpg</string><string></string>
+<string>30776</string><string>Jerrabomberra Wetland</string><string></string><string>JerrabomberraWetlandCanberra.jpg</string><string></string>
+<string>30777</string><string>Cotter Reserve</string><string></string><string>CotterReserveCanberra.jpg</string><string></string>
+<string>30778</string><string>ACT Legislative Assembly</string><string></string><string>ACTLegislativeAssemblyCanberra.jpg</string><string></string>
+<string>30779</string><string>Corin Dam</string><string></string><string>CorinDamCanberra.jpg</string><string></string>
+<string>30780</string><string>Canberra Merry-Go-Round</string><string></string><string>CanberraMerry-Go-RoundCanberra.jpg</string><string></string>
+<string>30781</string><string>Canberra Bicycle Museum</string><string></string><string>CanberraBicycleMuseumCanberra.jpg</string><string></string>
+<string>30782</string><string>Merchant Navy Memorial</string><string></string><string>MerchantNavyMemorialCanberra.jpg</string><string></string>
+<string>30783</string><string>Corin Forest Mountain Retreat</string><string></string><string>CorinForestMountainRetreatCanberra.jpg</string><string>-35.276077,149.10992</string>
+<string>30784</string><string>ACT Racing Club</string><string></string><string>ACTRacingClubCanberra.jpg</string><string></string>
+<string>30785</string><string>Royal Canberra Golf Club</string><string></string><string>RoyalCanberraGolfClubCanberra.jpg</string><string></string>
+<string>30786</string><string>ANZAC Memorial Chapel of St Paul</string><string></string><string>ANZACMemorialChapelofStPaulCanberra.jpg</string><string></string>
+<string>30787</string><string>ACT National Trust</string><string></string><string>ACTNationalTrustCanberra.jpg</string><string></string>
+<string>30788</string><string>Australian Federal Police Museum</string><string></string><string>AustralianFederalPoliceMuseumCanberra.jpg</string><string></string>
+<string>30789</string><string>Changi Chapel</string><string></string><string>ChangiChapelCanberra.jpg</string><string></string>
+<string>30790</string><string>Canberra Mosque</string><string></string><string>CanberraMosqueCanberra.jpg</string><string></string>
+<string>30791</string><string>Deasland Homestead</string><string></string><string>DeaslandHomesteadCanberra.jpg</string><string></string>
+<string>30792</string><string>Cuppacumbalong Cemetery</string><string></string><string>CuppacumbalongCemeteryCanberra.jpg</string><string></string>
+<string>30793</string><string>Mudd Spa</string><string></string><string>MuddSpaCanberra.jpg</string><string></string>
+<string>30794</string><string>Mt Franklin Chalet</string><string></string><string>MtFranklinChaletCanberra.jpg</string><string></string>
+<string>30795</string><string>Mount Franklin</string><string></string><string>MountFranklinCanberra.jpg</string><string></string>
+<string>30796</string><string>Sakyamuni Buddhist Centre</string><string></string><string>SakyamuniBuddhistCentreCanberra.jpg</string><string></string>
+<string>30797</string><string>Canberra Theatre Centre</string><string></string><string>CanberraTheatreCentreCanberra.jpg</string><string></string>
+<string>30798</string><string>Weston Park</string><string></string><string>WestonParkCanberra.jpg</string><string></string>
+<string>30799</string><string>Palmer Trigonometrical Station</string><string></string><string>PalmerTrigonometricalStationCanberra.jpg</string><string></string>
+<string>30800</string><string>Legacy Park</string><string></string><string>LegacyParkCanberra.jpg</string><string></string>
+<string>30801</string><string>Wattle Park Uniting Church</string><string></string><string>WattleParkUnitingChurchCanberra.jpg</string><string></string>
+</array>
+</plist>

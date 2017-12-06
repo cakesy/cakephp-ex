@@ -1,0 +1,347 @@
+<?xml version=1.0 encoding=UTF-8?>
+<!DOCTYPE plist PUBLIC -//Apple//DTD PLIST 1.0//EN http://www.apple.com/DTDs/PropertyList-1.0.dtd>
+<plist version=1.0>
+<array><string>2126</string><string>Art Institute of Chicago</string><string></string><string>ArtInstituteofChicagoChicagoIllinois.jpg</string><string>41.8795327,-87.6240138</string>
+<string>2128</string><string>Chicago Shakespeare Theater on Navy Pier</string><string></string><string>ChicagoShakespeareTheateronNavyPierChicago.jpg</string><string>41.891205,-87.60621</string>
+<string>2129</string><string>Cloud Gate</string><string></string><string>CloudGateChicago.jpg</string><string>41.882652,-87.62327</string>
+<string>2130</string><string>Lookingglass Theatre Company</string><string></string><string>LookingglassTheatreCompanyChicago.jpg</string><string>41.89738,-87.62409</string>
+<string>2131</string><string>Symphony Center - Chicago Symphony Orchestra</string><string></string><string>SymphonyCenter-ChicagoSymphonyOrchestraChicago.jpg</string><string>41.879017,-87.624466</string>
+<string>2132</string><string>Millennium Park</string><string></string><string>MillenniumParkChicago.jpg</string><string>41.8821051,-87.6229572</string>
+<string>2133</string><string>Lake Michigan</string><string></string><string>LakeMichiganChicago.jpg</string><string>42.014812,-87.600075</string>
+<string>2134</string><string>Museum of Science and Industry</string><string></string><string>MuseumofScienceandIndustryChicago.jpg</string><string>41.791542,-87.58282</string>
+<string>2135</string><string>Chicago Cultural Center</string><string></string><string>ChicagoCulturalCenterChicago.jpg</string><string>41.8834007,-87.6249445</string>
+<string>2136</string><string>Wrigley Field</string><string></string><string>WrigleyFieldChicago.jpg</string><string>41.94821,-87.65597</string>
+<string>2137</string><string>Richard H. Driehaus Museum</string><string></string><string>RichardHDriehausMuseumChicago.jpg</string><string>41.8942334,-87.6265378</string>
+<string>2138</string><string>Holy Name Cathedral</string><string></string><string>HolyNameCathedralChicago.jpg</string><string>41.896034,-87.627785</string>
+<string>2139</string><string>Michigan Avenue</string><string></string><string>MichiganAvenueChicago.jpg</string><string>41.9742050,-87.8682220</string>
+<string>2140</string><string>Goodman Theater</string><string></string><string>GoodmanTheaterChicago.jpg</string><string>41.884773,-87.62985</string>
+<string>2141</string><string>Lyric Opera of Chicago</string><string></string><string>LyricOperaofChicagoChicago.jpg</string><string>41.882225,-87.63704</string>
+<string>2142</string><string>Oriental Institute Museum</string><string></string><string>OrientalInstituteMuseumChicago.jpg</string><string>41.78942,-87.597725</string>
+<string>2143</string><string>John Hancock Center  Observatory</string><string></string><string>JohnHancockCenterObservatoryChicago.jpg</string><string>41.898422,-87.624054</string>
+<string>2144</string><string>North Michigan Avenue</string><string></string><string>NorthMichiganAvenueChicago.jpg</string><string>41.887768,-87.62455</string>
+<string>2146</string><string>Garfield Park Conservatory</string><string></string><string>GarfieldParkConservatoryChicago.jpg</string><string>41.886112,-87.71744</string>
+<string>2147</string><string>Lincoln Park Zoo</string><string></string><string>LincolnParkZooChicago.jpg</string><string>41.9208903,-87.6329172</string>
+<string>2148</string><string>The Field Museum</string><string></string><string>TheFieldMuseumChicago.jpg</string><string>41.8661130,-87.6172935</string>
+<string>2149</string><string>Michigan Avenue Bridge</string><string></string><string>MichiganAvenueBridgeChicago.jpg</string><string>41.88839,-87.62443</string>
+<string>2150</string><string>Chicago Theatre</string><string></string><string>ChicagoTheatreChicago.jpg</string><string>41.8832090,-87.6286620</string>
+<string>2151</string><string>The Rookery</string><string></string><string>TheRookeryChicago.jpg</string><string>41.5326771,-88.1765903</string>
+<string>2152</string><string>National Museum of Mexican Art</string><string></string><string>NationalMuseumofMexicanArtChicago.jpg</string><string>41.8559530,-87.6729609</string>
+<string>2153</string><string>Buckingham Fountain</string><string></string><string>BuckinghamFountainChicago.jpg</string><string>41.8757880,-87.6189407</string>
+<string>2154</string><string>Willis Tower</string><string></string><string>WillisTowerChicago.jpg</string><string>41.8788661,-87.6355101</string>
+<string>2155</string><string>Lincoln Park Conservatory</string><string></string><string>LincolnParkConservatoryChicago.jpg</string><string>41.924603,-87.715645</string>
+<string>2156</string><string>Chicago Children&amp;apos;s Museum</string><string></string><string>ChicagoChildrensMuseumChicago.jpg</string><string>41.8913360,-87.6091410</string>
+<string>2157</string><string>Picasso Statue</string><string></string><string>PicassoStatueChicago.jpg</string><string>41.883167,-87.62943</string>
+<string>2158</string><string>Ravinia Festival</string><string></string><string>RaviniaFestivalChicago.jpg</string><string>42.155434,-87.78003</string>
+<string>2159</string><string>Chicago Water Taxi</string><string></string><string>ChicagoWaterTaxiChicago.jpg</string><string>41.888187,-87.625694</string>
+<string>2160</string><string>United Center</string><string></string><string>UnitedCenterChicago.jpg</string><string>41.88062,-87.67384</string>
+<string>2161</string><string>Supernatural Chicago</string><string></string><string>SupernaturalChicagoChicago.jpg</string><string>41.89343,-87.62971</string>
+<string>2162</string><string>The Magnificent Mile</string><string></string><string>TheMagnificentMileChicago.jpg</string><string>41.8897252,-87.6240369</string>
+<string>2163</string><string>TimeLine Theatre</string><string></string><string>TimeLineTheatreChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2164</string><string>Fourth Presbyterian Church</string><string></string><string>FourthPresbyterianChurchChicago.jpg</string><string>41.89872,-87.624535</string>
+<string>2165</string><string>Andersonville</string><string></string><string>AndersonvilleChicago.jpg</string><string>41.976215,-87.66838</string>
+<string>2167</string><string>Chicago Opera Theater</string><string></string><string>ChicagoOperaTheaterChicago.jpg</string><string>41.8858,-87.626335</string>
+<string>2168</string><string>The Loop</string><string></string><string>TheLoopChicago.jpg</string><string>41.87226,-87.62915</string>
+<string>2169</string><string>Tommy Gun&amp;apos;s Garage</string><string></string><string>TommyGunsGarageChicago.jpg</string><string>41.853523,-87.625534</string>
+<string>2170</string><string>The Peggy Notebaert Nature Museum</string><string></string><string>ThePeggyNotebaertNatureMuseumChicago.jpg</string><string>41.9268032,-87.6353216</string>
+<string>2171</string><string>Smith Museum of Stained Glass Windows</string><string></string><string>SmithMuseumofStainedGlassWindowsChicago.jpg</string><string>41.869617,-87.64935</string>
+<string>2172</string><string>University of Chicago</string><string></string><string>UniversityofChicagoChicago.jpg</string><string>41.789356,-87.59756</string>
+<string>2173</string><string>Soldier Field</string><string></string><string>SoldierFieldChicago.jpg</string><string>41.86378,-87.61453</string>
+<string>2174</string><string>Harold Washington Library Center</string><string></string><string>HaroldWashingtonLibraryCenterChicago.jpg</string><string>41.87609,-87.62781</string>
+<string>2175</string><string>Grant Park</string><string></string><string>GrantParkChicago.jpg</string><string>41.8727620,-87.6211061</string>
+<string>2176</string><string>Shedd Aquarium</string><string></string><string>SheddAquariumChicago.jpg</string><string>41.8675994,-87.6140141</string>
+<string>2177</string><string>US Cellular Field</string><string></string><string>USCellularFieldChicago.jpg</string><string>41.83022,-87.63454</string>
+<string>2178</string><string>Chicago Board of Trade Building</string><string></string><string>ChicagoBoardofTradeBuildingChicago.jpg</string><string>41.87804,-87.63207</string>
+<string>2179</string><string>Oriental Theatre, Ford Center for the Performing Arts</string><string></string><string>OrientalTheatreFordCenterforthePerformingArtsChicago.jpg</string><string>41.884323,-87.62867</string>
+<string>2180</string><string>Apollo Theater Chicago</string><string></string><string>ApolloTheaterChicagoChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2181</string><string>Wrigley View Rooftop</string><string></string><string>WrigleyViewRooftopChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2182</string><string>Old Town School of Folk Music</string><string></string><string>OldTownSchoolofFolkMusicChicago.jpg</string><string>41.9642362,-87.6860411</string>
+<string>2183</string><string>Navy Pier</string><string></string><string>NavyPierChicago.jpg</string><string>41.8916695,-87.6093485</string>
+<string>2184</string><string>Chicago History Museum</string><string></string><string>ChicagoHistoryMuseumChicago.jpg</string><string>41.91119,-87.63162</string>
+<string>2185</string><string>Joffrey Ballet of Chicago</string><string></string><string>JoffreyBalletofChicagoChicago.jpg</string><string>41.885773,-87.62996</string>
+<string>2186</string><string>Robie House</string><string></string><string>RobieHouseChicago.jpg</string><string>41.7897177,-87.5957723</string>
+<string>2187</string><string>Northerly Island</string><string></string><string>NortherlyIslandChicago.jpg</string><string>41.8632,-87.60918</string>
+<string>2188</string><string>Wicker Park</string><string></string><string>WickerParkChicago.jpg</string><string>41.90747,-87.6774</string>
+<string>2189</string><string>Alfred Caldwell Lily Pool</string><string></string><string>AlfredCaldwellLilyPoolChicago.jpg</string><string>41.9249576,-87.6339077</string>
+<string>2190</string><string>Oak Street Beach</string><string></string><string>OakStreetBeachChicago.jpg</string><string>41.90284,-87.62243</string>
+<string>2191</string><string>The Newberry Library</string><string></string><string>TheNewberryLibraryChicago.jpg</string><string>41.89972,-87.6305</string>
+<string>2192</string><string>North Avenue Beach</string><string></string><string>NorthAvenueBeachChicago.jpg</string><string>41.88015,-87.61744</string>
+<string>2193</string><string>Steppenwolf Theatre Company</string><string></string><string>SteppenwolfTheatreCompanyChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2194</string><string>Court Theater</string><string></string><string>CourtTheaterChicago.jpg</string><string>41.7940014,-87.6008553</string>
+<string>2195</string><string>Wrigley Building</string><string></string><string>WrigleyBuildingChicago.jpg</string><string>41.88953,-87.62441</string>
+<string>2196</string><string>Hyde Park</string><string></string><string>HydeParkChicago.jpg</string><string>41.794327,-87.593056</string>
+<string>2197</string><string>Smart Museum of Art</string><string></string><string>SmartMuseumofArtChicago.jpg</string><string>41.7935080,-87.6001963</string>
+<string>2198</string><string>Macy&amp;apos;s on State Street</string><string></string><string>MacysonStateStreetChicago.jpg</string><string>41.88366,-87.62784</string>
+<string>2199</string><string>Oak Street</string><string></string><string>OakStreetChicago.jpg</string><string>41.90074,-87.627</string>
+<string>2200</string><string>Auditorium Theatre</string><string></string><string>AuditoriumTheatreChicago.jpg</string><string>41.875862,-87.62526</string>
+<string>2201</string><string>Graceland Cemetery</string><string></string><string>GracelandCemeteryChicago.jpg</string><string>41.955406,-87.661476</string>
+<string>2202</string><string>Greektown</string><string></string><string>GreektownChicago.jpg</string><string>41.76955,-87.64444</string>
+<string>2203</string><string>Tribune Tower</string><string></string><string>TribuneTowerChicago.jpg</string><string>41.8904222,-87.6238595</string>
+<string>2204</string><string>Marquette Building</string><string></string><string>MarquetteBuildingChicago.jpg</string><string>41.5267873,-88.1206298</string>
+<string>2205</string><string>Victory Gardens Theater</string><string></string><string>VictoryGardensTheaterChicago.jpg</string><string>41.926414,-87.64992</string>
+<string>2206</string><string>Merchandise Mart</string><string></string><string>MerchandiseMartChicago.jpg</string><string>41.88856,-87.634964</string>
+<string>2207</string><string>Valeo</string><string></string><string>ValeoChicago.jpg</string><string>41.9701980,-87.6505990</string>
+<string>2208</string><string>Ohio Street Beach</string><string></string><string>OhioStreetBeachChicago.jpg</string><string>41.893524,-87.612915</string>
+<string>2209</string><string>Boystown</string><string></string><string>BoystownChicago.jpg</string><string>41.9427069,-87.6457807</string>
+<string>2210</string><string>Reliance Building (Hotel Burnham)</string><string></string><string>RelianceBuildingHotelBurnhamChicago.jpg</string><string>41.88322,-87.62788</string>
+<string>2211</string><string>The Moody Church</string><string></string><string>TheMoodyChurchChicago.jpg</string><string>41.911617,-87.63283</string>
+<string>2212</string><string>The Annoyance - Theatre &amp; Bar</string><string></string><string>TheAnnoyanceTheatreBarChicago.jpg</string><string>41.96981,-87.65971</string>
+<string>2213</string><string>Royal George Theater</string><string></string><string>RoyalGeorgeTheaterChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2214</string><string>The McCormick Bridgehouse &amp; Chicago River Museum</string><string></string><string>TheMcCormickBridgehouseChicagoRiverMuseumChicagoIllinois.jpg</string><string>41.86953,-87.64955</string>
+<string>2215</string><string>Windy</string><string></string><string>WindyChicago.jpg</string><string>41.89772,-87.62571</string>
+<string>2216</string><string>Harris Theater</string><string></string><string>HarrisTheaterChicagoIllinois.jpg</string><string></string>
+<string>2217</string><string>Daley Bicentennial Plaza</string><string></string><string>DaleyBicentennialPlazaChicagoIllinois.jpg</string><string>41.883884,-87.6193</string>
+<string>2218</string><string>Monadnock Building</string><string></string><string>MonadnockBuildingChicago.jpg</string><string>41.87816,-87.629524</string>
+<string>2219</string><string>Adler Planetarium</string><string></string><string>AdlerPlanetariumChicagoIllinois.jpg</string><string>41.866386,-87.60724</string>
+<string>2220</string><string>Crown Fountain</string><string></string><string>CrownFountainChicagoIllinois.jpg</string><string>41.4727390,-87.3988576</string>
+<string>2221</string><string>Chicago Temple</string><string></string><string>ChicagoTempleChicagoIllinois.jpg</string><string>41.882504,-87.63052</string>
+<string>2222</string><string>Fine Arts Building</string><string></string><string>FineArtsBuildingChicagoIllinois.jpg</string><string>41.87646,-87.62437</string>
+<string>2223</string><string>Kids on the Fly, Chicago Children&amp;apos;s Museum at O&amp;apos;Hare</string><string></string><string>KidsontheFlyChicagoChildrenapossMuseumatOaposHareChicagoIllinois.jpg</string><string></string>
+<string>2224</string><string>Lincoln Park Massage Spa</string><string></string><string>LincolnParkMassageSpaChicago.jpg</string><string>41.92196,-87.64497</string>
+<string>2225</string><string>Chicago Pedway</string><string></string><string>ChicagoPedwayChicago.jpg</string><string>41.8843932,-87.6267028</string>
+<string>2226</string><string>Chicago Waterworks Visitors Center</string><string></string><string>ChicagoWaterworksVisitorsCenterChicago.jpg</string><string>41.8973737,-87.6238581</string>
+<string>2227</string><string>Financial District</string><string></string><string>FinancialDistrictChicago.jpg</string><string>41.882034,-87.633514</string>
+<string>2228</string><string>Rosehill Cemetery</string><string></string><string>RosehillCemeteryChicago.jpg</string><string>41.986977,-87.675186</string>
+<string>2229</string><string>Spa Space</string><string></string><string>SpaSpaceChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2230</string><string>Provision Theater</string><string></string><string>ProvisionTheaterChicago.jpg</string><string>41.8663010,-87.6515870</string>
+<string>2231</string><string>The Dinner Detective Murder Mystery Dinner Show</string><string></string><string>TheDinnerDetectiveMurderMysteryDinnerShowChicago.jpg</string><string>41.899815,-87.62267</string>
+<string>2232</string><string>Union Station</string><string></string><string>UnionStationChicago.jpg</string><string>41.878624,-87.64043</string>
+<string>2233</string><string>DuSable Museum of African American History</string><string></string><string>DuSableMuseumofAfricanAmericanHistoryChicago.jpg</string><string>41.7917127,-87.6069868</string>
+<string>2234</string><string>Pilsen</string><string></string><string>PilsenChicago.jpg</string><string>41.85915,-87.646835</string>
+<string>2235</string><string>Museum of Contemporary Art</string><string></string><string>MuseumofContemporaryArtChicago.jpg</string><string>41.897015,-87.62176</string>
+<string>2236</string><string>McCormick Place</string><string></string><string>McCormickPlaceChicago.jpg</string><string>41.851994,-87.61263</string>
+<string>2237</string><string>Spa at Four Seasons Hotel Chicago</string><string></string><string>SpaatFourSeasonsHotelChicagoChicago.jpg</string><string></string>
+<string>2238</string><string>Chinatown</string><string></string><string>ChinatownChicago.jpg</string><string>41.85382,-87.63415</string>
+<string>2239</string><string>Noble Horse Theater</string><string></string><string>NobleHorseTheaterChicago.jpg</string><string>41.907887,-87.63741</string>
+<string>2240</string><string>Printers Row</string><string></string><string>PrintersRowChicago.jpg</string><string>41.8735477,-87.6291268</string>
+<string>2241</string><string>Balzekas Museum of Lithuanian Culture</string><string></string><string>BalzekasMuseumofLithuanianCultureChicago.jpg</string><string>41.77386,-87.72287</string>
+<string>2242</string><string>Harborside International Golf Center</string><string></string><string>HarborsideInternationalGolfCenterChicago.jpg</string><string>41.693455,-87.59639</string>
+<string>2243</string><string>The Murder Mystery Company</string><string></string><string>TheMurderMysteryCompanyChicago.jpg</string><string>41.94692,-87.65398</string>
+<string>2244</string><string>Milton Lee Olive Park</string><string></string><string>MiltonLeeOliveParkChicago.jpg</string><string>41.893227,-87.614655</string>
+<string>2245</string><string>Gorilla Tango Theatre</string><string></string><string>GorillaTangoTheatreChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2246</string><string>Carbide and Carbon Building</string><string></string><string>CarbideandCarbonBuildingChicago.jpg</string><string>41.88621,-87.62452</string>
+<string>2247</string><string>The Spa at Trump Chicago</string><string></string><string>TheSpaatTrumpChicagoChicago.jpg</string><string>41.888687,-87.62694</string>
+<string>2248</string><string>Lincoln Hall</string><string></string><string>LincolnHallChicago.jpg</string><string>41.869637,-87.64955</string>
+<string>2249</string><string>Pullman Historic District</string><string></string><string>PullmanHistoricDistrictChicago.jpg</string><string>41.691372,-87.60965</string>
+<string>2250</string><string>Willow Creek Chicago</string><string></string><string>WillowCreekChicagoChicago.jpg</string><string>41.8763524,-87.6262975</string>
+<string>2251</string><string>Jane Addams&amp;apos; Hull-House Museum</string><string></string><string>JaneAddamsHull-HouseMuseumChicago.jpg</string><string>29.5736072,-98.2827602</string>
+<string>2252</string><string>Lifeline Theatre</string><string></string><string>LifelineTheatreChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2253</string><string>Montrose Beach</string><string></string><string>MontroseBeachChicago.jpg</string><string>41.9663310,-87.6372333</string>
+<string>2254</string><string>Daley Center</string><string></string><string>DaleyCenterChicago.jpg</string><string>41.884148,-87.63017</string>
+<string>2255</string><string>Swedish American Museum</string><string></string><string>SwedishAmericanMuseumChicago.jpg</string><string>41.97671,-87.668274</string>
+<string>2256</string><string>American Police Center &amp; Museum</string><string></string><string>AmericanPoliceCenter&amp;MuseumChicago.jpg</string><string>38.6994268,-77.7884979</string>
+<string>2257</string><string>St. James Cathedral</string><string></string><string>StJamesCathedralChicago.jpg</string><string>41.89486,-87.6261</string>
+<string>2258</string><string>Clark Street</string><string></string><string>ClarkStreetChicago.jpg</string><string>41.89139,-87.63079</string>
+<string>2259</string><string>Nature Museum of the Chicago Academy of Sciences</string><string></string><string>NatureMuseumoftheChicagoAcademyofSciencesChicago.jpg</string><string>42.0140290,-87.6749628</string>
+<string>2260</string><string>Osaka Gardens</string><string></string><string>OsakaGardensChicago.jpg</string><string>41.7864273,-87.5829635</string>
+<string>2261</string><string>Trapeze School New York</string><string></string><string>TrapezeSchoolNewYorkChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2262</string><string>Remy Bumppo Theatre Company</string><string></string><string>RemyBumppoTheatreCompanyChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2263</string><string>Willie Dixon&amp;apos;s Blues Heaven Foundation</string><string></string><string>WillieDixonsBluesHeavenFoundationChicago.jpg</string><string>31.8296870,-81.5098241</string>
+<string>2264</string><string>Showplace Icon Theatre</string><string></string><string>ShowplaceIconTheatreChicago.jpg</string><string>41.86918,-87.63273</string>
+<string>2265</string><string>Wrigley Field Rooftop Club</string><string></string><string>WrigleyFieldRooftopClubChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2266</string><string>MySpa</string><string></string><string>MySpaChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2267</string><string>St. John Cantius Church</string><string></string><string>StJohnCantiusChurchChicago.jpg</string><string>41.8968248,-87.6533642</string>
+<string>2268</string><string>Our Lady of Sorrows Basilica</string><string></string><string>OurLadyofSorrowsBasilicaChicago.jpg</string><string>41.87698,-87.703964</string>
+<string>2269</string><string>Forever Marilyn</string><string></string><string>ForeverMarilynChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2270</string><string>Chicago Fed Visitors Center</string><string></string><string>ChicagoFedVisitorsCenterChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2271</string><string>The East Bank Club</string><string></string><string>TheEastBankClubChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2272</string><string>Biograph Theatre</string><string></string><string>BiographTheatreChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2273</string><string>Bloomingdale&amp;apos;s Home + Furniture</string><string></string><string>BloomingdaleapossHomeFurnitureChicago.jpg</string><string>41.89253,-87.62678</string>
+<string>2274</string><string>Holy Trinity Russian Orthodox Cathedral</string><string></string><string>HolyTrinityRussianOrthodoxCathedralChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2275</string><string>Edgewater Beach Hotel</string><string></string><string>EdgewaterBeachHotelChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2276</string><string>Pritzker Military Library</string><string></string><string>PritzkerMilitaryLibraryChicago.jpg</string><string>41.8806225,-87.6246818</string>
+<string>2277</string><string>Truefitt &amp; Hill</string><string></string><string>TruefittHillChicago.jpg</string><string></string>
+<string>2278</string><string>McCormick Tribune Plaza and Ice Rink</string><string></string><string>McCormickTribunePlazaandIceRinkChicago.jpg</string><string>41.88316,-87.624214</string>
+<string>2279</string><string>Spa at the Peninsula Chicago</string><string></string><string>SpaatthePeninsulaChicagoChicago.jpg</string><string>41.89574,-87.624176</string>
+<string>2280</string><string>Annunciation Greek Orthodox Cathedral</string><string></string><string>AnnunciationGreekOrthodoxCathedralChicago.jpg</string><string>41.9000328,-87.6325530</string>
+<string>2281</string><string>Oxygen Spa Studio</string><string></string><string>OxygenSpaStudioChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2282</string><string>Historic Pullman Foundation Visitor Center</string><string></string><string>HistoricPullmanFoundationVisitorCenterChicago.jpg</string><string>41.6913850,-87.6096830</string>
+<string>2283</string><string>Glessner House Museum</string><string></string><string>GlessnerHouseMuseumChicago.jpg</string><string>41.857784,-87.621284</string>
+<string>2284</string><string>Architectural Artifacts, Inc</string><string></string><string>ArchitecturalArtifactsIncChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2285</string><string>South Pond</string><string></string><string>SouthPondChicago.jpg</string><string>41.9171844,-87.6326740</string>
+<string>2286</string><string>Urban Oasis</string><string></string><string>UrbanOasisChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2287</string><string>Elizabeth Arden Red Door Spa</string><string></string><string>ElizabethArdenRedDoorSpaChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2288</string><string>Foster Avenue Beach</string><string></string><string>FosterAvenueBeachChicago.jpg</string><string>41.977634,-87.64877</string>
+<string>2289</string><string>UIC Pavilion</string><string></string><string>UICPavilionChicago.jpg</string><string>41.8748466,-87.6562310</string>
+<string>2290</string><string>Black Ensemble Theatre</string><string></string><string>BlackEnsembleTheatreChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2291</string><string>Kendall College</string><string></string><string>KendallCollegeChicago.jpg</string><string>41.8987930,-87.6488070</string>
+<string>2292</string><string>Auditorium Building</string><string></string><string>AuditoriumBuildingChicago.jpg</string><string>41.876545,-87.624344</string>
+<string>2293</string><string>National Veterans Art Museum</string><string></string><string>NationalVeteransArtMuseumChicago.jpg</string><string>41.8576823,-87.6219919</string>
+<string>2294</string><string>Neo-Futurists</string><string></string><string>Neo-FuturistsChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2295</string><string>Marina City</string><string></string><string>MarinaCityChicago.jpg</string><string>41.88819,-87.628586</string>
+<string>2296</string><string>Metro</string><string></string><string>MetroChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2297</string><string>Devon Avenue</string><string></string><string>DevonAvenueChicago.jpg</string><string>41.995388,-87.87585</string>
+<string>2298</string><string>Chicago Arts District</string><string></string><string>ChicagoArtsDistrictChicago.jpg</string><string>41.9587398,-87.7876880</string>
+<string>2299</string><string>Museum of Holography,</string><string></string><string>MuseumofHolographyChicago.jpg</string><string>41.8832280,-87.6557890</string>
+<string>2300</string><string>Exhale Spa</string><string></string><string>ExhaleSpaChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2301</string><string>Lake Shore Place</string><string></string><string>LakeShorePlaceChicago.jpg</string><string>41.8259833,-87.6006547</string>
+<string>2302</string><string>HBTV Hearty Boys</string><string></string><string>HBTVHeartyBoysChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2303</string><string>Diana&amp;apos;s Nail and Spa</string><string></string><string>DianasNailandSpaChicago.jpg</string><string>41.88486,-87.63537</string>
+<string>2304</string><string>Navy Pier Festival Hall Complex</string><string></string><string>NavyPierFestivalHallComplexChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2305</string><string>Prairie Avenue Historic District</string><string></string><string>PrairieAvenueHistoricDistrictChicago.jpg</string><string>41.8572885,-87.6229572</string>
+<string>2306</string><string>Loyola University Museum of Art (LUMA)</string><string></string><string>LoyolaUniversityMuseumofArtLUMAChicago.jpg</string><string>41.897385,-87.624886</string>
+<string>2307</string><string>Galos Caves</string><string></string><string>GalosCavesChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2308</string><string>St. Clements Church</string><string></string><string>StClementsChurchChicago.jpg</string><string>41.9280880,-87.6461654</string>
+<string>2309</string><string>James R. Thompson Center</string><string></string><string>JamesRThompsonCenterChicago.jpg</string><string>41.88447,-87.63167</string>
+<string>2310</string><string>Ukrainian Village</string><string></string><string>UkrainianVillageChicago.jpg</string><string>41.892803,-87.67709</string>
+<string>2311</string><string>Tiffani Kim Institute</string><string></string><string>TiffaniKimInstituteChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2312</string><string>Channing&amp;apos;s Day Spa</string><string></string><string>ChanningsDaySpaChicago.jpg</string><string>35.6836536,-102.3301953</string>
+<string>2313</string><string>Charnley-Persky House</string><string></string><string>Charnley-PerskyHouseChicago.jpg</string><string>41.9073,-87.62759</string>
+<string>2314</string><string>Seneca Park</string><string></string><string>SenecaParkChicago.jpg</string><string>41.8970912,-87.6222188</string>
+<string>2315</string><string>Vietnam Veterans Fountain</string><string></string><string>VietnamVeteransFountainChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2316</string><string>Drexel Fountain</string><string></string><string>DrexelFountainChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2317</string><string>International Museum of Surgical Science</string><string></string><string>InternationalMuseumofSurgicalScienceChicago.jpg</string><string>41.910294,-87.62649</string>
+<string>2318</string><string>Noble Fool Theater</string><string></string><string>NobleFoolTheaterChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2319</string><string>Maxwell Street</string><string></string><string>MaxwellStreetChicago.jpg</string><string>41.8647574,-87.6481478</string>
+<string>2320</string><string>Pump It Up Party Zone</string><string></string><string>PumpItUpPartyZoneChicago.jpg</string><string>42.0513120,-88.0805360</string>
+<string>2321</string><string>McCormick Freedom Project</string><string></string><string>McCormickFreedomProjectChicagoIllinois.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2322</string><string>Sir Spa</string><string></string><string>SirSpaChicagoIllinois.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2323</string><string>Arie Crown Theater</string><string></string><string>ArieCrownTheaterChicago.jpg</string><string>41.8519358,-87.6116954</string>
+<string>2324</string><string>Day Frog</string><string></string><string>DayFrogChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2325</string><string>Bohemian National Cemetery</string><string></string><string>BohemianNationalCemeteryChicagoIllinois.jpg</string><string>41.797688,-87.72313</string>
+<string>2326</string><string>Holy Trinity Polish Church</string><string></string><string>HolyTrinityPolishChurchChicagoIllinois.jpg</string><string>41.9023130,-87.6627184</string>
+<string>2327</string><string>Museum of Contemporary Photography</string><string></string><string>MuseumofContemporaryPhotographyChicagoIllinois.jpg</string><string>41.8742260,-87.6245060</string>
+<string>2328</string><string>Remy Bumpo Theatre Company</string><string></string><string>RemyBumpoTheatreCompanyChicagoIllinois.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2329</string><string>Fountain of Time</string><string></string><string>FountainofTimeChicagoIllinois.jpg</string><string>41.787544,-87.60591</string>
+<string>2330</string><string>333 West Wacker Drive</string><string></string><string>333WestWackerDriveChicagoIllinois.jpg</string><string>41.88641,-87.63595</string>
+<string>2331</string><string>Argyle street</string><string></string><string>ArgylestreetChicago.jpg</string><string>41.9716706,-87.7478894</string>
+<string>2332</string><string>God Bless America Statue Chicago</string><string></string><string>GodBlessAmericaStatueChicagoChicago.jpg</string><string>41.96928,-87.868416</string>
+<string>2333</string><string>Continuum Studio</string><string></string><string>ContinuumStudioChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2334</string><string>National Hellenic Museum</string><string></string><string>NationalHellenicMuseumChicago.jpg</string><string>41.8771265,-87.6470881</string>
+<string>2335</string><string>Gompers Park</string><string></string><string>GompersParkChicago.jpg</string><string>41.9754946,-87.7348660</string>
+<string>2336</string><string>Museum of Broadcast Communications</string><string></string><string>MuseumofBroadcastCommunicationsChicago.jpg</string><string>41.8890237,-87.6282804</string>
+<string>2337</string><string>Pilgrim Baptist Church</string><string></string><string>PilgrimBaptistChurchChicago.jpg</string><string>41.8345733,-87.6219557</string>
+<string>2338</string><string>Polish Museum of America</string><string></string><string>PolishMuseumofAmericaChicago.jpg</string><string>41.899773,-87.66098</string>
+<string>2339</string><string>LaSalle Street Church</string><string></string><string>LaSalleStreetChurchChicago.jpg</string><string>41.9029797,-87.6330793</string>
+<string>2340</string><string>HotHouse</string><string></string><string>HotHouseChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2341</string><string>Amazing Chicago&amp;apos;s Funhouse Maze</string><string></string><string>AmazingChicagosFunhouseMazeChicago.jpg</string><string>41.8912693,-87.6049604</string>
+<string>2342</string><string>Oak Woods Cemetery</string><string></string><string>OakWoodsCemeteryChicago.jpg</string><string>41.773045,-87.599594</string>
+<string>2343</string><string>Studio 110</string><string></string><string>Studio110Chicago.jpg</string><string>-34.8630315,-58.0588923</string>
+<string>2344</string><string>Kathy Osterman Beach</string><string></string><string>KathyOstermanBeachChicago.jpg</string><string>41.9861856,-87.6519968</string>
+<string>2345</string><string>St. Hyacinth Basilica</string><string></string><string>StHyacinthBasilicaChicago.jpg</string><string>41.9329243,-87.7180455</string>
+<string>2346</string><string>About Face Theater</string><string></string><string>AboutFaceTheaterChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2347</string><string>Spertus Institute of Jewish Studies</string><string></string><string>SpertusInstituteofJewishStudiesChicago.jpg</string><string>41.8740242,-87.6244745</string>
+<string>2348</string><string>Chicago Center for the Performing Arts</string><string></string><string>ChicagoCenterforthePerformingArtsChicago.jpg</string><string>41.8958128,-87.6487895</string>
+<string>2349</string><string>Dearborn Station</string><string></string><string>DearbornStationChicago.jpg</string><string>41.8720925,-87.6294633</string>
+<string>2350</string><string>Chicago Mercantile Exchange (CME)</string><string></string><string>ChicagoMercantileExchangeCMEChicago.jpg</string><string>41.88167,-87.637</string>
+<string>2351</string><string>Trap Door Theatre</string><string></string><string>TrapDoorTheatreChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2352</string><string>Art &amp; Science Salons</string><string></string><string>Art&amp;ScienceSalonsChicago.jpg</string><string>43.9916670,-76.0216669</string>
+<string>2353</string><string>Two Brothers Sailing Adventures Day Tours</string><string></string><string>TwoBrothersSailingAdventuresDayToursChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2354</string><string>Mon Ami Coiffeur</string><string></string><string>MonAmiCoiffeurChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2355</string><string>Monument with Standing Beast</string><string></string><string>MonumentwithStandingBeastChicago.jpg</string><string>41.884434,-87.63097</string>
+<string>2356</string><string>Kiva</string><string></string><string>KivaChicago.jpg</string><string>60.9951872,25.6624524</string>
+<string>2357</string><string>Spa La La</string><string></string><string>SpaLaLaChicago.jpg</string><string>41.917976,-87.68535</string>
+<string>2358</string><string>Lake Point Tower</string><string></string><string>LakePointTowerChicago.jpg</string><string>41.89194,-87.6129</string>
+<string>2359</string><string>St. Nicholas Ukrainian Catholic Cathedral</string><string></string><string>StNicholasUkrainianCatholicCathedralChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2360</string><string>Ukrainian National Museum</string><string></string><string>UkrainianNationalMuseumChicago.jpg</string><string>41.8947374,-87.6836901</string>
+<string>2361</string><string>London Guarantee Building</string><string></string><string>LondonGuaranteeBuildingChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2362</string><string>Rockefeller Memorial Chapel</string><string></string><string>RockefellerMemorialChapelChicago.jpg</string><string>41.7885429,-87.5970058</string>
+<string>2363</string><string>Ren</string><string></string><string>RenChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2364</string><string>Citicorp Center</string><string></string><string>CiticorpCenterChicago.jpg</string><string>41.8820050,-87.6404900</string>
+<string>2365</string><string>ETA Creative Arts Foundation</string><string></string><string>ETACreativeArtsFoundationChicago.jpg</string><string></string>
+<string>2366</string><string>Factory Theater</string><string></string><string>FactoryTheaterChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2367</string><string>House Theatre</string><string></string><string>HouseTheatreChicago.jpg</string><string>41.8800799,-87.7717716</string>
+<string>2368</string><string>Redmoon Theater</string><string></string><string>RedmoonTheaterChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2369</string><string>Pegasus Players</string><string></string><string>PegasusPlayersChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2370</string><string>Ballet Chicago</string><string></string><string>BalletChicagoChicago.jpg</string><string>41.8826560,-87.6273810</string>
+<string>2371</string><string>Bailiwick Repertory Theatre</string><string></string><string>BailiwickRepertoryTheatreChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2372</string><string>American Theater Company</string><string></string><string>AmericanTheaterCompanyChicago.jpg</string><string>41.8663010,-87.6515870</string>
+<string>2373</string><string>McCormick Tribune Center</string><string></string><string>McCormickTribuneCenterChicago.jpg</string><string>41.8356600,-87.6258400</string>
+<string>2374</string><string>Aldo Castillo Gallery</string><string></string><string>AldoCastilloGalleryChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2375</string><string>Midway Plaisance</string><string></string><string>MidwayPlaisanceChicago.jpg</string><string>41.7872220,-87.5962566</string>
+<string>2376</string><string>Jackson Park</string><string></string><string>JacksonParkChicago.jpg</string><string>41.7777233,-87.5863606</string>
+<string>2377</string><string>Voltaire</string><string></string><string>VoltaireChicago.jpg</string><string>-8.1061136,-79.0080978</string>
+<string>2378</string><string>The Dance Center-Columbia College Chicago</string><string></string><string>TheDanceCenter-ColumbiaCollegeChicagoChicago.jpg</string><string>41.8657115,-87.6242789</string>
+<string>2379</string><string>Theatre on the Lake</string><string></string><string>TheatreontheLakeChicago.jpg</string><string></string>
+<string>2380</string><string>Carson, Pirie, Scott and Company Building</string><string></string><string>CarsonPirieScottandCompanyBuildingChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2381</string><string>Old Colony Building</string><string></string><string>OldColonyBuildingChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2382</string><string>Bronzeville</string><string></string><string>BronzevilleChicago.jpg</string><string>41.8204719,-87.6137011</string>
+<string>2383</string><string>Puppet Parlor</string><string></string><string>PuppetParlorChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2384</string><string>Cooking &amp; Hospitality Institute of Chicago</string><string></string><string>CookingHospitalityInstituteofChicagoChicago.jpg</string><string>38.9634050,-94.6710960</string>
+<string>2385</string><string>Defiant Theatre</string><string></string><string>DefiantTheatreChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2386</string><string>The American Girls Revue</string><string></string><string>TheAmericanGirlsRevueChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2387</string><string>Chopin Theatre-Death and Harry Houdini</string><string></string><string>ChopinTheatreDeathandHarryHoudiniChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2388</string><string>Luxe Spa</string><string></string><string>LuxeSpaChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2389</string><string>lillieAnn&amp;apos;s Massage Therapy and Skin Care Spa Chicago IL</string><string></string><string>lillieAnnapossMassageTherapyandSkinCareSpaChicagoILChicago.jpg</string><string>42.2233250,-83.6995770</string>
+<string>2390</string><string>Mayne Stage</string><string></string><string>MayneStageChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2391</string><string>National Archives at Chicago</string><string></string><string>NationalArchivesatChicagoChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2392</string><string>A. Philip Randolph Pullman Porter Museum</string><string></string><string>APhilipRandolphPullmanPorterMuseumChicago.jpg</string><string>41.7053740,-87.6030770</string>
+<string>2393</string><string>Touch of Jane Addams</string><string></string><string>TouchofJaneAddamsChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2394</string><string>South Shore Cultural Center</string><string></string><string>SouthShoreCulturalCenterChicago.jpg</string><string>41.7682630,-87.5638680</string>
+<string>2395</string><string>La Salle Bank Theater</string><string></string><string>LaSalleBankTheaterChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2396</string><string>San Marco II</string><string></string><string>SanMarcoIIChicago.jpg</string><string>21.1086096,-101.6958294</string>
+<string>2397</string><string>Stephen A. Douglas Tomb and Memorial</string><string></string><string>StephenADouglasTombandMemorialChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2398</string><string>Renaissance Society</string><string></string><string>RenaissanceSocietyChicago.jpg</string><string>41.7891236,-87.6009726</string>
+<string>2399</string><string>Reading Cones - Grant Park</string><string></string><string>ReadingCones-GrantParkChicago.jpg</string><string>41.8727620,-87.6211061</string>
+<string>2400</string><string>Escape Tan and Spa</string><string></string><string>EscapeTanandSpaChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2401</string><string>Petrillo Music Shell</string><string></string><string>PetrilloMusicShellChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2402</string><string>Harrah&amp;apos;s East Chicago</string><string></string><string>HarrahsEastChicagoChicago.jpg</string><string>35.4895085,-97.1636408</string>
+<string>2403</string><string>The Mercury Theater</string><string></string><string>TheMercuryTheaterChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2404</string><string>HD Chicago Spa</string><string></string><string>HDChicagoSpaChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2405</string><string>The Magic Cabaret</string><string></string><string>TheMagicCabaretChicago.jpg</string><string>42.0085594,-87.6621016</string>
+<string>2406</string><string>Riviera Theatre</string><string></string><string>RivieraTheatreChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2407</string><string>The Jerry Springer Show</string><string></string><string>TheJerrySpringerShowChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2408</string><string>Hush Salon and Spa</string><string></string><string>HushSalonandSpaChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2409</string><string>DePaul Art Museum</string><string></string><string>DePaulArtMuseumChicago.jpg</string><string>41.9252366,-87.6524931</string>
+<string>2410</string><string>Washington Park Sunken Garden</string><string></string><string>WashingtonParkSunkenGardenChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2411</string><string>Abbott Park</string><string></string><string>AbbottParkChicago.jpg</string><string>41.7215401,-87.6221453</string>
+<string>2412</string><string>Kam Isaiah Israel Congregation</string><string></string><string>KamIsaiahIsraelCongregationChicago.jpg</string><string>41.8027350,-87.5986719</string>
+<string>2413</string><string>Bubbly Creek</string><string></string><string>BubblyCreekChicago.jpg</string><string>41.8435547,-87.6645861</string>
+<string>2414</string><string>Chicago Loop Synagogue</string><string></string><string>ChicagoLoopSynagogueChicago.jpg</string><string>41.8814115,-87.6306753</string>
+<string>2415</string><string>Batcolumn</string><string></string><string>BatcolumnChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2416</string><string>Bob-O-Link Meadow</string><string></string><string>BobOLinkMeadowChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2417</string><string>Aniko Salon &amp; Spa</string><string></string><string>AnikoSalonSpaChicago.jpg</string><string></string>
+<string>2418</string><string>Half Acre Beer Company</string><string></string><string>HalfAcreBeerCompanyChicago.jpg</string><string></string>
+<string>2419</string><string>ECHO</string><string></string><string>ECHOChicago.jpg</string><string>42.0688015,-87.7678369</string>
+<string>2420</string><string>City Council Chambers at City Hall</string><string></string><string>CityCouncilChambersatCityHallChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2421</string><string>Elks Veterans Memorial</string><string></string><string>ElksVeteransMemorialChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>2422</string><string>Bronzeville Children&amp;apos;s Museum</string><string></string><string>BronzevilleChildrenapossMuseumChicago.jpg</string><string>41.7256770,-87.5845870</string>
+<string>2423</string><string>Holy Innocents Church</string><string></string><string>HolyInnocentsChurchChicago.jpg</string><string>41.8955946,-87.6653672</string>
+<string>2424</string><string>St. Stanislaus Kostka Church</string><string></string><string>St.StanislausKostkaChurchChicago.jpg</string><string>41.9061000,-87.6615944</string>
+<string>2425</string><string>Our Lady of Mount Carmel Church</string><string></string><string>OurLadyofMountCarmelChurchChicago.jpg</string><string>41.9403101,-87.6472769</string>
+<string>35947</string><string>Temple Sholom</string><string></string><string>TempleSholomChicago.jpg</string><string>41.9461433,-87.6428324</string>
+<string>35948</string><string>St. Josaphat Church</string><string></string><string>StJosaphatChurchChicago.jpg</string><string>41.9236938,-87.6628666</string>
+<string>35950</string><string>Freedom Wall</string><string></string><string>FreedomWallChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>35951</string><string>Chicago Sports Museum</string><string></string><string>ChicagoSportsMuseumChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>35952</string><string>Couch Mausoleum</string><string></string><string>CouchMausoleumChicago.jpg</string><string>41.9130882,-87.6317201</string>
+<string>35953</string><string>Museum of Private Art Collections: Featuring the Work of Dali and Lamb</string><string></string><string>MuseumofPrivateArtCollectionsFeaturingtheWorkofDaliandLambChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>35722</string><string>Chicago&amp;apos;s Finest River Walk Tour</string><string></string><string>ChicagosFinestRiverWalkTourChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>35723</string><string>Absolutely Chicago Segway Tours</string><string></string><string>AbsolutelyChicagoSegwayToursChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>35724</string><string>Chicago Detours, Architectural Tours and Historic Pub Crawls</string><string></string><string>ChicagoDetoursArchitecturalToursandHistoricPubCrawlsChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>35744</string><string>Chicago Line Cruises</string><string></string><string>ChicagoLineCruisesChicago.jpg</string><string>41.890213,-87.61563</string>
+<string>35746</string><string>Odyssey Cruises</string><string></string><string>OdysseyCruisesChicago.jpg</string><string>41.89209,-87.60963</string>
+<string>35739</string><string>Bike and Roll Chicago</string><string></string><string>BikeandRollChicagoChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>35740</string><string>Wendella Sightseeing Boats</string><string></string><string>WendellaSightseeingBoatsChicago.jpg</string><string>41.88882,-87.6248</string>
+<string>35741</string><string>Shoreline Sightseeing</string><string></string><string>ShorelineSightseeingChicago.jpg</string><string>41.892056,-87.609146</string>
+<string>35742</string><string>Rebecca Wheeler Neighborhood Food Tours</string><string></string><string>RebeccaWheelerNeighborhoodFoodToursChicago.jpg</string><string>41.785988,-87.590355</string>
+<string>35743</string><string>Chicago Dine-Around</string><string></string><string>ChicagoDine-AroundChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>35759</string><string>Lincoln Park</string><string></string><string>LincolnParkChicago.jpg</string><string>41.919594,-87.63635</string>
+<string>35732</string><string>Chicago Architecture Foundation River Cruise</string><string></string><string>ChicagoArchitectureFoundationRiverCruiseChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>35733</string><string>Chicago Architecture Foundation</string><string></string><string>ChicagoArchitectureFoundationChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>35863</string><string>Bank of America Theater</string><string></string><string>BankofAmericaTheaterChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>35949</string><string>Essanay Studios</string><string></string><string>EssanayStudiosChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>35891</string><string>Lincoln Monument</string><string></string><string>LincolnMonumentChicago.jpg</string><string>41.9122535,-87.6302835</string>
+<string>35734</string><string>Chicago Photography Tours and Workshops by Jason Wolf Digital Images</string><string></string><string>ChicagoPhotographyToursandWorkshopsbyJasonWolfDigitalImagesChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>35735</string><string>Steve&amp;apos;s Segway Tours</string><string></string><string>StevesSegwayToursChicago.jpg</string><string>41.88089,-87.62083</string>
+<string>35736</string><string>Chicago Chocolate and Dessert Tour</string><string></string><string>ChicagoChocolateandDessertTourChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>35737</string><string>Chicago Pizza Tours</string><string></string><string>ChicagoPizzaToursChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>35738</string><string>Chicago&amp;apos;s First Lady Architectural Tours</string><string></string><string>ChicagosFirstLadyArchitecturalToursChicago.jpg</string><string>41.88816,-87.62401</string>
+<string>35719</string><string>Chicago Greeter</string><string></string><string>ChicagoGreeterChicago.jpg</string><string>41.8843520,-87.6250129</string>
+<string>35720</string><string>Chicago Food Planet Food Tours</string><string></string><string>ChicagoFoodPlanetFoodToursChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>35721</string><string>City Segway Tours Chicago</string><string></string><string>CitySegwayToursChicagoChicago.jpg</string><string>41.8845951,-87.6168305</string>
+<string>35717</string><string>City Running Tours-Chicago</string><string></string><string>CityRunningTours-ChicagoChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>35718</string><string>Bobby&amp;apos;s Bike Hike Chicago</string><string></string><string>BobbysBikeHikeChicagoChicago.jpg</string><string>42.9889680,-72.6281510</string>
+<string>35725</string><string>Chicago Private Tours</string><string></string><string>ChicagoPrivateToursChicago.jpg</string><string>41.8997222,-87.6250000</string>
+<string>35726</string><string>Chicago Beer Experience Beer Tours</string><string></string><string>ChicagoBeerExperienceBeerToursChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>35727</string><string>Segway Experience of Chicago</string><string></string><string>SegwayExperienceofChicagoChicago.jpg</string><string>41.878582,-87.624435</string>
+<string>35728</string><string>Tastebud Tours Chicago - Food Tours</string><string></string><string>TastebudToursChicago-FoodToursChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>35729</string><string>Waxwing Puzzle Company</string><string></string><string>WaxwingPuzzleCompanyChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>35730</string><string>Chicago Elevated</string><string></string><string>ChicagoElevatedChicago.jpg</string><string>41.8884710,-87.6158610</string>
+<string>35731</string><string>Walk Chicago Tours</string><string></string><string>WalkChicagoToursChicago.jpg</string><string>41.8781136,-87.6297982</string>
+<string>35794</string><string>Money Museum at the Federal Reserve Bank</string><string></string><string>MoneyMuseumattheFederalReserveBankChicago.jpg</string><string></string>
+<string>35806</string><string>Skydeck Chicago</string><string></string><string>SkydeckChicagoChicago.jpg</string><string>41.879078,-87.629265</string>
+<string>35813</string><string>The Gift Theatre</string><string></string><string>TheGiftTheatreChicago.jpg</string><string>41.96778,-87.76094</string>
+<string>35848</string><string>The Bean</string><string></string><string>TheBeanChicago.jpg</string><string>41.7612118,-87.6052589</string>
+<string>2127</string><string>Million Dollar Quartet</string><string></string><string>MillionDollarQuartetChicago.jpg</string><string></string>
+<string>2145</string><string>Blue Man Group</string><string></string><string>BlueManGroupChicago.jpg</string><string></string>
+</array>
+</plist>

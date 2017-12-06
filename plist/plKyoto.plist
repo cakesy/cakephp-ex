@@ -1,0 +1,294 @@
+<?xml version=1.0 encoding=UTF-8?>
+<!DOCTYPE plist PUBLIC -//Apple//DTD PLIST 1.0//EN http://www.apple.com/DTDs/PropertyList-1.0.dtd>
+<plist version=1.0>
+<array><string>15869</string><string>Fushimi Inari Shrine</string><string></string><string>FushimiInariShrineKyoto.jpg</string><string>34.967186,135.77328</string>
+<string>15870</string><string>Hosenin</string><string></string><string>HoseninKyoto.jpg</string><string>35.121353,135.834</string>
+<string>15871</string><string>Golden Pavilion (Kinkaku-ji)</string><string></string><string>GoldenPavilionKinkaku-jiKyoto.jpg</string><string></string>
+<string>15872</string><string>Kiyomizu Temple</string><string></string><string>KiyomizuTempleKyoto.jpg</string><string>34.994873,135.78497</string>
+<string>15873</string><string>Sanjusangendo Hall</string><string></string><string>SanjusangendoHallKyoto.jpg</string><string>34.987972,135.77173</string>
+<string>15874</string><string>Arashiyama</string><string></string><string>ArashiyamaKyoto.jpg</string><string></string>
+<string>15875</string><string>Silver Pavilion (Ginkaku-ji)</string><string></string><string>SilverPavilionGinkaku-jiKyoto.jpg</string><string></string>
+<string>15876</string><string>Saihoji Temple</string><string></string><string>SaihojiTempleKyoto.jpg</string><string>34.99194,135.68329</string>
+<string>15877</string><string>Sanzen-in Temple</string><string></string><string>Sanzen-inTempleKyoto.jpg</string><string>35.11975,135.8344</string>
+<string>15878</string><string>Nanzen-ji Temple</string><string></string><string>Nanzen-jiTempleKyoto.jpg</string><string></string>
+<string>15879</string><string>Gion</string><string></string><string>GionKyoto.jpg</string><string></string>
+<string>15880</string><string>Nijo Castle</string><string></string><string>NijoCastleKyoto.jpg</string><string></string>
+<string>15881</string><string>Katsura Imperial Villa</string><string></string><string>KatsuraImperialVillaKyoto.jpg</string><string></string>
+<string>15882</string><string>Tofukuji Temple</string><string></string><string>TofukujiTempleKyoto.jpg</string><string>34.97686,135.7743</string>
+<string>15883</string><string>Eikan-do</string><string></string><string>Eikan-doKyoto.jpg</string><string>35.01502,135.79478</string>
+<string>15884</string><string>Shugakuin Imperial Villa</string><string></string><string>ShugakuinImperialVillaKyoto.jpg</string><string>35.053635,135.80019</string>
+<string>15885</string><string>Ninna-ji Temple</string><string></string><string>Ninna-jiTempleKyoto.jpg</string><string>35.03021,135.71321</string>
+<string>15886</string><string>Shimogamo Jinja</string><string></string><string>ShimogamoJinjaKyoto.jpg</string><string>35.03828,135.77249</string>
+<string>15887</string><string>Jojakkoji Temple</string><string></string><string>JojakkojiTempleKyoto.jpg</string><string>35.019814,135.66861</string>
+<string>15888</string><string>Shoren-in Temple</string><string></string><string>Shoren-inTempleKyoto.jpg</string><string>35.00731,135.78316</string>
+<string>15889</string><string>Kenninji Temple</string><string></string><string>KenninjiTempleKyoto.jpg</string><string>35.00105,135.774</string>
+<string>15890</string><string>Ryoanji Temple</string><string></string><string>RyoanjiTempleKyoto.jpg</string><string>35.034508,135.71841</string>
+<string>15891</string><string>Sannenzaka Ninenzaka</string><string></string><string>SannenzakaNinenzakaKyoto.jpg</string><string>34.99628,135.78084</string>
+<string>15892</string><string>Kodai-ji Temple</string><string></string><string>Kodai-jiTempleKyoto.jpg</string><string>35.00078,135.7811</string>
+<string>15893</string><string>Toji Temple</string><string></string><string>TojiTempleKyoto.jpg</string><string></string>
+<string>15894</string><string>Koryu-ji Temple</string><string></string><string>Koryu-jiTempleKyoto.jpg</string><string>35.01709,135.70131</string>
+<string>15895</string><string>Philosopher&amp;apos;s Walk</string><string></string><string>PhilosophersWalkKyoto.jpg</string><string></string>
+<string>15896</string><string>Mount Hiei</string><string></string><string>MountHieiKyoto.jpg</string><string>35.061478,135.83162</string>
+<string>15897</string><string>Tenryuji Temple</string><string></string><string>TenryujiTempleKyoto.jpg</string><string>35.015827,135.67372</string>
+<string>15898</string><string>Monkey Park Iwatayama</string><string></string><string>MonkeyParkIwatayamaKyoto.jpg</string><string>35.009003,135.67473</string>
+<string>15899</string><string>Mt. Kurama</string><string></string><string>MtKuramaKyoto.jpg</string><string>35.12362,135.77144</string>
+<string>15900</string><string>Gion Kaburenjo Theater</string><string></string><string>GionKaburenjoTheaterKyoto.jpg</string><string>35.001396,135.77586</string>
+<string>15901</string><string>Kitano Tenman-gu Shrine</string><string></string><string>KitanoTenman-guShrineKyoto.jpg</string><string>35.03104,135.73509</string>
+<string>15902</string><string>Sagano</string><string></string><string>SaganoKyoto.jpg</string><string>35.008865,135.69328</string>
+<string>15903</string><string>Okochisanso Garden</string><string></string><string>OkochisansoGardenKyoto.jpg</string><string>35.01728,135.66936</string>
+<string>15904</string><string>Kyoto Imperial Palace</string><string></string><string>KyotoImperialPalaceKyoto.jpg</string><string></string>
+<string>15905</string><string>Kamigamo Shrine</string><string></string><string>KamigamoShrineKyoto.jpg</string><string></string>
+<string>15906</string><string>JR Kyoto Isetan</string><string></string><string>JRKyotoIsetanKyoto.jpg</string><string></string>
+<string>15907</string><string>Ishibe Alley</string><string></string><string>IshibeAlleyKyoto.jpg</string><string>35.00081,135.77927</string>
+<string>15908</string><string>Rokuharamitsuji Temple</string><string></string><string>RokuharamitsujiTempleKyoto.jpg</string><string>34.99742,135.77374</string>
+<string>15909</string><string>Kifune Shrine</string><string></string><string>KifuneShrineKyoto.jpg</string><string>35.12164,135.76291</string>
+<string>15910</string><string>Gio-ji Temple</string><string></string><string>Gio-jiTempleKyoto.jpg</string><string>35.023403,135.66676</string>
+<string>15911</string><string>Chion-in</string><string></string><string>Chion-inKyoto.jpg</string><string>35.006283,135.7839</string>
+<string>15912</string><string>Honen-in</string><string></string><string>Honen-inKyoto.jpg</string><string>35.023987,135.79741</string>
+<string>15913</string><string>Jizoin (Bamboo Temple)</string><string></string><string>JizoinBambooTempleKyoto.jpg</string><string></string>
+<string>15914</string><string>Shisendo Temple</string><string></string><string>ShisendoTempleKyoto.jpg</string><string>35.04372,135.79613</string>
+<string>15915</string><string>Umekoji SL Museum</string><string></string><string>UmekojiSLMuseumKyoto.jpg</string><string>34.987183,135.7432</string>
+<string>15916</string><string>Tram Arashiyama Station</string><string></string><string>TramArashiyamaStationKyoto.jpg</string><string>35.0177,135.66986</string>
+<string>15917</string><string>Kamogawa</string><string></string><string>KamogawaKyoto.jpg</string><string>35.060593,135.74937</string>
+<string>15918</string><string>Daigoji Temple</string><string></string><string>DaigojiTempleKyoto.jpg</string><string></string>
+<string>15919</string><string>Genkoan</string><string></string><string>GenkoanKyoto.jpg</string><string>35.054783,135.7317</string>
+<string>15920</string><string>Yasaka Shrine</string><string></string><string>YasakaShrineKyoto.jpg</string><string>35.003635,135.77852</string>
+<string>15921</string><string>Chishaku-in</string><string></string><string>Chishaku-inKyoto.jpg</string><string>34.98732,135.7761</string>
+<string>15922</string><string>Myoshinji Temple</string><string></string><string>MyoshinjiTempleKyoto.jpg</string><string>35.021404,135.71896</string>
+<string>15923</string><string>Jingoji Temple</string><string></string><string>JingojiTempleKyoto.jpg</string><string></string>
+<string>15924</string><string>Heian Shrine</string><string></string><string>HeianShrineKyoto.jpg</string><string></string>
+<string>15925</string><string>Kyoto Botanical Garden</string><string></string><string>KyotoBotanicalGardenKyoto.jpg</string><string>35.04695,135.76302</string>
+<string>15926</string><string>Kyoto Gyoen National Garden</string><string></string><string>KyotoGyoenNationalGardenKyoto.jpg</string><string>35.018387,135.76053</string>
+<string>15927</string><string>Nishi Honganji</string><string></string><string>NishiHonganjiKyoto.jpg</string><string>34.991398,135.7517</string>
+<string>15928</string><string>Bamboo Street</string><string></string><string>BambooStreetKyoto.jpg</string><string>35.017574,135.67265</string>
+<string>15929</string><string>Togetsukyo</string><string></string><string>TogetsukyoKyoto.jpg</string><string>35.012917,135.67776</string>
+<string>15930</string><string>Kurama Onsen Hot Spring</string><string></string><string>KuramaOnsenHotSpringKyoto.jpg</string><string>35.11297,135.77254</string>
+<string>15931</string><string>Daitoku-ji Temple Complex</string><string></string><string>Daitoku-jiTempleComplexKyoto.jpg</string><string>35.04393,135.74596</string>
+<string>15932</string><string>Keage Incline</string><string></string><string>KeageInclineKyoto.jpg</string><string>35.008877,135.79002</string>
+<string>15933</string><string>Pontocho</string><string></string><string>PontochoKyoto.jpg</string><string>35.006454,135.77104</string>
+<string>15934</string><string>Maruyama Park</string><string></string><string>MaruyamaParkKyoto.jpg</string><string>35.003777,135.78084</string>
+<string>15935</string><string>Shinnyodo</string><string></string><string>ShinnyodoKyoto.jpg</string><string>35.022198,135.78891</string>
+<string>15936</string><string>Rengeji Temple</string><string></string><string>RengejiTempleKyoto.jpg</string><string></string>
+<string>15937</string><string>Adashino Nenbutsuji Temple</string><string></string><string>AdashinoNenbutsujiTempleKyoto.jpg</string><string>35.02683,135.66455</string>
+<string>15938</string><string>Kurama Temple</string><string></string><string>KuramaTempleKyoto.jpg</string><string>35.1182,135.77084</string>
+<string>15939</string><string>Haratanien</string><string></string><string>HaratanienKyoto.jpg</string><string>35.04403,135.71463</string>
+<string>15940</string><string>Kyoto International Manga Museum</string><string></string><string>KyotoInternationalMangaMuseumKyoto.jpg</string><string>35.011597,135.75926</string>
+<string>15941</string><string>Kyoto Museum of Traditional Crafts</string><string></string><string>KyotoMuseumofTraditionalCraftsKyoto.jpg</string><string></string>
+<string>15942</string><string>Yogenin</string><string></string><string>YogeninKyoto.jpg</string><string>34.987846,135.77359</string>
+<string>15943</string><string>Kyoto Tower</string><string></string><string>KyotoTowerKyoto.jpg</string><string>34.987553,135.7593</string>
+<string>15944</string><string>Jisyu Shrine</string><string></string><string>JisyuShrineKyoto.jpg</string><string>34.99522,135.78514</string>
+<string>15945</string><string>Suzumushi Temple</string><string></string><string>SuzumushiTempleKyoto.jpg</string><string>34.993526,135.68501</string>
+<string>15946</string><string>Toei Kyoto Studio Park (Toei Uzumasa Eigamura)</string><string></string><string>ToeiKyotoStudioParkToeiUzumasaEigamuraKyoto.jpg</string><string>35.01709,135.70131</string>
+<string>15947</string><string>Okazaki Shrine</string><string></string><string>OkazakiShrineKyoto.jpg</string><string></string>
+<string>15948</string><string>Rakushisha</string><string></string><string>RakushishaKyoto.jpg</string><string>35.02048,135.67085</string>
+<string>15949</string><string>Lake Biwa Canal</string><string></string><string>LakeBiwaCanalKyoto.jpg</string><string>35.01164,135.76804</string>
+<string>15950</string><string>Daimonjiyama</string><string></string><string>DaimonjiyamaKyoto.jpg</string><string>35.019753,135.81155</string>
+<string>15951</string><string>Shozan Resort Kyoto</string><string></string><string>ShozanResortKyotoKyoto.jpg</string><string>35.04922,135.73369</string>
+<string>15952</string><string>Kyoto Zoo (Dobutsu-En)</string><string></string><string>KyotoZooDobutsu-EnKyoto.jpg</string><string></string>
+<string>15953</string><string>Nonomiya Shrine</string><string></string><string>NonomiyaShrineKyoto.jpg</string><string>35.017815,135.6743</string>
+<string>15954</string><string>Kyoto Horse Racetrack</string><string></string><string>KyotoHorseRacetrackKyoto.jpg</string><string>34.907104,135.7246</string>
+<string>15955</string><string>Iwakura Jissoin</string><string></string><string>IwakuraJissoinKyoto.jpg</string><string>35.079014,135.7815</string>
+<string>15956</string><string>Kozanji Sekisuiin</string><string></string><string>KozanjiSekisuiinKyoto.jpg</string><string>35.060123,135.67854</string>
+<string>15957</string><string>Kyoto National Museum of Modern Art</string><string></string><string>KyotoNationalMuseumofModernArtKyoto.jpg</string><string></string>
+<string>15958</string><string>Hanamikoji Street</string><string></string><string>HanamikojiStreetKyoto.jpg</string><string>35.005066,135.77518</string>
+<string>15959</string><string>Yoshimoto Gion Kagetsu</string><string></string><string>YoshimotoGionKagetsuKyoto.jpg</string><string></string>
+<string>15960</string><string>Hirano Shrine</string><string></string><string>HiranoShrineKyoto.jpg</string><string>35.032616,135.73195</string>
+<string>15961</string><string>Shinbashi Dori</string><string></string><string>ShinbashiDoriKyoto.jpg</string><string></string>
+<string>15962</string><string>Yoshimine-dera</string><string></string><string>Yoshimine-deraKyoto.jpg</string><string>34.93799,135.64395</string>
+<string>15963</string><string>Higashi Honganji</string><string></string><string>HigashiHonganjiKyoto.jpg</string><string>34.99099,135.75845</string>
+<string>15964</string><string>Daikaku-ji Temple</string><string></string><string>Daikaku-jiTempleKyoto.jpg</string><string>35.02783,135.67755</string>
+<string>15965</string><string>Jakkoin</string><string></string><string>JakkoinKyoto.jpg</string><string>35.123978,135.82127</string>
+<string>15966</string><string>Kashogama Pottery School</string><string></string><string>KashogamaPotterySchoolKyoto.jpg</string><string>34.998066,135.78094</string>
+<string>15967</string><string>Sagimori Jinja Shrine</string><string></string><string>SagimoriJinjaShrineKyoto.jpg</string><string>35.049576,135.79852</string>
+<string>15968</string><string>Nisonin</string><string></string><string>NisoninKyoto.jpg</string><string>35.020927,135.66818</string>
+<string>15969</string><string>Imamiya Shrine</string><string></string><string>ImamiyaShrineKyoto.jpg</string><string>35.04601,135.74203</string>
+<string>15970</string><string>Yasui-Konpiragu</string><string></string><string>Yasui-KonpiraguKyoto.jpg</string><string></string>
+<string>15971</string><string>Nishiki Tenmangu</string><string></string><string>NishikiTenmanguKyoto.jpg</string><string>35.004963,135.7673</string>
+<string>15972</string><string>Otagi Nenbutsuji Temple</string><string></string><string>OtagiNenbutsujiTempleKyoto.jpg</string><string>35.031387,135.6611</string>
+<string>15973</string><string>Kiyomizu-Zaka Street</string><string></string><string>Kiyomizu-ZakaStreetKyoto.jpg</string><string>34.995495,135.78258</string>
+<string>15974</string><string>Kyoto Ryozen Gokoku Shrine</string><string></string><string>KyotoRyozenGokokuShrineKyoto.jpg</string><string>34.999054,135.78258</string>
+<string>15975</string><string>Sennyuji Temple</string><string></string><string>SennyujiTempleKyoto.jpg</string><string></string>
+<string>15976</string><string>Taizoin Garden</string><string></string><string>TaizoinGardenKyoto.jpg</string><string>35.021885,135.71924</string>
+<string>15977</string><string>Shokokuji Temple</string><string></string><string>ShokokujiTempleKyoto.jpg</string><string></string>
+<string>15978</string><string>Sekizanzenin</string><string></string><string>SekizanzeninKyoto.jpg</string><string>35.05587,135.80133</string>
+<string>15979</string><string>Bishamondo</string><string></string><string>BishamondoKyoto.jpg</string><string>35.001648,135.81882</string>
+<string>15980</string><string>Jikkoin</string><string></string><string>JikkoinKyoto.jpg</string><string></string>
+<string>15981</string><string>Ryozen Museum of History</string><string></string><string>RyozenMuseumofHistoryKyoto.jpg</string><string>34.998978,135.78264</string>
+<string>15982</string><string>Matsuo Shrine</string><string></string><string>MatsuoShrineKyoto.jpg</string><string>34.999966,135.68517</string>
+<string>15983</string><string>Chionji Temple</string><string></string><string>ChionjiTempleKyoto.jpg</string><string>35.03032,135.7817</string>
+<string>15984</string><string>Mibudera</string><string></string><string>MibuderaKyoto.jpg</string><string>35.001614,135.74329</string>
+<string>15985</string><string>Chohoji Temple</string><string></string><string>ChohojiTempleKyoto.jpg</string><string>35.007683,135.76024</string>
+<string>15986</string><string>Entokuin Temple</string><string></string><string>EntokuinTempleKyoto.jpg</string><string>35.000607,135.77942</string>
+<string>15987</string><string>Fushimi Suigo</string><string></string><string>FushimiSuigoKyoto.jpg</string><string></string>
+<string>15988</string><string>Garden of Fine Art</string><string></string><string>GardenofFineArtKyoto.jpg</string><string>35.050663,135.76541</string>
+<string>15989</string><string>Shosei-en Garden</string><string></string><string>Shosei-enGardenKyoto.jpg</string><string>34.991386,135.76323</string>
+<string>15990</string><string>Murinan Garden</string><string></string><string>MurinanGardenKyoto.jpg</string><string>35.011665,135.7869</string>
+<string>15991</string><string>Koetsuji Temple</string><string></string><string>KoetsujiTempleKyoto.jpg</string><string>35.05341,135.73032</string>
+<string>15992</string><string>Enkoji Temple</string><string></string><string>EnkojiTempleKyoto.jpg</string><string>35.045097,135.79703</string>
+<string>15993</string><string>Teradaya</string><string></string><string>TeradayaKyoto.jpg</string><string>34.93024,135.75955</string>
+<string>15994</string><string>Senbon Shakado</string><string></string><string>SenbonShakadoKyoto.jpg</string><string>35.031895,135.7399</string>
+<string>15995</string><string>Kozanji Temple</string><string></string><string>KozanjiTempleKyoto.jpg</string><string>35.06016,135.67857</string>
+<string>15996</string><string>Unryuin</string><string></string><string>UnryuinKyoto.jpg</string><string>34.97716,135.78012</string>
+<string>15997</string><string>Shorinin</string><string></string><string>ShorininKyoto.jpg</string><string></string>
+<string>15998</string><string>Museum of Kyoto</string><string></string><string>MuseumofKyotoKyoto.jpg</string><string>35.009377,135.76231</string>
+<string>15999</string><string>Kyoto Shijo Minamiza</string><string></string><string>KyotoShijoMinamizaKyoto.jpg</string><string>35.003506,135.77234</string>
+<string>16000</string><string>Seiryoji Temple</string><string></string><string>SeiryojiTempleKyoto.jpg</string><string>35.0235,135.67429</string>
+<string>16001</string><string>Kyoto International Conference Center</string><string></string><string>KyotoInternationalConferenceCenterKyoto.jpg</string><string></string>
+<string>16002</string><string>Hieizan Ropeway</string><string></string><string>HieizanRopewayKyoto.jpg</string><string></string>
+<string>16003</string><string>Nishijin Textile Center</string><string></string><string>NishijinTextileCenterKyoto.jpg</string><string>35.028904,135.7515</string>
+<string>16004</string><string>Sento Gosho</string><string></string><string>SentoGoshoKyoto.jpg</string><string>35.018387,135.76053</string>
+<string>16005</string><string>Kotoin</string><string></string><string>KotoinKyoto.jpg</string><string>35.043076,135.74326</string>
+<string>16006</string><string>Kyoto Municipal Museum of Art</string><string></string><string>KyotoMunicipalMuseumofArtKyoto.jpg</string><string>35.01283,135.78365</string>
+<string>16007</string><string>Funaoka Onsen</string><string></string><string>FunaokaOnsenKyoto.jpg</string><string></string>
+<string>16008</string><string>Uhoin</string><string></string><string>UhoinKyoto.jpg</string><string></string>
+<string>16009</string><string>Kaleidoscope Museum of Kyoto</string><string></string><string>KaleidoscopeMuseumofKyotoKyoto.jpg</string><string>35.009735,135.76173</string>
+<string>16010</string><string>Rurikoin</string><string></string><string>RurikoinKyoto.jpg</string><string>35.0634,135.80865</string>
+<string>16011</string><string>Kyoto Budo Center</string><string></string><string>KyotoBudoCenterKyoto.jpg</string><string>35.01701,135.7808</string>
+<string>16012</string><string>Konkai Komyoji Temple</string><string></string><string>KonkaiKomyojiTempleKyoto.jpg</string><string>35.019646,135.78802</string>
+<string>16013</string><string>Senkoji Temple</string><string></string><string>SenkojiTempleKyoto.jpg</string><string></string>
+<string>16014</string><string>Seimei Shrine</string><string></string><string>SeimeiShrineKyoto.jpg</string><string></string>
+<string>16015</string><string>Hogonin Temple</string><string></string><string>HogoninTempleKyoto.jpg</string><string>35.01478,135.67374</string>
+<string>16016</string><string>Raku Museum</string><string></string><string>RakuMuseumKyoto.jpg</string><string></string>
+<string>16017</string><string>Zuishinin</string><string></string><string>ZuishininKyoto.jpg</string><string>34.9595,135.81628</string>
+<string>16018</string><string>Yasakanoto</string><string></string><string>YasakanotoKyoto.jpg</string><string>34.998558,135.77924</string>
+<string>16019</string><string>Tojiin</string><string></string><string>TojiinKyoto.jpg</string><string>35.03152,135.72346</string>
+<string>16020</string><string>Shinkyogoku Shopping District</string><string></string><string>ShinkyogokuShoppingDistrictKyoto.jpg</string><string></string>
+<string>16021</string><string>Manshuin Garden</string><string></string><string>ManshuinGardenKyoto.jpg</string><string>35.048904,135.80295</string>
+<string>16022</string><string>Ichiriki Teahouse</string><string></string><string>IchirikiTeahouseKyoto.jpg</string><string>35.003597,135.77518</string>
+<string>16023</string><string>Jyonangu Palace</string><string></string><string>JyonanguPalaceKyoto.jpg</string><string>34.95108,135.7465</string>
+<string>16024</string><string>Rozanji Temple</string><string></string><string>RozanjiTempleKyoto.jpg</string><string>35.024597,135.76834</string>
+<string>16025</string><string>Kawai Kanjiro Memorial Museum</string><string></string><string>KawaiKanjiroMemorialMuseumKyoto.jpg</string><string>34.99354,135.7744</string>
+<string>16026</string><string>Anyoji Temple</string><string></string><string>AnyojiTempleKyoto.jpg</string><string></string>
+<string>16027</string><string>Kiyotaki River</string><string></string><string>KiyotakiRiverKyoto.jpg</string><string>35.03556,135.6527</string>
+<string>16028</string><string>Gekkeikan Okura Sake Museum</string><string></string><string>GekkeikanOkuraSakeMuseumKyoto.jpg</string><string>34.92912,135.76163</string>
+<string>16029</string><string>Rental Kimono Okamoto Honten</string><string></string><string>RentalKimonoOkamotoHontenKyoto.jpg</string><string>34.99469,135.78053</string>
+<string>16030</string><string>Yume Kyoto</string><string></string><string>YumeKyotoKyoto.jpg</string><string>35.004322,135.77762</string>
+<string>16031</string><string>Teramachi</string><string></string><string>TeramachiKyoto.jpg</string><string>35.005436,135.76686</string>
+<string>16032</string><string>Bujoji Temple</string><string></string><string>BujojiTempleKyoto.jpg</string><string></string>
+<string>16033</string><string>Art Complex 1928</string><string></string><string>ArtComplex1928Kyoto.jpg</string><string></string>
+<string>16034</string><string>Gion Corner</string><string></string><string>GionCornerKyoto.jpg</string><string>35.003185,135.77301</string>
+<string>16035</string><string>Kyoto National Museum</string><string></string><string>KyotoNationalMuseumKyoto.jpg</string><string>34.990616,135.77217</string>
+<string>16036</string><string>Kurumazaki Shrine</string><string></string><string>KurumazakiShrineKyoto.jpg</string><string>35.01617,135.68893</string>
+<string>16037</string><string>Mikami Shrine</string><string></string><string>MikamiShrineKyoto.jpg</string><string>35.0177,135.66986</string>
+<string>16038</string><string>Horinji Temple</string><string></string><string>HorinjiTempleKyoto.jpg</string><string></string>
+<string>16039</string><string>Honnoji Temple</string><string></string><string>HonnojiTempleKyoto.jpg</string><string>35.010315,135.7683</string>
+<string>16040</string><string>Eizan Railway Momiji Tunnnel</string><string></string><string>EizanRailwayMomijiTunnnelKyoto.jpg</string><string>35.094162,135.76576</string>
+<string>16041</string><string>Shinsenen</string><string></string><string>ShinsenenKyoto.jpg</string><string>35.011364,135.74837</string>
+<string>16042</string><string>Teramachi Street</string><string></string><string>TeramachiStreetKyoto.jpg</string><string></string>
+<string>16043</string><string>Konpukuji Temple</string><string></string><string>KonpukujiTempleKyoto.jpg</string><string>35.04223,135.79521</string>
+<string>16044</string><string>Keishuin Garden</string><string></string><string>KeishuinGardenKyoto.jpg</string><string></string>
+<string>16045</string><string>Kajuji Temple</string><string></string><string>KajujiTempleKyoto.jpg</string><string>34.961773,135.80757</string>
+<string>16046</string><string>Sokujyoin</string><string></string><string>SokujyoinKyoto.jpg</string><string></string>
+<string>16047</string><string>Mirei Shigemori Residence</string><string></string><string>MireiShigemoriResidenceKyoto.jpg</string><string>35.024162,135.78223</string>
+<string>16048</string><string>Hokoji Temple</string><string></string><string>HokojiTempleKyoto.jpg</string><string></string>
+<string>16049</string><string>Sesshuji Temple</string><string></string><string>SesshujiTempleKyoto.jpg</string><string>34.97628,135.77205</string>
+<string>16050</string><string>Goo Shrine</string><string></string><string>GooShrineKyoto.jpg</string><string>35.02222,135.75865</string>
+<string>16051</string><string>Karamon Gate</string><string></string><string>KaramonGateKyoto.jpg</string><string>34.990326,135.75111</string>
+<string>16052</string><string>Hakusha Son-so Garden</string><string></string><string>HakushaSon-soGardenKyoto.jpg</string><string>35.02733,135.79366</string>
+<string>16053</string><string>Otoyo Shrine</string><string></string><string>OtoyoShrineKyoto.jpg</string><string></string>
+<string>16054</string><string>Hokyoin</string><string></string><string>HokyoinKyoto.jpg</string><string></string>
+<string>16055</string><string>Shorenin Garden</string><string></string><string>ShoreninGardenKyoto.jpg</string><string>35.007305,135.78316</string>
+<string>16056</string><string>Tanukidani Fudoin</string><string></string><string>TanukidaniFudoinKyoto.jpg</string><string></string>
+<string>16057</string><string>Kiyomizu Sannei-Zaka Seiryu-en</string><string></string><string>KiyomizuSannei-ZakaSeiryu-enKyoto.jpg</string><string>34.99703,135.78114</string>
+<string>16058</string><string>Gokonomiya Shrine</string><string></string><string>GokonomiyaShrineKyoto.jpg</string><string>34.934475,135.7675</string>
+<string>16059</string><string>Hokongoin</string><string></string><string>HokongoinKyoto.jpg</string><string></string>
+<string>16060</string><string>Kyoto Municipal Science Center For Youth</string><string></string><string>KyotoMunicipalScienceCenterForYouthKyoto.jpg</string><string>34.95597,135.76613</string>
+<string>16061</string><string>Shogunzuka</string><string></string><string>ShogunzukaKyoto.jpg</string><string>35.0018,135.78767</string>
+<string>16062</string><string>Shimyoin Temple</string><string></string><string>ShimyoinTempleKyoto.jpg</string><string></string>
+<string>16063</string><string>Oharano Sato</string><string></string><string>OharanoSatoKyoto.jpg</string><string>35.120026,135.8326</string>
+<string>16064</string><string>Tenjuan Garden</string><string></string><string>TenjuanGardenKyoto.jpg</string><string>35.010612,135.79234</string>
+<string>16065</string><string>Mt. Atago</string><string></string><string>MtAtagoKyoto.jpg</string><string>35.063644,135.63461</string>
+<string>16066</string><string>Toyokuni Shrine Karamon</string><string></string><string>ToyokuniShrineKaramonKyoto.jpg</string><string>34.9916,135.77248</string>
+<string>16067</string><string>Sumiya</string><string></string><string>SumiyaKyoto.jpg</string><string></string>
+<string>16068</string><string>Kyotofu Kyuhonkan</string><string></string><string>KyotofuKyuhonkanKyoto.jpg</string><string></string>
+<string>16069</string><string>Saimyoji Temple</string><string></string><string>SaimyojiTempleKyoto.jpg</string><string>34.91505,135.68048</string>
+<string>16070</string><string>Yuki Shrine</string><string></string><string>YukiShrineKyoto.jpg</string><string>35.116245,135.7715</string>
+<string>16071</string><string>Kyoto Aquarium</string><string></string><string>KyotoAquariumKyoto.jpg</string><string>34.987625,135.7479</string>
+<string>16072</string><string>Jizoin</string><string></string><string>JizoinKyoto.jpg</string><string></string>
+<string>16073</string><string>Rokudochinnoji Temple</string><string></string><string>RokudochinnojiTempleKyoto.jpg</string><string></string>
+<string>16074</string><string>Umenomiya Taisha</string><string></string><string>UmenomiyaTaishaKyoto.jpg</string><string>35.004143,135.6949</string>
+<string>16075</string><string>Miyagawacho Kaburenjo</string><string></string><string>MiyagawachoKaburenjoKyoto.jpg</string><string></string>
+<string>16076</string><string>Fushimi Momoyamaryo</string><string></string><string>FushimiMomoyamaryoKyoto.jpg</string><string>34.936543,135.78125</string>
+<string>16077</string><string>Enrian</string><string></string><string>EnrianKyoto.jpg</string><string></string>
+<string>16078</string><string>Mt. Kurama Reihoden</string><string></string><string>MtKuramaReihodenKyoto.jpg</string><string>35.118217,135.77092</string>
+<string>16079</string><string>Costume Museum</string><string></string><string>CostumeMuseumKyoto.jpg</string><string>34.993397,135.75334</string>
+<string>16080</string><string>Kyoto Cuisine and Maiko Evening</string><string></string><string>KyotoCuisineandMaikoEveningKyoto.jpg</string><string></string>
+<string>16081</string><string>Araki Shrine</string><string></string><string>ArakiShrineKyoto.jpg</string><string></string>
+<string>16082</string><string>Konzoji Temple</string><string></string><string>KonzojiTempleKyoto.jpg</string><string></string>
+<string>16083</string><string>Nashinoki Shrine</string><string></string><string>NashinokiShrineKyoto.jpg</string><string>35.025105,135.76733</string>
+<string>16084</string><string>Sorinin Temple</string><string></string><string>SorininTempleKyoto.jpg</string><string></string>
+<string>16085</string><string>Ryozen Kannon</string><string></string><string>RyozenKannonKyoto.jpg</string><string>34.99989,135.7819</string>
+<string>16086</string><string>Kannonji</string><string></string><string>KannonjiKyoto.jpg</string><string></string>
+<string>16087</string><string>Nyakuichi Shrine</string><string></string><string>NyakuichiShrineKyoto.jpg</string><string></string>
+<string>16088</string><string>Shojiji Temple</string><string></string><string>ShojijiTempleKyoto.jpg</string><string></string>
+<string>16089</string><string>Konchi-in</string><string></string><string>Konchi-inKyoto.jpg</string><string>35.010284,135.79039</string>
+<string>16090</string><string>Chokeiji Temple</string><string></string><string>ChokeijiTempleKyoto.jpg</string><string>34.92837,135.76083</string>
+<string>16091</string><string>Takasegawa Ichino Funairi</string><string></string><string>TakasegawaIchinoFunairiKyoto.jpg</string><string>35.012207,135.77008</string>
+<string>16092</string><string>Kannonji Temple</string><string></string><string>KannonjiTempleKyoto.jpg</string><string></string>
+<string>16093</string><string>Kyogashi Museum</string><string></string><string>KyogashiMuseumKyoto.jpg</string><string>35.032448,135.75896</string>
+<string>16094</string><string>Kyoto Tower Large Bathhouse</string><string></string><string>KyotoTowerLargeBathhouseKyoto.jpg</string><string>34.987545,135.75922</string>
+<string>16095</string><string>Kahitsukan, Kyoto Museum of Contemporary Art</string><string></string><string>KahitsukanKyotoMuseumofContemporaryArtKyoto.jpg</string><string></string>
+<string>16096</string><string>Gantokuji Temple</string><string></string><string>GantokujiTempleKyoto.jpg</string><string></string>
+<string>16097</string><string>Nanzenin Garden</string><string></string><string>NanzeninGardenKyoto.jpg</string><string>35.010338,135.79384</string>
+<string>16098</string><string>Omiyakotsu Park</string><string></string><string>OmiyakotsuParkKyoto.jpg</string><string>35.053493,135.74385</string>
+<string>16099</string><string>Fujinomori Shrine</string><string></string><string>FujinomoriShrineKyoto.jpg</string><string>34.95136,135.77168</string>
+<string>16100</string><string>Osawaike</string><string></string><string>OsawaikeKyoto.jpg</string><string></string>
+<string>16101</string><string>Chorakuji Temple</string><string></string><string>ChorakujiTempleKyoto.jpg</string><string></string>
+<string>16102</string><string>Seiryuji Temple</string><string></string><string>SeiryujiTempleKyoto.jpg</string><string></string>
+<string>16103</string><string>Kyoto Museum of Historical Materials</string><string></string><string>KyotoMuseumofHistoricalMaterialsKyoto.jpg</string><string></string>
+<string>16104</string><string>Seiganji Temple</string><string></string><string>SeiganjiTempleKyoto.jpg</string><string></string>
+<string>16105</string><string>Hosomi Museum</string><string></string><string>HosomiMuseumKyoto.jpg</string><string></string>
+<string>16106</string><string>Takenomu Inari Shrine</string><string></string><string>TakenomuInariShrineKyoto.jpg</string><string></string>
+<string>16107</string><string>Horino Memorial Museum</string><string></string><string>HorinoMemorialMuseumKyoto.jpg</string><string>35.014122,135.76302</string>
+<string>16108</string><string>Zuihoin Garden</string><string></string><string>ZuihoinGardenKyoto.jpg</string><string></string>
+<string>16109</string><string>Ryogenin</string><string></string><string>RyogeninKyoto.jpg</string><string></string>
+<string>16110</string><string>Shigureden</string><string></string><string>ShiguredenKyoto.jpg</string><string></string>
+<string>16111</string><string>Kuginukijizo</string><string></string><string>KuginukijizoKyoto.jpg</string><string></string>
+<string>16112</string><string>Kinukake no michi</string><string></string><string>KinukakenomichiKyoto.jpg</string><string></string>
+<string>16113</string><string>Hokokubyo</string><string></string><string>HokokubyoKyoto.jpg</string><string></string>
+<string>16114</string><string>Reikan-Ji Temple</string><string></string><string>Reikan-JiTempleKyoto.jpg</string><string></string>
+<string>16115</string><string>Suya</string><string></string><string>SuyaKyoto.jpg</string><string>35.00855,135.76994</string>
+<string>16116</string><string>Fushimi Castle</string><string></string><string>FushimiCastleKyoto.jpg</string><string>34.93945,135.7768</string>
+<string>16117</string><string>Ryugen-in Temple</string><string></string><string>Ryugen-inTempleKyoto.jpg</string><string></string>
+<string>16118</string><string>The Kyoto Arashiyama Orgel Museum</string><string></string><string>TheKyotoArashiyamaOrgelMuseumKyoto.jpg</string><string></string>
+<string>16119</string><string>Hokanji Temple</string><string></string><string>HokanjiTempleKyoto.jpg</string><string></string>
+<string>16120</string><string>Kyoto Art Center</string><string></string><string>KyotoArtCenterKyoto.jpg</string><string></string>
+<string>16121</string><string>Anrakuji Temple</string><string></string><string>AnrakujiTempleKyoto.jpg</string><string></string>
+<string>16122</string><string>Diorama Kyoto Japan</string><string></string><string>DioramaKyotoJapanKyoto.jpg</string><string></string>
+<string>16123</string><string>Inabado</string><string></string><string>InabadoKyoto.jpg</string><string></string>
+<string>16124</string><string>Shogoin</string><string></string><string>ShogoinKyoto.jpg</string><string>35.019684,135.78035</string>
+<string>16125</string><string>Jotenkaku Museum</string><string></string><string>JotenkakuMuseumKyoto.jpg</string><string></string>
+<string>16126</string><string>Kasuga Shrine</string><string></string><string>KasugaShrineKyoto.jpg</string><string></string>
+<string>16127</string><string>Arashiyama Onsen Eki no Ashiyu</string><string></string><string>ArashiyamaOnsenEkinoAshiyuKyoto.jpg</string><string></string>
+<string>16128</string><string>Otani Honbyo</string><string></string><string>OtaniHonbyoKyoto.jpg</string><string>34.993546,135.7778</string>
+<string>16129</string><string>Ichijo Modoribashi</string><string></string><string>IchijoModoribashiKyoto.jpg</string><string>35.026306,135.75197</string>
+<string>16130</string><string>Ryomadori Shopping Street</string><string></string><string>RyomadoriShoppingStreetKyoto.jpg</string><string></string>
+<string>16131</string><string>Kizakura Kappa Country</string><string></string><string>KizakuraKappaCountryKyoto.jpg</string><string>34.93069,135.7605</string>
+<string>16132</string><string>Nijo Jinya</string><string></string><string>NijoJinyaKyoto.jpg</string><string></string>
+<string>16133</string><string>Danrinji Temple</string><string></string><string>DanrinjiTempleKyoto.jpg</string><string></string>
+<string>16134</string><string>Tamanohikari Sake Brewery</string><string></string><string>TamanohikariSakeBreweryKyoto.jpg</string><string></string>
+<string>16135</string><string>Shunkoin Temple</string><string></string><string>ShunkoinTempleKyoto.jpg</string><string></string>
+<string>16136</string><string>Takoyakushido Eifukuji Temple</string><string></string><string>TakoyakushidoEifukujiTempleKyoto.jpg</string><string></string>
+<string>16137</string><string>Kyoto Seishu Netsuke Art Museum</string><string></string><string>KyotoSeishuNetsukeArtMuseumKyoto.jpg</string><string></string>
+<string>16138</string><string>Rental Kimono Zyupan</string><string></string><string>RentalKimonoZyupanKyoto.jpg</string><string></string>
+<string>16139</string><string>Chian</string><string></string><string>ChianKyoto.jpg</string><string></string>
+<string>16140</string><string>Orinasukan</string><string></string><string>OrinasukanKyoto.jpg</string><string></string>
+<string>16141</string><string>Jyo Nijima&amp;apos;s Old House</string><string></string><string>JyoNijimasOldHouseKyoto.jpg</string><string></string>
+<string>16142</string><string>Ebisuya Kyoto Arahiyama</string><string></string><string>EbisuyaKyotoArahiyamaKyoto.jpg</string><string></string>
+<string>16144</string><string>Nakaragi Road</string><string></string><string>NakaragiRoadKyoto.jpg</string><string></string>
+<string>16145</string><string>Awaji World Park Onokoro</string><string></string><string>AwajiWorldParkOnokoroKyoto.jpg</string><string></string>
+<string>16146</string><string>Tentokuin</string><string></string><string>TentokuinKyoto.jpg</string><string></string>
+<string>16147</string><string>Kashichiken Kabukai</string><string></string><string>KashichikenKabukaiKyoto.jpg</string><string></string>
+<string>16148</string><string>Seimei Shrine Tobichi Keidai</string><string></string><string>SeimeiShrineTobichiKeidaiKyotoJapan.jpg</string><string></string>
+<string>16149</string><string>Samurai Kemb Kyoto</string><string></string><string>SamuraiKembKyotoKyoto.jpg</string><string></string>
+<string>16150</string><string>Myorenji Temple</string><string></string><string>MyorenjiTempleKyoto.jpg</string><string></string>
+<string>16151</string><string>Myokenji Temple</string><string></string><string>MyokenjiTempleKyoto.jpg</string><string></string>
+<string>16152</string><string>Zuishunin</string><string></string><string>ZuishuninKyoto.jpg</string><string></string>
+<string>16153</string><string>Funaoka Park</string><string></string><string>FunaokaParkKyoto.jpg</string><string></string>
+<string>16154</string><string>Honpoji Temple</string><string></string><string>HonpojiTempleKyoto.jpg</string><string></string>
+<string>16155</string><string>Gesshinin</string><string></string><string>GesshininKyoto.jpg</string><string></string>
+<string>16156</string><string>Otani Sobyo</string><string></string><string>OtaniSobyoKyoto.jpg</string><string></string>
+<string>16157</string><string>Jikishian</string><string></string><string>JikishianKyoto.jpg</string><string></string>
+<string>16158</string><string>Atago Shrine</string><string></string><string>AtagoShrineKyoto.jpg</string><string></string>
+</array>
+</plist>

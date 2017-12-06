@@ -1,0 +1,514 @@
+<?xml version=1.0 encoding=UTF-8?>
+<!DOCTYPE plist PUBLIC -//Apple//DTD PLIST 1.0//EN http://www.apple.com/DTDs/PropertyList-1.0.dtd>
+<plist version=1.0>
+<array><string>301</string><string>Manhattan Skyline</string><string></string><string>ManhattanSkylineNewYorkCityNewYork.jpg</string><string>40.71036,-74.01751</string>
+<string>306</string><string>Frick Collection</string><string></string><string>FrickCollectionNewYorkCityNewYork.jpg</string><string>40.7712128,-73.9671765</string>
+<string>309</string><string>Metropolitan Museum of Art</string><string></string><string>MetropolitanMuseumofArtNewYorkCity.jpg</string><string>40.6436012,-73.7822072</string>
+<string>310</string><string>Metropolitan Opera House</string><string></string><string>MetropolitanOperaHouseNewYorkCity.jpg</string><string>40.772774,-73.984985</string>
+<string>311</string><string>Central Park</string><string></string><string>CentralParkNewYorkCity.jpg</string><string>40.7753093,-73.9747667</string>
+<string>313</string><string>Broadway</string><string></string><string>BroadwayNewYorkCity.jpg</string><string>40.8111631,-73.9614717</string>
+<string>314</string><string>Top of the Rock Observation Deck</string><string></string><string>TopoftheRockObservationDeckNewYorkCity.jpg</string><string>40.7590881,-73.9795435</string>
+<string>315</string><string>Ground Zero Museum Workshop</string><string></string><string>GroundZeroMuseumWorkshopNewYorkCityNewYork.jpg</string><string>40.7412880,-74.0062200</string>
+<string>317</string><string>High Line</string><string></string><string>HighLineNewYorkCityNewYork.jpg</string><string>40.7472570,-74.0052286</string>
+<string>319</string><string>The Cloisters</string><string></string><string>TheCloistersNewYorkCityNewYork.jpg</string><string>40.8648731,-73.9318125</string>
+<string>321</string><string>Tenement Museum</string><string></string><string>TenementMuseumNewYorkCity.jpg</string><string>40.7187605,-73.9898057</string>
+<string>322</string><string>St. Paul&amp;apos;s Chapel</string><string></string><string>StPaulapossChapelNewYorkCity.jpg</string><string>40.7111898,-74.0089877</string>
+<string>325</string><string>New Amsterdam Theater</string><string></string><string>NewAmsterdamTheaterNewYorkCityNewYork.jpg</string><string>40.75602,-73.98805</string>
+<string>327</string><string>St. Patrick&amp;apos;s Cathedral</string><string></string><string>StPatricksCathedralNewYorkCity.jpg</string><string>40.758782,-73.976784</string>
+<string>328</string><string>Classic Harbor Line</string><string></string><string>ClassicHarborLineNewYorkCityNewYork.jpg</string><string>40.7143528,-74.0059731</string>
+<string>331</string><string>Bryant Park</string><string></string><string>BryantParkNewYorkCityNewYork.jpg</string><string>40.7537719,-73.9832910</string>
+<string>332</string><string>Jazz at Lincoln Center</string><string></string><string>JazzatLincolnCenterNewYorkCityNewYork.jpg</string><string>40.769234,-73.98286</string>
+<string>333</string><string>Grand Central Terminal</string><string></string><string>GrandCentralTerminalNewYorkCityNewYork.jpg</string><string>40.7529980,-73.9770560</string>
+<string>334</string><string>Staten Island Ferry</string><string></string><string>StatenIslandFerryNewYorkCityNewYork.jpg</string><string>40.644703,-74.07366</string>
+<string>335</string><string>Lincoln Center for the Performing Arts</string><string></string><string>LincolnCenterforthePerformingArtsNewYorkCityNewYork.jpg</string><string>40.7733791,-73.9847653</string>
+<string>336</string><string>The Gershwins&amp;apos; Porgy and Bess</string><string></string><string>TheGershwinsPorgyandBessNewYorkCity.jpg</string><string>40.759033,-73.98675</string>
+<string>337</string><string>New York Public Library</string><string></string><string>NewYorkPublicLibraryNewYorkCityNewYork.jpg</string><string>40.7532309,-73.9823306</string>
+<string>338</string><string>Rockefeller Center</string><string></string><string>RockefellerCenterNewYorkCity.jpg</string><string>40.7590881,-73.9795435</string>
+<string>339</string><string>Greenwich Village</string><string></string><string>GreenwichVillageNewYorkCityNewYork.jpg</string><string>40.731194,-73.99619</string>
+<string>340</string><string>New York City Ballet (NYCB)</string><string></string><string>NewYorkCityBallet(NYCB)NewYorkCityNewYork.jpg</string><string>40.77184,-73.983246</string>
+<string>341</string><string>911 Memorial</string><string></string><string>911MemorialNewYorkCityNewYork.jpg</string><string>40.8898325,-73.9019151</string>
+<string>342</string><string>Ellis Island</string><string></string><string>EllisIslandNewYorkCity.jpg</string><string>40.6994721,-74.0395596</string>
+<string>344</string><string>Radio City Music Hall</string><string></string><string>RadioCityMusicHallNewYorkCityNewYork.jpg</string><string>40.760067,-73.98001</string>
+<string>345</string><string>Majestic Theatre</string><string></string><string>MajesticTheatreNewYorkCity.jpg</string><string>40.758278,-73.98824</string>
+<string>347</string><string>Cathedral Church of Saint John the Divine</string><string></string><string>CathedralChurchofSaintJohntheDivineNewYorkCity.jpg</string><string>40.80386,-73.96321</string>
+<string>348</string><string>Museum at Eldridge Street</string><string></string><string>MuseumatEldridgeStreetNewYorkCity.jpg</string><string>40.7147531,-73.9935865</string>
+<string>349</string><string>Museum of Modern Art</string><string></string><string>MuseumofModernArtNewYorkCity.jpg</string><string>40.7614177,-73.9777571</string>
+<string>350</string><string>Ellis Island Immigration Museum</string><string></string><string>EllisIslandImmigrationMuseumNewYorkCity.jpg</string><string>38.96524,-77.36771</string>
+<string>351</string><string>Circle In The Square Theatre</string><string></string><string>CircleInTheSquareTheatreNewYorkCity.jpg</string><string>40.76183,-73.98377</string>
+<string>353</string><string>Statue of Liberty</string><string></string><string>StatueofLibertyNewYorkCity.jpg</string><string>40.6892686,-74.0447375</string>
+<string>354</string><string>Times Square</string><string></string><string>TimesSquareNewYorkCity.jpg</string><string>40.7585770,-73.9844640</string>
+<string>356</string><string>Comedy Cellar</string><string></string><string>ComedyCellarNewYorkCity.jpg</string><string>40.7301390,-74.0004770</string>
+<string>357</string><string>Accomplice: New York</string><string></string><string>AccompliceNewYorkNewYorkCity.jpg</string><string>40.706306,-74.00301</string>
+<string>359</string><string>Intrepid Sea, Air &amp; Space Museum</string><string></string><string>IntrepidSeaAir&amp;SpaceMuseumNewYorkCity.jpg</string><string>40.7648801,-74.0008164</string>
+<string>360</string><string>Dialog In The Dark</string><string></string><string>DialogInTheDarkNewYorkCity.jpg</string><string>40.7068,-74.00339</string>
+<string>362</string><string>Chrysler Building</string><string></string><string>ChryslerBuildingNewYorkCity.jpg</string><string>40.751446,-73.97559</string>
+<string>364</string><string>The Jewish Museum</string><string></string><string>TheJewishMuseumNewYorkCity.jpg</string><string>40.7060427,-74.0183902</string>
+<string>365</string><string>Fifth Avenue</string><string></string><string>FifthAvenueNewYorkCity.jpg</string><string>40.753498,-73.98103</string>
+<string>366</string><string>Imperial Theatre</string><string></string><string>ImperialTheatreNewYorkCity.jpg</string><string>40.7759461,-74.0120096</string>
+<string>367</string><string>Roosevelt Island Aerial Tram</string><string></string><string>RooseveltIslandAerialTramNewYorkCity.jpg</string><string>40.760635,-73.964294</string>
+<string>368</string><string>Rubin Museum of Art</string><string></string><string>RubinMuseumofArtNewYorkCity.jpg</string><string>40.740173,-73.99772</string>
+<string>369</string><string>Trinity Church</string><string></string><string>TrinityChurchNewYorkCity.jpg</string><string>40.7078962,-74.0118493</string>
+<string>370</string><string>New-York Historical Society</string><string></string><string>New-YorkHistoricalSocietyNewYorkCity.jpg</string><string>40.7791384,-73.9740130</string>
+<string>371</string><string>The Morgan Library &amp; Museum</string><string></string><string>TheMorganLibrary&amp;MuseumNewYorkCity.jpg</string><string>40.5730255,-105.0845451</string>
+<string>372</string><string>Hayden Planetarium</string><string></string><string>HaydenPlanetariumNewYorkCity.jpg</string><string>40.782116,-73.97171</string>
+<string>373</string><string>Carnegie Hall</string><string></string><string>CarnegieHallNewYorkCity.jpg</string><string>40.7649323,-73.9799726</string>
+<string>374</string><string>Empire State Building</string><string></string><string>EmpireStateBuildingNewYorkCity.jpg</string><string>40.7482845,-73.9855692</string>
+<string>375</string><string>World Trade Center</string><string></string><string>WorldTradeCenterNewYorkCity.jpg</string><string>40.7116670,-74.0136110</string>
+<string>377</string><string>Rent</string><string></string><string>RentNewYorkCity.jpg</string><string>40.7282239,-73.7948516</string>
+<string>378</string><string>Lower Manhattan</string><string></string><string>LowerManhattanNewYorkCity.jpg</string><string>40.70911,-74.01051</string>
+<string>379</string><string>Ground Zero Catholic Memorial</string><string></string><string>GroundZeroCatholicMemorialNewYorkCity.jpg</string><string>40.7143528,-74.0059731</string>
+<string>380</string><string>American Museum of Natural History</string><string></string><string>AmericanMuseumofNaturalHistoryNewYorkCity.jpg</string><string>40.7813373,-73.9733291</string>
+<string>381</string><string>Apollo Theater</string><string></string><string>ApolloTheaterNewYorkCity.jpg</string><string>40.80995,-73.950226</string>
+<string>382</string><string>Broadway Theater</string><string></string><string>BroadwayTheaterNewYorkCity.jpg</string><string>40.7587004,-73.9853561</string>
+<string>384</string><string>Flatiron Building</string><string></string><string>FlatironBuildingNewYorkCity.jpg</string><string>40.741116,-73.98986</string>
+<string>385</string><string>Gershwin Theater</string><string></string><string>GershwinTheaterNewYorkCity.jpg</string><string>40.762413,-73.985146</string>
+<string>386</string><string>American Ballet Theatre</string><string></string><string>AmericanBalletTheatreNewYorkCity.jpg</string><string>40.5869400,-73.9533500</string>
+<string>387</string><string>African Burial Ground National Monument</string><string></string><string>AfricanBurialGroundNationalMonumentNewYorkCity.jpg</string><string>40.714626,-74.00413</string>
+<string>388</string><string>Madison Avenue</string><string></string><string>MadisonAvenueNewYorkCity.jpg</string><string>40.747387,-73.98322</string>
+<string>389</string><string>Upper West Side</string><string></string><string>UpperWestSideNewYorkCity.jpg</string><string>40.7859464,-73.9741874</string>
+<string>390</string><string>Governor&amp;apos;s Island</string><string></string><string>GovernorsIslandNewYorkCity.jpg</string><string>40.6894501,-74.0167920</string>
+<string>391</string><string>Neue Galerie New York</string><string></string><string>NeueGalerieNewYorkNewYorkCity.jpg</string><string>40.781418,-73.960464</string>
+<string>392</string><string>Times Square Visitors Center</string><string></string><string>TimesSquareVisitorsCenterNewYorkCity.jpg</string><string>40.759033,-73.98521</string>
+<string>393</string><string>Peter and the Starcatcher</string><string></string><string>PeterandtheStarcatcherNewYorkCity.jpg</string><string>40.7143528,-74.0059731</string>
+<string>394</string><string>New World Stages</string><string></string><string>NewWorldStagesNewYorkCity.jpg</string><string></string>
+<string>395</string><string>Fuerza Bruta</string><string></string><string>FuerzaBrutaNewYorkCity.jpg</string><string>40.7143528,-74.0059731</string>
+<string>396</string><string>Asia Society and Museum</string><string></string><string>AsiaSocietyandMuseumNewYorkCity.jpg</string><string>40.7700140,-73.9644760</string>
+<string>397</string><string>Museum of Jewish Heritage</string><string></string><string>MuseumofJewishHeritageNewYorkCity.jpg</string><string>40.7060427,-74.0183902</string>
+<string>398</string><string>Chelsea</string><string></string><string>ChelseaNewYorkCity.jpg</string><string>40.74766,-74.00626</string>
+<string>399</string><string>Beacon Theatre</string><string></string><string>BeaconTheatreNewYorkCity.jpg</string><string>40.78049,-73.98132</string>
+<string>400</string><string>Madison Square Garden</string><string></string><string>MadisonSquareGardenNewYorkCity.jpg</string><string>40.75055,-73.993385</string>
+<string>401</string><string>Washington Square Park</string><string></string><string>WashingtonSquareParkNewYorkCity.jpg</string><string>40.7308803,-73.9973273</string>
+<string>402</string><string>Conservatory Garden</string><string></string><string>ConservatoryGardenNewYorkCity.jpg</string><string>40.7935960,-73.9514138</string>
+<string>403</string><string>Irish Hunger Memorial</string><string></string><string>IrishHungerMemorialNewYorkCity.jpg</string><string>40.71491,-74.01612</string>
+<string>404</string><string>Sleep No More</string><string></string><string>SleepNoMoreNewYorkCity.jpg</string><string>40.7143528,-74.0059731</string>
+<string>405</string><string>Union Square</string><string></string><string>UnionSquareNewYorkCity.jpg</string><string>40.7358633,-73.9910835</string>
+<string>406</string><string>Loeb Boathouse</string><string></string><string>LoebBoathouseNewYorkCity.jpg</string><string>40.77691,-73.97129</string>
+<string>407</string><string>New York Harbor</string><string></string><string>NewYorkHarborNewYorkCity.jpg</string><string>40.71455,-74.00712</string>
+<string>408</string><string>St. Thomas Church</string><string></string><string>St.ThomasChurchNewYorkCity.jpg</string><string>40.7604,-73.97582</string>
+<string>409</string><string>St. Patrick&amp;apos;s Old Cathedral</string><string></string><string>StPatricksOldCathedralNewYorkCity.jpg</string><string>40.72383,-73.99577</string>
+<string>410</string><string>The Addams Family</string><string></string><string>TheAddamsFamilyNewYorkCity.jpg</string><string>40.7143528,-74.0059731</string>
+<string>411</string><string>Battery Park</string><string></string><string>BatteryParkNewYorkCity.jpg</string><string>40.7033262,-74.0171778</string>
+<string>412</string><string>The Ziegfeld</string><string></string><string>TheZiegfeldNewYorkCity.jpg</string><string>40.76298,-73.980034</string>
+<string>413</string><string>Cadillac Winter Garden Theatre</string><string></string><string>CadillacWinterGardenTheatreNewYorkCity.jpg</string><string>40.761566,-73.98365</string>
+<string>414</string><string>Bodies ... The Exhibition</string><string></string><string>BodiesTheExhibitionNewYorkCity.jpg</string><string>40.7066364,-74.0033644</string>
+<string>415</string><string>Riverside Park</string><string></string><string>RiversideParkNewYorkCity.jpg</string><string>40.805866,-73.99183</string>
+<string>436</string><string>Shubert Theatre</string><string></string><string>ShubertTheatreNewYorkCityNewYork.jpg</string><string>40.757576,-73.99148</string>
+<string>437</string><string>Joyce Theater</string><string></string><string>JoyceTheaterNewYorkCityNewYork.jpg</string><string>40.742798,-74.000565</string>
+<string>438</string><string>Fraunces Tavern Museum</string><string></string><string>FrauncesTavernMuseumNewYorkCityNewYork.jpg</string><string>40.7034,-74.01139</string>
+<string>439</string><string>Columbia University</string><string></string><string>ColumbiaUniversityNewYorkCityNewYork.jpg</string><string>40.807365,-73.96243</string>
+<string>441</string><string>Strawberry Fields, John Lennon Memorial</string><string></string><string>StrawberryFieldsJohnLennonMemorialNewYorkCityNewYork.jpg</string><string>40.776382,-73.976</string>
+<string>442</string><string>Foxwoods Theater</string><string></string><string>FoxwoodsTheaterNewYorkCityNewYork.jpg</string><string>40.756924,-73.987625</string>
+<string>443</string><string>Late Night with Jimmy Fallon</string><string></string><string>LateNightwithJimmyFallonNewYorkCityNewYork.jpg</string><string>40.759212,-73.978745</string>
+<string>444</string><string>TriBeCa</string><string></string><string>TriBeCaNewYorkCity.jpg</string><string>40.7166005,-74.0111162</string>
+<string>445</string><string>Tribes</string><string></string><string>TribesNewYorkCityNewYork.jpg</string><string>40.73231,-74.00308</string>
+<string>446</string><string>Alice in Wonderland Statue</string><string></string><string>AliceinWonderlandStatueNewYorkCityNewYork.jpg</string><string>40.782646,-73.96446</string>
+<string>447</string><string>Park Avenue</string><string></string><string>ParkAvenueNewYorkCityNewYork.jpg</string><string>40.779503,-73.9579</string>
+<string>448</string><string>Union Square Park</string><string></string><string>UnionSquareParkNewYorkCityNewYork.jpg</string><string>40.7359788,-73.9903819</string>
+<string>449</string><string>The Dakota</string><string></string><string>TheDakotaNewYorkCityNewYork.jpg</string><string>40.776302,-73.97597</string>
+<string>451</string><string>Uptown Pilates</string><string></string><string>UptownPilatesNewYorkCityNewYork.jpg</string><string>40.7143528,-74.0059731</string>
+<string>452</string><string>National Museum of the American Indian</string><string></string><string>NationalMuseumoftheAmericanIndianNewYorkCity.jpg</string><string>40.7041260,-74.0137910</string>
+<string>453</string><string>Manhattan Theatre Club (MTC)</string><string></string><string>ManhattanTheatreClub(MTC)NewYorkCityNewYork.jpg</string><string>40.7643076,-73.9778835</string>
+<string>454</string><string>United Nations Headquarters</string><string></string><string>UnitedNationsHeadquartersNewYorkCityNewYork.jpg</string><string>40.751347,-73.96789</string>
+<string>455</string><string>General Grant National Memorial</string><string></string><string>GeneralGrantNationalMemorialNewYorkCity.jpg</string><string>40.81307,-73.9632</string>
+<string>456</string><string>Tiles For America</string><string></string><string>TilesForAmericaNewYorkCityNewYork.jpg</string><string>40.7143528,-74.0059731</string>
+<string>457</string><string>Accomplice: The Village</string><string></string><string>AccompliceTheVillageNewYorkCity.jpg</string><string>40.7143528,-74.0059731</string>
+<string>458</string><string>Neil Simon Theatre</string><string></string><string>NeilSimonTheatreNewYorkCity.jpg</string><string>40.763035,-73.98453</string>
+<string>459</string><string>Duffy Square</string><string></string><string>DuffySquareNewYorkCityNewYork.jpg</string><string>40.75923,-73.98466</string>
+<string>460</string><string>Time Warner Center</string><string></string><string>TimeWarnerCenterNewYorkCity.jpg</string><string>40.768032,-73.982254</string>
+<string>461</string><string>Museum of the City of New York</string><string></string><string>MuseumoftheCityofNewYorkNewYorkCityNewYork.jpg</string><string>40.79261,-73.952225</string>
+<string>462</string><string>Flushing Meadows Corona Park</string><string></string><string>FlushingMeadowsCoronaParkNewYorkCityNewYork.jpg</string><string>40.7454509,-73.8437125</string>
+<string>463</string><string>Theodore Roosevelt Birthplace National Historic Site</string><string></string><string>TheodoreRooseveltBirthplaceNationalHistoricSiteNewYorkCity.jpg</string><string>40.7387645,-73.9889990</string>
+<string>464</string><string>Dorit Baxter New York Day Spa</string><string></string><string>DoritBaxterNewYorkDaySpaNewYorkCityNewYork.jpg</string><string>40.7143528,-74.0059731</string>
+<string>465</string><string>Mercury Lounge</string><string></string><string>MercuryLoungeNewYorkCityNewYork.jpg</string><string></string>
+<string>466</string><string>Aire Ancient Bath</string><string></string><string>AireAncientBathNewYorkCity.jpg</string><string>40.7143528,-74.0059731</string>
+<string>467</string><string>Merchant&amp;apos;s House Museum</string><string></string><string>MerchantsHouseMuseumNewYorkCity.jpg</string><string>40.7275941,-73.9923583</string>
+<string>468</string><string>Film Forum</string><string></string><string>FilmForumNewYorkCityNewYork.jpg</string><string>40.728507,-74.004335</string>
+<string>469</string><string>Lucille Lortel Theatre</string><string></string><string>LucilleLortelTheatreNewYorkCityNewYork.jpg</string><string>40.7471050,-73.9966400</string>
+<string>470</string><string>Garment District</string><string></string><string>GarmentDistrictNewYorkCityNewYork.jpg</string><string>40.755222,-73.98904</string>
+<string>471</string><string>Lunt-Fontanne Theatre</string><string></string><string>LuntFontanneTheatreNewYorkCityNewYork.jpg</string><string></string>
+<string>472</string><string>The Late Show with David Letterman</string><string></string><string>TheLateShowwithDavidLettermanNewYorkCityNewYork.jpg</string><string>40.764011,-73.982905</string>
+<string>473</string><string>Hamilton Grange National Memorial</string><string></string><string>HamiltonGrangeNationalMemorialNewYorkCityNewYork.jpg</string><string>40.82226,-73.94764</string>
+<string>475</string><string>NY Vietnam Veterans Memorial</string><string></string><string>NYVietnamVeteransMemorialNewYorkCityNewYork.jpg</string><string>40.70362,-74.00966</string>
+<string>476</string><string>Roosevelt Island</string><string></string><string>RooseveltIslandNewYorkCityNewYork.jpg</string><string>40.761497,-73.950005</string>
+<string>477</string><string>Solomon R. Guggenheim Museum</string><string></string><string>SolomonR.GuggenheimMuseumNewYorkCityNewYork.jpg</string><string>40.782932,-73.95921</string>
+<string>478</string><string>August Wilson Theater</string><string></string><string>AugustWilsonTheaterNewYorkCityNewYork.jpg</string><string>40.76318,-73.9843</string>
+<string>479</string><string>Herald Square</string><string></string><string>HeraldSquareNewYorkCityNewYork.jpg</string><string>40.750053,-73.98795</string>
+<string>480</string><string>Chelsea Piers</string><string></string><string>ChelseaPiersNewYorkCityNewYork.jpg</string><string>40.768364,-73.99669</string>
+<string>481</string><string>Uptown Pilates on Madison</string><string></string><string>UptownPilatesonMadisonNewYorkCityNewYork.jpg</string><string>40.7143528,-74.0059731</string>
+<string>482</string><string>Central Park Zoo</string><string></string><string>CentralParkZooNewYorkCityNewYork.jpg</string><string>40.7677770,-73.9716690</string>
+<string>483</string><string>Walter Kerr Theater</string><string></string><string>WalterKerrTheaterNewYorkCity.jpg</string><string>40.7143528,-74.0059731</string>
+<string>484</string><string>Ted Greenberg&amp;apos;s The Complete Performer</string><string></string><string>TedGreenberg&amp;apossTheCompletePerformerNewYorkCity.jpg</string><string>40.7335905,-74.0045387</string>
+<string>485</string><string>Citi Pond at Bryant Park</string><string></string><string>CitiPondatBryantParkNewYorkCityNewYork.jpg</string><string>40.7536311,-73.9834798</string>
+<string>486</string><string>The Museum at FIT</string><string></string><string>TheMuseumatFITNewYorkCity.jpg</string><string>40.8134,-73.9451</string>
+<string>487</string><string>Manhattan Bridge</string><string></string><string>ManhattanBridgeNewYorkCityNewYork.jpg</string><string>40.710724,-73.984764</string>
+<string>488</string><string>New York City Opera</string><string></string><string>NewYorkCityOperaNewYorkCityNewYork.jpg</string><string>40.768085,-73.97595</string>
+<string>489</string><string>Riverside Church</string><string></string><string>RiversideChurchNewYorkCity.jpg</string><string>40.81119,-73.96399</string>
+<string>490</string><string>Bargemusic</string><string></string><string>BargemusicNewYorkCityNewYork.jpg</string><string>40.702988,-73.99454</string>
+<string>491</string><string>Madison Square</string><string></string><string>MadisonSquareNewYorkCityNewYork.jpg</string><string>40.7432750,-73.9887580</string>
+<string>492</string><string>St. Bartholomew&amp;apos;s Church</string><string></string><string>StBartholomewsChurchNewYorkCity.jpg</string><string>40.756832,-73.97318</string>
+<string>493</string><string>Palace Theatre</string><string></string><string>PalaceTheatreNewYorkCityNewYork.jpg</string><string>40.7591,-73.9852</string>
+<string>494</string><string>Barrymore Theater</string><string></string><string>BarrymoreTheaterNewYorkCityNewYork.jpg</string><string>40.7143528,-74.0059731</string>
+<string>495</string><string>Times Square Church</string><string></string><string>TimesSquareChurchNewYorkCityNewYork.jpg</string><string>40.7624161,-73.9836255</string>
+<string>496</string><string>New York Transit Museum &amp; New York Transit Museum Gallery Annex</string><string></string><string>NewYorkTransitMuseum&amp;NewYorkTransitMuseumGalleryAnnexNewYorkCityNewYork.jpg</string><string>40.6906751,-73.9899807</string>
+<string>497</string><string>Cherry Lane Theatre</string><string></string><string>CherryLaneTheatreNewYorkCityNewYork.jpg</string><string>40.731464,-74.00519</string>
+<string>498</string><string>Bethel Gospel Assembly</string><string></string><string>BethelGospelAssemblyNewYorkCityNewYork.jpg</string><string>40.8027200,-73.9436640</string>
+<string>499</string><string>Gerald Schoenfeld Theater</string><string></string><string>GeraldSchoenfeldTheaterNewYorkCityNewYork.jpg</string><string>40.7143528,-74.0059731</string>
+<string>500</string><string>Al Hirschfeld Theatre</string><string></string><string>AlHirschfeldTheatreNewYorkCityNewYork.jpg</string><string>40.75929,-73.98916</string>
+<string>501</string><string>Lincoln Square</string><string></string><string>LincolnSquareNewYorkCityNewYork.jpg</string><string>40.7738280,-73.9844722</string>
+<string>502</string><string>Fort Tyron Park</string><string></string><string>FortTyronParkNewYorkCityNewYork.jpg</string><string>40.8660973,-73.9299952</string>
+<string>503</string><string>Ethel Barrymore Theatre</string><string></string><string>EthelBarrymoreTheatreNewYorkCity.jpg</string><string>40.760123,-73.986408</string>
+<string>504</string><string>Wall Street</string><string></string><string>WallStreetNewYorkCityNewYork.jpg</string><string>40.7079088,-74.0085145</string>
+<string>505</string><string>Rose Center for Earth and Space</string><string></string><string>RoseCenterforEarthandSpaceNewYorkCityNewYork.jpg</string><string>40.78117,-73.973854</string>
+<string>507</string><string>Dicapo Opera Theatre</string><string></string><string>DicapoOperaTheatreNewYorkCityNewYork.jpg</string><string>40.77169,-73.9572</string>
+<string>508</string><string>Wollman Rink</string><string></string><string>WollmanRinkNewYorkCityNewYork.jpg</string><string>40.767395,-73.97073</string>
+<string>509</string><string>Auriga Spa</string><string></string><string>AurigaSpaNewYorkCityNewYork.jpg</string><string>40.7143528,-74.0059731</string>
+<string>510</string><string>Long Beach</string><string></string><string>LongBeachNewYorkCityNewYork.jpg</string><string>40.810497,-73.96199</string>
+<string>511</string><string>New York City&amp;apos;s Official Visitor Information Center</string><string></string><string>NewYorkCitysOfficialVisitorInformationCenterNewYorkCity.jpg</string><string>40.76263,-73.98215</string>
+<string>512</string><string>Federal Hall</string><string></string><string>FederalHallNewYorkCity.jpg</string><string>40.7073034,-74.0102734</string>
+<string>513</string><string>Juvenex Spa</string><string></string><string>JuvenexSpaNewYorkCityNewYork.jpg</string><string>40.747967,-73.98692</string>
+<string>514</string><string>Belvedere Castle</string><string></string><string>BelvedereCastleNewYorkCity.jpg</string><string>40.7793951,-73.9689411</string>
+<string>515</string><string>Big Apple Circus</string><string></string><string>BigAppleCircusNewYorkCityNewYork.jpg</string><string>40.6040595,-74.0587416</string>
+<string>516</string><string>Jacques Torres Chocolate Haven</string><string></string><string>JacquesTorresChocolateHavenNewYorkCityNewYork.jpg</string><string>40.72779,-74.0072</string>
+<string>520</string><string>New York University</string><string></string><string>NewYorkUniversityNewYorkCityNewYork.jpg</string><string>40.729774,-73.996994</string>
+<string>523</string><string>Live! with Regis and Kelly</string><string></string><string>Live!withRegisandKellyNewYorkCity.jpg</string><string>40.773396,-73.97915</string>
+<string>524</string><string>Battery Park City&amp;apos;s Rockefeller Park</string><string></string><string>BatteryParkCitysRockefellerParkNewYorkCity.jpg</string><string>40.7122172,-74.0160576</string>
+<string>526</string><string>New Victory Theater</string><string></string><string>NewVictoryTheaterNewYorkCityNewYork.jpg</string><string>40.756632,-73.987572</string>
+<string>527</string><string>South Street Seaport Museum</string><string></string><string>SouthStreetSeaportMuseumNewYorkCityNewYork.jpg</string><string>40.70664,-74.00347</string>
+<string>528</string><string>Discovery Times Square</string><string></string><string>DiscoveryTimesSquareNewYorkCity.jpg</string><string>40.7578577,-73.9874623</string>
+<string>529</string><string>Good Morning America Studios</string><string></string><string>GoodMorningAmericaStudiosNewYorkCityNewYork.jpg</string><string>40.7143528,-74.0059731</string>
+<string>530</string><string>New York City Fire Museum</string><string></string><string>NewYorkCityFireMuseumNewYorkCity.jpg</string><string>40.7255680,-74.0069370</string>
+<string>531</string><string>Arthur Avenue Retail Market</string><string></string><string>ArthurAvenueRetailMarketNewYorkCityNewYork.jpg</string><string>40.854275,-73.8885</string>
+<string>532</string><string>Federal Reserve Bank of New York</string><string></string><string>FederalReserveBankofNewYorkNewYorkCityNewYork.jpg</string><string>40.708244,-74.008736</string>
+<string>533</string><string>City Center</string><string></string><string>CityCenterNewYorkCityNewYork.jpg</string><string>41.0316077,-73.7681020</string>
+<string>534</string><string>Studio Museum of Harlem</string><string></string><string>StudioMuseumofHarlemNewYorkCityNewYork.jpg</string><string>40.8081815,-73.9476550</string>
+<string>535</string><string>Westside Theater</string><string></string><string>WestsideTheaterNewYorkCityNewYork.jpg</string><string>40.7546610,-74.0037830</string>
+<string>536</string><string>Sony Wonder Technology Lab</string><string></string><string>SonyWonderTechnologyLabNewYorkCityNewYork.jpg</string><string>40.7616100,-73.9733910</string>
+<string>538</string><string>Thai Massage-NYC</string><string></string><string>ThaiMassage-NYCNewYorkCity.jpg</string><string>40.7143528,-74.0059731</string>
+<string>539</string><string>Woolworth Building</string><string></string><string>WoolworthBuildingNewYorkCity.jpg</string><string>40.712116,-74.00787</string>
+<string>540</string><string>Irish Repertory Theatre</string><string></string><string>IrishRepertoryTheatreNewYorkCity.jpg</string><string>40.7143528,-74.0059731</string>
+<string>541</string><string>Longacre Theater</string><string></string><string>LongacreTheaterNewYorkCity.jpg</string><string>40.7412439,-74.0025495</string>
+<string>542</string><string>Children&amp;apos;s Museum of the Arts</string><string></string><string>ChildrensMuseumoftheArtsNewYorkCity.jpg</string><string>40.72064,-73.998695</string>
+<string>543</string><string>Unisphere</string><string></string><string>UnisphereNewYorkCity.jpg</string><string>40.7464747,-73.8452087</string>
+<string>544</string><string>Chinatown</string><string></string><string>ChinatownNewYorkCity.jpg</string><string>40.7157509,-73.9970307</string>
+<string>545</string><string>Rockaways</string><string></string><string>RockawaysNewYorkCity.jpg</string><string>40.5926580,-73.7977928</string>
+<string>546</string><string>Science Playground at the New York Hall of Science</string><string></string><string>SciencePlaygroundattheNewYorkHallofScienceNewYorkCity.jpg</string><string>40.7479008,-73.8518416</string>
+<string>547</string><string>Church of Saint Mary the Virgin</string><string></string><string>ChurchofSaintMarytheVirginNewYorkCity.jpg</string><string>40.7582613,-73.9835582</string>
+<string>548</string><string>Lower East Side</string><string></string><string>LowerEastSideNewYorkCity.jpg</string><string>40.7135097,-73.9859414</string>
+<string>549</string><string>Center for Jewish History</string><string></string><string>CenterforJewishHistoryNewYorkCity.jpg</string><string>40.73788,-73.993835</string>
+<string>550</string><string>Old General Electric Building</string><string></string><string>OldGeneralElectricBuildingNewYorkCity.jpg</string><string>40.7143528,-74.0059731</string>
+<string>551</string><string>New York International Auto Show</string><string></string><string>NewYorkInternationalAutoShowNewYorkCity.jpg</string><string>40.74099,-74.00916</string>
+<string>552</string><string>Richard Rodgers Theatre</string><string></string><string>RichardRodgersTheatreNewYorkCity.jpg</string><string>40.759422,-73.98672</string>
+<string>553</string><string>New York Waterway</string><string></string><string>NewYorkWaterwayNewYorkCity.jpg</string><string>40.771782,-74.0132</string>
+<string>554</string><string>Second Stage Theater</string><string></string><string>SecondStageTheaterNewYorkCity.jpg</string><string>40.7143528,-74.0059731</string>
+<string>555</string><string>DiMenna Children&amp;apos;s History Museum</string><string></string><string>DiMennaChildrensHistoryMuseumNewYorkCity.jpg</string><string>40.779297,-73.97437</string>
+<string>556</string><string>Stone Street Historic District</string><string></string><string>StoneStreetHistoricDistrictNewYorkCity.jpg</string><string>40.704357,-74.0103</string>
+<string>557</string><string>Golden Theatre</string><string></string><string>GoldenTheatreNewYorkCity.jpg</string><string>40.758713,-73.98795</string>
+<string>558</string><string>New York Public Library for the Performing Arts</string><string></string><string>NewYorkPublicLibraryforthePerformingArtsNewYorkCity.jpg</string><string>40.7733791,-73.9847653</string>
+<string>559</string><string>Charging Bull (Wall Street Bull)</string><string></string><string>ChargingBullWallStreetBullNewYorkCity.jpg</string><string>40.70536,-74.012856</string>
+<string>560</string><string>St. James Theater</string><string></string><string>StJamesTheaterNewYorkCity.jpg</string><string>40.8841537,-73.0989534</string>
+<string>561</string><string>Paley Center for Media</string><string></string><string>PaleyCenterforMediaNewYorkCity.jpg</string><string>40.7606889,-73.9778806</string>
+<string>562</string><string>New York Spa Castle</string><string></string><string>NewYorkSpaCastleNewYorkCity.jpg</string><string>40.78808,-73.8369</string>
+<string>563</string><string>Joe&amp;apos;s Pub</string><string></string><string>JoesPubNewYorkCity.jpg</string><string>40.729332,-73.9918</string>
+<string>564</string><string>St. Mark&amp;apos;s Place</string><string></string><string>StMarksPlaceNewYorkCity.jpg</string><string>40.710346,-73.99221</string>
+<string>565</string><string>New York Stock Exchange</string><string></string><string>NewYorkStockExchangeNewYorkCity.jpg</string><string>40.706585,-74.01125</string>
+<string>566</string><string>Film Society of Lincoln Center</string><string></string><string>FilmSocietyofLincolnCenterNewYorkCity.jpg</string><string>40.77343,-73.9832</string>
+<string>567</string><string>The View</string><string></string><string>TheViewNewYorkCity.jpg</string><string>40.776115,-73.9876</string>
+<string>568</string><string>General Post Office</string><string></string><string>GeneralPostOfficeNewYorkCity.jpg</string><string>40.75026,-73.994934</string>
+<string>569</string><string>Church of Our Savior</string><string></string><string>ChurchofOurSaviorNewYorkCity.jpg</string><string>40.74937,-73.97923</string>
+<string>571</string><string>Fort Tryon Park</string><string></string><string>FortTryonParkNewYorkCity.jpg</string><string>40.8660973,-73.9299952</string>
+<string>573</string><string>Museum of Chinese in America</string><string></string><string>MuseumofChineseinAmericaNewYorkCity.jpg</string><string>40.7193390,-73.9990364</string>
+<string>574</string><string>Distinguished Concerts International New York</string><string></string><string>DistinguishedConcertsInternationalNewYorkNewYorkCity.jpg</string><string>40.766349,-73.982508</string>
+<string>575</string><string>Morris-Jumel Mansion</string><string></string><string>Morris-JumelMansionNewYorkCity.jpg</string><string>40.8345364,-73.9385090</string>
+<string>577</string><string>Keyspan Park</string><string></string><string>KeyspanParkNewYorkCity.jpg</string><string>40.7317070,-73.6116480</string>
+<string>578</string><string>Roseland Ballroom</string><string></string><string>RoselandBallroomNewYorkCity.jpg</string><string></string>
+<string>579</string><string>Schomburg Center for Research in Black Culture</string><string></string><string>SchomburgCenterforResearchinBlackCultureNewYorkCity.jpg</string><string>40.8144795,-73.9409439</string>
+<string>580</string><string>Tom&amp;apos;s Diner</string><string></string><string>TomsDinerNewYorkCity.jpg</string><string>15.7724231,104.2926543</string>
+<string>581</string><string>Children&amp;apos;s Museum of Manhattan</string><string></string><string>ChildrensMuseumofManhattanNewYorkCity.jpg</string><string>31.7087000,35.1984730</string>
+<string>582</string><string>World Financial Center</string><string></string><string>WorldFinancialCenterNewYorkCity.jpg</string><string>40.72365,-74.01155</string>
+<string>583</string><string>The Juilliard School</string><string></string><string>TheJuilliardSchoolNewYorkCity.jpg</string><string></string>
+<string>584</string><string>Cleopatra&amp;apos;s Needle</string><string></string><string>CleopatrasNeedleNewYorkCity.jpg</string><string>40.772793,-73.96796</string>
+<string>585</string><string>Loews Lincoln Square and IMAX Theater</string><string></string><string>LoewsLincolnSquareandIMAXTheaterNewYorkCity.jpg</string><string></string>
+<string>586</string><string>Forbes Galleries</string><string></string><string>ForbesGalleriesNewYorkCity.jpg</string><string>40.736344,-73.99340</string>
+<string>587</string><string>Aqueduct Race Track</string><string></string><string>AqueductRaceTrackNewYorkCity.jpg</string><string></string>
+<string>588</string><string>Tudor City</string><string></string><string>TudorCityNewYorkCity.jpg</string><string>40.749256,-73.97099</string>
+<string>589</string><string>Helen Hayes Theatre</string><string></string><string>HelenHayesTheatreNewYorkCity.jpg</string><string>40.757797,-73.9877</string>
+<string>591</string><string>Bowlmor Lanes Midtown</string><string></string><string>BowlmorLanesMidtownNewYorkCity.jpg</string><string></string>
+<string>592</string><string>Le Scandal Cabaret</string><string></string><string>LeScandalCabaretNewYorkCity.jpg</string><string></string>
+<string>593</string><string>Town Hall</string><string></string><string>TownHallNewYorkCity.jpg</string><string>40.756016,-73.98433</string>
+<string>594</string><string>Algonquin Hotel</string><string></string><string>AlgonquinHotelNewYorkCity.jpg</string><string>40.756058,-73.98265</string>
+<string>595</string><string>Austrian Cultural Forum</string><string></string><string>AustrianCulturalForumNewYorkCityNewYork.jpg</string><string></string>
+<string>596</string><string>Equinox</string><string></string><string>EquinoxNewYorkCityNewYork.jpg</string><string>40.738953,-73.99006</string>
+<string>597</string><string>Ripley&amp;apos;s Believe It or Not - Times Square</string><string></string><string>RipleysBelieveItorNot-TimesSquareNewYorkCity.jpg</string><string></string>
+<string>598</string><string>United States Custom House</string><string></string><string>UnitedStatesCustomHouseNewYorkCityNewYork.jpg</string><string>40.70462,-74.01417</string>
+<string>599</string><string>Fishion Herb Center</string><string></string><string>FishionHerbCenterNewYorkCityNewYork.jpg</string><string></string>
+<string>600</string><string>Delacorte Theater</string><string></string><string>DelacorteTheaterNewYorkCityNewYork.jpg</string><string>40.776264,-73.959854</string>
+<string>601</string><string>Upper East Side</string><string></string><string>UpperEastSideNewYorkCityNewYork.jpg</string><string></string>
+<string>602</string><string>Cowshed Spa</string><string></string><string>CowshedSpaNewYorkCityNewYork.jpg</string><string></string>
+<string>44962</string><string>Manhattan Skyline</string><string></string><string>ManhattanSkylineNewYork.jpg</string><string>40.71036,-74.01751</string>
+<string>44965</string><string>Frick Collection</string><string></string><string>FrickCollectionNewYork.jpg</string><string>40.77097,-73.967384</string>
+<string>44966</string><string>Metropolitan Museum of Art</string><string></string><string>MetropolitanMuseumofArtNewYork.jpg</string><string>40.779255,-73.96298</string>
+<string>44967</string><string>The Metropolitan Opera</string><string></string><string>TheMetropolitanOperaNewYork.jpg</string><string>40.772774,-73.984985</string>
+<string>44969</string><string>Central Park</string><string></string><string>CentralParkNewYork.jpg</string><string>40.770664,-73.97441</string>
+<string>44972</string><string>Broadway</string><string></string><string>BroadwayNewYork.jpg</string><string>40.757633,-73.98584</string>
+<string>44973</string><string>Top of the Rock Observation Deck</string><string></string><string>TopoftheRockObservationDeckNewYork.jpg</string><string>40.75844,-73.97898</string>
+<string>44974</string><string>Ground Zero Museum Workshop</string><string></string><string>GroundZeroMuseumWorkshopNewYork.jpg</string><string>40.741184,-74.00672</string>
+<string>44975</string><string>Tenement Museum</string><string></string><string>TenementMuseumNewYork.jpg</string><string>40.7187605,-73.9898057</string>
+<string>44976</string><string>The Cloisters</string><string></string><string>TheCloistersNewYork.jpg</string><string>40.8648731,-73.9318125</string>
+<string>44978</string><string>High Line</string><string></string><string>HighLineNewYork.jpg</string><string>40.7473927,-74.0050694</string>
+<string>44979</string><string>St. Paul&amp;apos;s Chapel</string><string></string><string>StPaulsChapelNewYork.jpg</string><string>40.711456,-74.00924</string>
+<string>44985</string><string>Classic Harbor Line</string><string></string><string>ClassicHarborLineNewYork.jpg</string><string>40.7143528,-74.0059731</string>
+<string>44986</string><string>New Amsterdam Theater</string><string></string><string>NewAmsterdamTheaterNewYork.jpg</string><string>40.75602,-73.98805</string>
+<string>44989</string><string>St. Patrick&amp;apos;s Cathedral</string><string></string><string>StPatrick&amp;apossCathedralNewYork.jpg</string><string>25.8114835,-80.1344084</string>
+<string>44991</string><string>Grand Central Terminal</string><string></string><string>GrandCentralTerminalNewYork.jpg</string><string>40.7529980,-73.9770560</string>
+<string>44992</string><string>Bryant Park</string><string></string><string>BryantParkNewYork.jpg</string><string>40.7537719,-73.9832910</string>
+<string>44993</string><string>Staten Island Ferry</string><string></string><string>StatenIslandFerryNewYork.jpg</string><string>40.644703,-74.07366</string>
+<string>44994</string><string>Harvey</string><string></string><string>HarveyNewYork.jpg</string><string>40.755436,-73.979675</string>
+<string>44995</string><string>New York Public Library</string><string></string><string>NewYorkPublicLibraryNewYork.jpg</string><string>40.7531304,-73.9822557</string>
+<string>44996</string><string>New York City Ballet (NYCB)</string><string></string><string>NewYorkCityBalletNYCBNewYork.jpg</string><string>40.77184,-73.983246</string>
+<string>44997</string><string>The Gershwins&amp;apos; Porgy and Bess</string><string></string><string>TheGershwins&amp;aposPorgyandBessNewYork.jpg</string><string>40.759033,-73.98675</string>
+<string>44998</string><string>Greenwich Village</string><string></string><string>GreenwichVillageNewYork.jpg</string><string>40.731194,-73.99619</string>
+<string>44999</string><string>Majestic Theatre</string><string></string><string>MajesticTheatreNewYork.jpg</string><string>40.758278,-73.98824</string>
+<string>45000</string><string>Rockefeller Center</string><string></string><string>RockefellerCenterNewYork.jpg</string><string>40.75873,-73.97878</string>
+<string>45001</string><string>Jazz at Lincoln Center</string><string></string><string>JazzatLincolnCenterNewYork.jpg</string><string>40.769234,-73.98286</string>
+<string>45002</string><string>Ellis Island Immigration Museum</string><string></string><string>EllisIslandImmigrationMuseumNewYork.jpg</string><string>38.96524,-77.36771</string>
+<string>45003</string><string>911 Memorial</string><string></string><string>911MemorialNewYork.jpg</string><string>40.2220681,-74.0125766</string>
+<string>45004</string><string>Cathedral Church of Saint John the Divine</string><string></string><string>CathedralChurchofSaintJohntheDivineNewYork.jpg</string><string>40.80386,-73.96321</string>
+<string>45006</string><string>Radio City Music Hall</string><string></string><string>RadioCityMusicHallNewYork.jpg</string><string>40.760067,-73.98001</string>
+<string>45007</string><string>Ellis Island</string><string></string><string>EllisIslandNewYork.jpg</string><string>40.70482,-74.01706</string>
+<string>45008</string><string>Museum at Eldridge Street</string><string></string><string>MuseumatEldridgeStreetNewYork.jpg</string><string>40.714695,-73.993645</string>
+<string>45009</string><string>Accomplice: New York</string><string></string><string>AccompliceNewYorkNewYork.jpg</string><string>40.706306,-74.00301</string>
+<string>45011</string><string>Museum of Modern Art</string><string></string><string>MuseumofModernArtNewYork.jpg</string><string>40.760674,-73.97642</string>
+<string>45013</string><string>Statue of Liberty</string><string></string><string>StatueofLibertyNewYork.jpg</string><string>40.70482,-74.01706</string>
+<string>45014</string><string>Times Square</string><string></string><string>TimesSquareNewYork.jpg</string><string>40.757355,-73.98604</string>
+<string>45015</string><string>Circle In The Square Theatre</string><string></string><string>CircleInTheSquareTheatreNewYork.jpg</string><string>40.76183,-73.98377</string>
+<string>45016</string><string>The Morgan Library &amp; Museum</string><string></string><string>TheMorganLibrary&amp;MuseumNewYork.jpg</string><string>40.7493030,-73.9815825</string>
+<string>45017</string><string>Intrepid Sea, Air &amp; Space Museum</string><string></string><string>IntrepidSeaAir&amp;SpaceMuseumNewYork.jpg</string><string>40.7644770,-73.9991210</string>
+<string>45018</string><string>Imperial Theatre</string><string></string><string>ImperialTheatreNewYork.jpg</string><string>40.759045,-73.98711</string>
+<string>45021</string><string>Dialog In The Dark</string><string></string><string>DialogInTheDarkNewYork.jpg</string><string>40.7068,-74.00339</string>
+<string>45022</string><string>Fifth Avenue</string><string></string><string>FifthAvenueNewYork.jpg</string><string>40.753498,-73.98103</string>
+<string>45024</string><string>Roosevelt Island Aerial Tram</string><string></string><string>RooseveltIslandAerialTramNewYork.jpg</string><string>40.760635,-73.964294</string>
+<string>45027</string><string>Rubin Museum of Art</string><string></string><string>RubinMuseumofArtNewYork.jpg</string><string>40.740173,-73.99772</string>
+<string>45028</string><string>Chrysler Building</string><string></string><string>ChryslerBuildingNewYork.jpg</string><string>40.751446,-73.97559</string>
+<string>45029</string><string>Hayden Planetarium</string><string></string><string>HaydenPlanetariumNewYork.jpg</string><string>40.782116,-73.97171</string>
+<string>45030</string><string>Trinity Church</string><string></string><string>TrinityChurchNewYork.jpg</string><string>40.7078962,-74.0118493</string>
+<string>45031</string><string>New-York Historical Society</string><string></string><string>New-YorkHistoricalSocietyNewYork.jpg</string><string>40.7791384,-73.9740130</string>
+<string>45032</string><string>SoHo</string><string></string><string>SoHoNewYork.jpg</string><string>40.72845,-74.00347</string>
+<string>45033</string><string>Empire State Building</string><string></string><string>EmpireStateBuildingNewYork.jpg</string><string>40.748306,-73.985756</string>
+<string>45034</string><string>Flatiron Building</string><string></string><string>FlatironBuildingNewYork.jpg</string><string>40.741116,-73.98986</string>
+<string>45035</string><string>Carnegie Hall</string><string></string><string>CarnegieHallNewYork.jpg</string><string>40.7649323,-73.9799726</string>
+<string>45036</string><string>Lower Manhattan</string><string></string><string>LowerManhattanNewYork.jpg</string><string>40.70911,-74.01051</string>
+<string>45037</string><string>The Jewish Museum</string><string></string><string>TheJewishMuseumNewYork.jpg</string><string>40.785343,-73.957466</string>
+<string>45038</string><string>American Museum of Natural History</string><string></string><string>AmericanMuseumofNaturalHistoryNewYork.jpg</string><string>40.7813373,-73.9733291</string>
+<string>45039</string><string>Apollo Theater</string><string></string><string>ApolloTheaterNewYork.jpg</string><string>40.80995,-73.950226</string>
+<string>45040</string><string>World Trade Center</string><string></string><string>WorldTradeCenterNewYork.jpg</string><string>40.71121,-74.01342</string>
+<string>45041</string><string>Broadway Theater</string><string></string><string>BroadwayTheaterNewYork.jpg</string><string>40.764,-73.98251</string>
+<string>45042</string><string>Gershwin Theater</string><string></string><string>GershwinTheaterNewYork.jpg</string><string>40.762413,-73.985146</string>
+<string>45043</string><string>Sleep No More</string><string></string><string>SleepNoMoreNewYork.jpg</string><string>40.7143528,-74.0059731</string>
+<string>45046</string><string>Upper West Side</string><string></string><string>UpperWestSideNewYork.jpg</string><string>40.78713,-73.97576</string>
+<string>45047</string><string>How 2 B A New Yorker</string><string></string><string>How2BANewYorkerNewYork.jpg</string><string>40.7143528,-74.0059731</string>
+<string>45048</string><string>Conservatory Garden</string><string></string><string>ConservatoryGardenNewYork.jpg</string><string>40.7935709,-73.9518657</string>
+<string>45049</string><string>St. Thomas Church</string><string></string><string>StThomasChurchNewYork.jpg</string><string>40.7604,-73.97582</string>
+<string>45050</string><string>Beacon Theatre</string><string></string><string>BeaconTheatreNewYork.jpg</string><string>40.78049,-73.98132</string>
+<string>45051</string><string>Chelsea</string><string></string><string>ChelseaNewYork.jpg</string><string>40.74766,-74.00626</string>
+<string>45052</string><string>Neue Galerie New York</string><string></string><string>NeueGalerieNewYorkNewYork.jpg</string><string>40.781418,-73.960464</string>
+<string>45053</string><string>Ground Zero Catholic Memorial</string><string></string><string>GroundZeroCatholicMemorialNewYork.jpg</string><string>40.7143528,-74.0059731</string>
+<string>45054</string><string>American Ballet Theatre</string><string></string><string>AmericanBalletTheatreNewYork.jpg</string><string>40.5869400,-73.9533500</string>
+<string>45055</string><string>African Burial Ground National Monument</string><string></string><string>AfricanBurialGroundNationalMonumentNewYork.jpg</string><string>40.714626,-74.00413</string>
+<string>45056</string><string>Governor&amp;apos;s Island</string><string></string><string>Governor&amp;apossIslandNewYork.jpg</string><string>40.701645,-74.0118</string>
+<string>45057</string><string>Fuerza Bruta</string><string></string><string>FuerzaBrutaNewYork.jpg</string><string>40.7143528,-74.0059731</string>
+<string>45058</string><string>Cadillac Winter Garden Theatre</string><string></string><string>CadillacWinterGardenTheatreNewYork.jpg</string><string>40.761566,-73.98365</string>
+<string>45059</string><string>Museum of Jewish Heritage</string><string></string><string>MuseumofJewishHeritageNewYork.jpg</string><string>40.705833,-74.01801</string>
+<string>45060</string><string>Battery Park</string><string></string><string>BatteryParkNewYork.jpg</string><string>40.7033262,-74.0171778</string>
+<string>45061</string><string>Asia Society and Museum</string><string></string><string>AsiaSocietyandMuseumNewYork.jpg</string><string>40.7700140,-73.9644760</string>
+<string>45062</string><string>Mount Vernon Hotel Museum &amp; Garden</string><string></string><string>MountVernonHotelMuseum&amp;GardenNewYork.jpg</string><string>40.7604331,-73.9596944</string>
+<string>45063</string><string>Times Square Visitors Center</string><string></string><string>TimesSquareVisitorsCenterNewYork.jpg</string><string>40.759033,-73.98521</string>
+<string>45064</string><string>Madison Square Garden</string><string></string><string>MadisonSquareGardenNewYork.jpg</string><string>40.75055,-73.993385</string>
+<string>45065</string><string>New York Harbor</string><string></string><string>NewYorkHarborNewYork.jpg</string><string>40.71455,-74.00712</string>
+<string>45066</string><string>Union Square</string><string></string><string>UnionSquareNewYork.jpg</string><string>40.7358633,-73.9910835</string>
+<string>45067</string><string>Washington Square Park</string><string></string><string>WashingtonSquareParkNewYork.jpg</string><string>40.7308803,-73.9973273</string>
+<string>45068</string><string>Loeb Boathouse</string><string></string><string>LoebBoathouseNewYork.jpg</string><string>40.77691,-73.97129</string>
+<string>45069</string><string>Riverside Park</string><string></string><string>RiversideParkNewYork.jpg</string><string>40.805866,-73.99183</string>
+<string>45070</string><string>St. Patrick&amp;apos;s Old Cathedral</string><string></string><string>StPatrick&amp;apossOldCathedralNewYork.jpg</string><string>40.72383,-73.99577</string>
+<string>45071</string><string>Spider-Man: Turn Off the Dark</string><string></string><string>Spider-ManTurnOfftheDarkNewYork.jpg</string><string>40.754665,-73.98534</string>
+<string>45072</string><string>New World Stages</string><string></string><string>NewWorldStagesNewYork.jpg</string><string>40.763081,-73.987373</string>
+<string>45073</string><string>The Ziegfeld</string><string></string><string>TheZiegfeldNewYork.jpg</string><string>40.76298,-73.980034</string>
+<string>45074</string><string>International Center of Photography Museum</string><string></string><string>InternationalCenterofPhotographyMuseumNewYork.jpg</string><string>40.7143528,-74.0059731</string>
+<string>45075</string><string>Bodies ... The Exhibition</string><string></string><string>BodiesTheExhibitionNewYork.jpg</string><string>40.70674,-74.0034</string>
+<string>45076</string><string>The Addams Family</string><string></string><string>TheAddamsFamilyNewYork.jpg</string><string>40.7143528,-74.0059731</string>
+<string>45077</string><string>Manhattan Theatre Club (MTC)</string><string></string><string>ManhattanTheatreClubMTCNewYork.jpg</string><string>40.7643076,-73.9778835</string>
+<string>45078</string><string>Rent</string><string></string><string>RentNewYork.jpg</string><string>41.4994674,-74.1015585</string>
+<string>45080</string><string>Irish Hunger Memorial</string><string></string><string>IrishHungerMemorialNewYork.jpg</string><string>40.71491,-74.01612</string>
+<string>45081</string><string>Tribes</string><string></string><string>TribesNewYork.jpg</string><string>40.73231,-74.00308</string>
+<string>45082</string><string>Joyce Theater</string><string></string><string>JoyceTheaterNewYork.jpg</string><string>40.742798,-74.000565</string>
+<string>45083</string><string>Lunt-Fontanne Theatre</string><string></string><string>Lunt-FontanneTheatreNewYork.jpg</string><string>40.759367,-73.986075</string>
+<string>45085</string><string>Columbia University</string><string></string><string>ColumbiaUniversityNewYork.jpg</string><string>40.807365,-73.96243</string>
+<string>45086</string><string>Palace Theatre</string><string></string><string>PalaceTheatreNewYork.jpg</string><string>40.7591,-73.9852</string>
+<string>45087</string><string>Hispanic Society of America</string><string></string><string>HispanicSocietyofAmericaNewYork.jpg</string><string>40.8335,-73.946434</string>
+<string>45088</string><string>Bethesda Fountain</string><string></string><string>BethesdaFountainNewYork.jpg</string><string>40.76928,-73.959465</string>
+<string>45089</string><string>Madame Tussauds New York</string><string></string><string>MadameTussaudsNewYorkNewYork.jpg</string><string>40.75544,-73.9879</string>
+<string>45090</string><string>The Daily Show with John Stewart</string><string></string><string>TheDailyShowwithJohnStewartNewYork.jpg</string><string>40.766987,-73.99388</string>
+<string>45091</string><string>Meatpacking District</string><string></string><string>MeatpackingDistrictNewYork.jpg</string><string>40.741,-74.00761</string>
+<string>45092</string><string>Merchant&amp;apos;s House Museum</string><string></string><string>Merchant&amp;apossHouseMuseumNewYork.jpg</string><string>33.4021914,-81.4242998</string>
+<string>45093</string><string>Chelsea Piers</string><string></string><string>ChelseaPiersNewYork.jpg</string><string>40.768364,-73.99669</string>
+<string>45094</string><string>Rose Center for Earth and Space</string><string></string><string>RoseCenterforEarthandSpaceNewYork.jpg</string><string>40.78117,-73.973854</string>
+<string>45095</string><string>Strawberry Fields, John Lennon Memorial</string><string></string><string>StrawberryFieldsJohnLennonMemorialNewYork.jpg</string><string>40.776382,-73.976</string>
+<string>45096</string><string>New York City Police Museum</string><string></string><string>NewYorkCityPoliceMuseumNewYork.jpg</string><string>40.7032834,-74.0079732</string>
+<string>45097</string><string>Washington Square</string><string></string><string>WashingtonSquareNewYork.jpg</string><string>40.731014,-73.99625</string>
+<string>45098</string><string>Foxwoods Theater</string><string></string><string>FoxwoodsTheaterNewYork.jpg</string><string>40.75466,-73.985306</string>
+<string>45099</string><string>Museum of Arts and Design</string><string></string><string>MuseumofArtsandDesignNewYork.jpg</string><string>40.76794,-73.98221</string>
+<string>45100</string><string>Fraunces Tavern Museum</string><string></string><string>FrauncesTavernMuseumNewYork.jpg</string><string>40.7034,-74.01139</string>
+<string>45101</string><string>Harlem</string><string></string><string>HarlemNewYork.jpg</string><string>40.819298,-73.92786</string>
+<string>45102</string><string>Marquis Theatre</string><string></string><string>MarquisTheatreNewYork.jpg</string><string>40.758575,-73.987</string>
+<string>45103</string><string>Park Avenue</string><string></string><string>ParkAvenueNewYork.jpg</string><string>40.779503,-73.9579</string>
+<string>45104</string><string>New York Philharmonic</string><string></string><string>NewYorkPhilharmonicNewYork.jpg</string><string>40.77304,-73.982285</string>
+<string>45105</string><string>Alice in Wonderland Statue</string><string></string><string>AliceinWonderlandStatueNewYork.jpg</string><string>40.782646,-73.96446</string>
+<string>45106</string><string>Museum of Tolerance</string><string></string><string>MuseumofToleranceNewYork.jpg</string><string>40.7498213,-73.9730179</string>
+<string>45107</string><string>Union Square Park</string><string></string><string>UnionSquareParkNewYork.jpg</string><string>40.7359788,-73.9903819</string>
+<string>45108</string><string>TriBeCa</string><string></string><string>TriBeCaNewYork.jpg</string><string>40.715206,-74.00852</string>
+<string>45109</string><string>Duffy Square</string><string></string><string>DuffySquareNewYork.jpg</string><string>40.75923,-73.98466</string>
+<string>45110</string><string>Discovering Columbus</string><string></string><string>DiscoveringColumbusNewYork.jpg</string><string>42.6838900,-75.3730600</string>
+<string>45111</string><string>Roosevelt Island</string><string></string><string>RooseveltIslandNewYork.jpg</string><string>40.761497,-73.950005</string>
+<string>45112</string><string>United Nations Headquarters</string><string></string><string>UnitedNationsHeadquartersNewYork.jpg</string><string>40.751347,-73.96789</string>
+<string>45114</string><string>Bargemusic</string><string></string><string>BargemusicNewYork.jpg</string><string>40.702988,-73.99454</string>
+<string>45115</string><string>Neil Simon Theatre</string><string></string><string>NeilSimonTheatreNewYork.jpg</string><string>40.763035,-73.98453</string>
+<string>45116</string><string>Central Park&amp;apos;s Literary Walk</string><string></string><string>CentralPark&amp;apossLiteraryWalkNewYork.jpg</string><string>40.76431,-73.97121</string>
+<string>45117</string><string>National Museum of the American Indian</string><string></string><string>NationalMuseumoftheAmericanIndianNewYork.jpg</string><string>40.7041260,-74.0137910</string>
+<string>45118</string><string>Eugene O&amp;apos;Neill Theatre</string><string></string><string>EugeneONeillTheatreNewYork.jpg</string><string>40.76119,-73.98558</string>
+<string>45119</string><string>Shubert Theatre</string><string></string><string>ShubertTheatreNewYork.jpg</string><string>40.757576,-73.99148</string>
+<string>45120</string><string>Late Night with Jimmy Fallon</string><string></string><string>LateNightwithJimmyFallonNewYork.jpg</string><string>40.759212,-73.978745</string>
+<string>45121</string><string>New Victory Theater</string><string></string><string>NewVictoryTheaterNewYork.jpg</string><string>40.756632,-73.987572</string>
+<string>45122</string><string>Times Square Church</string><string></string><string>TimesSquareChurchNewYork.jpg</string><string>40.7624161,-73.9836255</string>
+<string>45123</string><string>Solomon R. Guggenheim Museum</string><string></string><string>SolomonR.GuggenheimMuseumNewYork.jpg</string><string>40.782932,-73.95921</string>
+<string>45124</string><string>General Grant National Memorial</string><string></string><string>GeneralGrantNationalMemorialNewYork.jpg</string><string>40.81307,-73.9632</string>
+<string>45125</string><string>Madison Square</string><string></string><string>MadisonSquareNewYork.jpg</string><string>40.7432750,-73.9887580</string>
+<string>45126</string><string>Studio Museum of Harlem</string><string></string><string>StudioMuseumofHarlemNewYork.jpg</string><string>40.8081815,-73.9476550</string>
+<string>45127</string><string>Wall Street</string><string></string><string>WallStreetNewYork.jpg</string><string>40.7079088,-74.0085145</string>
+<string>45128</string><string>Museum of the City of New York</string><string></string><string>MuseumoftheCityofNewYorkNewYork.jpg</string><string>40.79261,-73.952225</string>
+<string>45129</string><string>Theodore Roosevelt Birthplace National Historic Site</string><string></string><string>TheodoreRooseveltBirthplaceNationalHistoricSiteNewYork.jpg</string><string>40.7387555,-73.9890141</string>
+<string>45130</string><string>City Center</string><string></string><string>CityCenterNewYork.jpg</string><string>40.76377,-73.97952</string>
+<string>45131</string><string>The Dakota</string><string></string><string>TheDakotaNewYork.jpg</string><string>40.776302,-73.97597</string>
+<string>45132</string><string>Central Park Zoo</string><string></string><string>CentralParkZooNewYork.jpg</string><string>40.7677770,-73.9716690</string>
+<string>45133</string><string>Cherry Lane Theatre</string><string></string><string>CherryLaneTheatreNewYork.jpg</string><string>40.731464,-74.00519</string>
+<string>45134</string><string>Lincoln Square</string><string></string><string>LincolnSquareNewYork.jpg</string><string>40.7738280,-73.9844722</string>
+<string>45135</string><string>Film Forum</string><string></string><string>FilmForumNewYork.jpg</string><string>40.728507,-74.004335</string>
+<string>45136</string><string>The Late Show with David Letterman</string><string></string><string>TheLateShowwithDavidLettermanNewYork.jpg</string><string>40.764011,-73.982905</string>
+<string>45137</string><string>Barrymore Theater</string><string></string><string>BarrymoreTheaterNewYork.jpg</string><string>40.7143528,-74.0059731</string>
+<string>45138</string><string>Fort Tyron Park</string><string></string><string>FortTyronParkNewYork.jpg</string><string>40.8660973,-73.9299952</string>
+<string>45139</string><string>Live IN Theater Productions</string><string></string><string>LiveINTheaterProductionsNewYork.jpg</string><string>40.718266,-73.99022</string>
+<string>45140</string><string>Uptown Pilates</string><string></string><string>UptownPilatesNewYork.jpg</string><string>40.7143528,-74.0059731</string>
+<string>45141</string><string>Peter and the Starcatcher</string><string></string><string>PeterandtheStarcatcherNewYork.jpg</string><string>40.7143528,-74.0059731</string>
+<string>45142</string><string>Elektra Theatre</string><string></string><string>ElektraTheatreNewYork.jpg</string><string>40.7143528,-74.0059731</string>
+<string>45143</string><string>Wollman Rink</string><string></string><string>WollmanRinkNewYork.jpg</string><string>40.767395,-73.97073</string>
+<string>45144</string><string>New York City&amp;apos;s Official Visitor Information Center</string><string></string><string>NewYorkCity&amp;apossOfficialVisitorInformationCenterNewYork.jpg</string><string>40.76263,-73.98215</string>
+<string>45145</string><string>Stone Street Historic District</string><string></string><string>StoneStreetHistoricDistrictNewYork.jpg</string><string>40.704357,-74.0103</string>
+<string>45146</string><string>NY Vietnam Veterans Memorial</string><string></string><string>NYVietnamVeteransMemorialNewYork.jpg</string><string>40.70362,-74.00966</string>
+<string>45147</string><string>Hamilton Grange National Memorial</string><string></string><string>HamiltonGrangeNationalMemorialNewYork.jpg</string><string>40.82226,-73.94764</string>
+<string>45148</string><string>World Financial Center</string><string></string><string>WorldFinancialCenterNewYork.jpg</string><string>40.72365,-74.01155</string>
+<string>45149</string><string>Herald Square</string><string></string><string>HeraldSquareNewYork.jpg</string><string>40.750053,-73.98795</string>
+<string>45150</string><string>Nintendo World New Yok</string><string></string><string>NintendoWorldNewYokNewYork.jpg</string><string>40.75827,-73.97941</string>
+<string>45151</string><string>Long Beach</string><string></string><string>LongBeachNewYork.jpg</string><string>40.810497,-73.96199</string>
+<string>45152</string><string>Federal Hall</string><string></string><string>FederalHallNewYork.jpg</string><string>40.7073034,-74.0102734</string>
+<string>45153</string><string>Battery Park City&amp;apos;s Rockefeller Park</string><string></string><string>BatteryParkCity&amp;apossRockefellerParkNewYork.jpg</string><string>40.7122172,-74.0160576</string>
+<string>45154</string><string>Big Apple Circus</string><string></string><string>BigAppleCircusNewYork.jpg</string><string>41.5552986,-74.1795349</string>
+<string>45155</string><string>Westside Theater</string><string></string><string>WestsideTheaterNewYork.jpg</string><string>40.75953,-73.992546</string>
+<string>45156</string><string>Longacre Theater</string><string></string><string>LongacreTheaterNewYork.jpg</string><string>40.7412439,-74.0025495</string>
+<string>45157</string><string>South Street Seaport Museum</string><string></string><string>SouthStreetSeaportMuseumNewYork.jpg</string><string>40.70664,-74.00347</string>
+<string>45158</string><string>The Museum at FIT</string><string></string><string>TheMuseumatFITNewYork.jpg</string><string>40.8134,-73.9451</string>
+<string>45159</string><string>Live! with Regis and Kelly</string><string></string><string>Live!withRegisandKellyNewYork.jpg</string><string>40.773396,-73.97915</string>
+<string>45160</string><string>August Wilson Theater</string><string></string><string>AugustWilsonTheaterNewYork.jpg</string><string>40.76318,-73.9843</string>
+<string>45161</string><string>Lucille Lortel Theatre</string><string></string><string>LucilleLortelTheatreNewYork.jpg</string><string>40.7143528,-74.0059731</string>
+<string>45162</string><string>Citi Pond at Bryant Park</string><string></string><string>CitiPondatBryantParkNewYork.jpg</string><string>40.75649,-73.98334</string>
+<string>45163</string><string>Riverside Church</string><string></string><string>RiversideChurchNewYork.jpg</string><string>40.81119,-73.96399</string>
+<string>45164</string><string>Irish Repertory Theatre</string><string></string><string>IrishRepertoryTheatreNewYork.jpg</string><string>40.7143528,-74.0059731</string>
+<string>45165</string><string>Walter Kerr Theater</string><string></string><string>WalterKerrTheaterNewYork.jpg</string><string>40.7143528,-74.0059731</string>
+<string>45166</string><string>Ted Greenberg&amp;apos;s The Complete Performer</string><string></string><string>TedGreenberg&amp;apossTheCompletePerformerNewYork.jpg</string><string>40.7335905,-74.0045387</string>
+<string>45167</string><string>Belvedere Castle</string><string></string><string>BelvedereCastleNewYork.jpg</string><string>40.7793951,-73.9689411</string>
+<string>45168</string><string>Children&amp;apos;s Museum of the Arts</string><string></string><string>Children&amp;apossMuseumoftheArtsNewYork.jpg</string><string>40.72064,-73.998695</string>
+<string>45169</string><string>New York City Fire Museum</string><string></string><string>NewYorkCityFireMuseumNewYork.jpg</string><string>40.7255680,-74.0069370</string>
+<string>45170</string><string>St. Bartholomew&amp;apos;s Church</string><string></string><string>St.Bartholomew&amp;apossChurchNewYork.jpg</string><string>40.756832,-73.97318</string>
+<string>45171</string><string>Al Hirschfeld Theatre</string><string></string><string>AlHirschfeldTheatreNewYork.jpg</string><string>40.75929,-73.98916</string>
+<string>45172</string><string>Manhattan Bridge</string><string></string><string>ManhattanBridgeNewYork.jpg</string><string>40.710724,-73.984764</string>
+<string>45173</string><string>Uptown Pilates on Madison</string><string></string><string>UptownPilatesonMadisonNewYork.jpg</string><string>42.8989582,-75.5121217</string>
+<string>45174</string><string>Church of Our Savior</string><string></string><string>ChurchofOurSaviorNewYork.jpg</string><string>40.74937,-73.97923</string>
+<string>45175</string><string>Gerald Schoenfeld Theater</string><string></string><string>GeraldSchoenfeldTheaterNewYork.jpg</string><string>40.7143528,-74.0059731</string>
+<string>45177</string><string>Inwood Park</string><string></string><string>InwoodParkNewYork.jpg</string><string>40.86983,-73.92089</string>
+<string>45178</string><string>New York City Opera</string><string></string><string>NewYorkCityOperaNewYork.jpg</string><string>40.768085,-73.97595</string>
+<string>45179</string><string>Fort Tryon Park</string><string></string><string>FortTryonParkNewYork.jpg</string><string>40.867424,-73.929535</string>
+<string>45180</string><string>Little Italy</string><string></string><string>LittleItalyNewYork.jpg</string><string>40.71708,-73.998566</string>
+<string>45181</string><string>Morris-Jumel Mansion</string><string></string><string>Morris-JumelMansionNewYork.jpg</string><string>40.8345364,-73.9385090</string>
+<string>45182</string><string>Ethel Barrymore Theatre</string><string></string><string>EthelBarrymoreTheatreNewYork.jpg</string><string>40.760123,-73.986408</string>
+<string>45183</string><string>Museum of American Finance</string><string></string><string>MuseumofAmericanFinanceNewYork.jpg</string><string>40.7065,-74.00929</string>
+<string>45184</string><string>Discovery Times Square</string><string></string><string>DiscoveryTimesSquareNewYork.jpg</string><string>40.7578577,-73.9874623</string>
+<string>45186</string><string>Children&amp;apos;s Museum of Manhattan</string><string></string><string>Children&amp;apossMuseumofManhattanNewYork.jpg</string><string>40.785915,-73.977165</string>
+<string>45187</string><string>Sony Wonder Technology Lab</string><string></string><string>SonyWonderTechnologyLabNewYork.jpg</string><string>40.7616100,-73.9733910</string>
+<string>45188</string><string>Bethel Gospel Assembly</string><string></string><string>BethelGospelAssemblyNewYork.jpg</string><string>40.8027200,-73.9436640</string>
+<string>45189</string><string>Good Morning America Studios</string><string></string><string>GoodMorningAmericaStudiosNewYork.jpg</string><string>40.7143528,-74.0059731</string>
+<string>45190</string><string>Dicapo Opera Theatre</string><string></string><string>DicapoOperaTheatreNewYork.jpg</string><string>40.77169,-73.9572</string>
+<string>45191</string><string>Chinatown</string><string></string><string>ChinatownNewYork.jpg</string><string>40.7156,-73.99499</string>
+<string>45192</string><string>Paley Center for Media</string><string></string><string>PaleyCenterforMediaNewYork.jpg</string><string>40.760445,-73.977806</string>
+<string>45193</string><string>New York University</string><string></string><string>NewYorkUniversityNewYork.jpg</string><string>40.729774,-73.996994</string>
+<string>45194</string><string>General Post Office</string><string></string><string>GeneralPostOfficeNewYork.jpg</string><string>40.75026,-73.994934</string>
+<string>45195</string><string>Algonquin Hotel</string><string></string><string>AlgonquinHotelNewYork.jpg</string><string>40.756058,-73.98265</string>
+<string>45196</string><string>Gracie Mansion</string><string></string><string>GracieMansionNewYork.jpg</string><string>40.7761101,-73.9432478</string>
+<string>45197</string><string>Church of Saint Mary the Virgin</string><string></string><string>ChurchofSaintMarytheVirginNewYork.jpg</string><string>40.7582613,-73.9835582</string>
+<string>45198</string><string>Delacorte Theater</string><string></string><string>DelacorteTheaterNewYork.jpg</string><string>40.776264,-73.959854</string>
+<string>45199</string><string>George Washington Bridge</string><string></string><string>GeorgeWashingtonBridgeNewYork.jpg</string><string>40.850124,-73.966286</string>
+<string>45200</string><string>Unisphere</string><string></string><string>UnisphereNewYork.jpg</string><string>40.7464747,-73.8452087</string>
+<string>45201</string><string>The View</string><string></string><string>TheViewNewYork.jpg</string><string>40.776115,-73.9876</string>
+<string>45202</string><string>Helen Hayes Theatre</string><string></string><string>HelenHayesTheatreNewYork.jpg</string><string>40.757797,-73.9877</string>
+<string>45203</string><string>Museum of Chinese in America</string><string></string><string>MuseumofChineseinAmericaNewYork.jpg</string><string>40.7193390,-73.9990364</string>
+<string>45204</string><string>Rockaways</string><string></string><string>RockawaysNewYork.jpg</string><string>40.5926580,-73.7977928</string>
+<string>45206</string><string>New York International Auto Show</string><string></string><string>NewYorkInternationalAutoShowNewYork.jpg</string><string>40.74099,-74.00916</string>
+<string>45207</string><string>Science Playground at the New York Hall of Science</string><string></string><string>SciencePlaygroundattheNewYorkHallofScienceNewYork.jpg</string><string>40.7479008,-73.8518416</string>
+<string>45208</string><string>Richard Rodgers Theatre</string><string></string><string>RichardRodgersTheatreNewYork.jpg</string><string>40.759422,-73.98672</string>
+<string>45209</string><string>Old General Electric Building</string><string></string><string>OldGeneralElectricBuildingNewYork.jpg</string><string>40.7143528,-74.0059731</string>
+<string>45210</string><string>Antioch Baptist Church New York</string><string></string><string>AntiochBaptistChurchNewYorkNewYork.jpg</string><string>40.81417,-73.95652</string>
+<string>45211</string><string>St. James Theater</string><string></string><string>St.JamesTheaterNewYork.jpg</string><string>40.7226191,-74.0048334</string>
+<string>45212</string><string>Nicholas Roerich Museum</string><string></string><string>NicholasRoerichMuseumNewYork.jpg</string><string>40.80281,-73.96897</string>
+<string>45213</string><string>Center for Jewish History</string><string></string><string>CenterforJewishHistoryNewYork.jpg</string><string>40.73788,-73.993835</string>
+<string>45214</string><string>Second Stage Theater</string><string></string><string>SecondStageTheaterNewYork.jpg</string><string>40.7143528,-74.0059731</string>
+<string>45215</string><string>Woolworth Building</string><string></string><string>WoolworthBuildingNewYork.jpg</string><string>40.712116,-74.00787</string>
+<string>45216</string><string>New York Waterway</string><string></string><string>NewYorkWaterwayNewYork.jpg</string><string>40.771782,-74.0132</string>
+<string>45217</string><string>DiMenna Children&amp;apos;s History Museum</string><string></string><string>DiMennaChildren&amp;apossHistoryMuseumNewYork.jpg</string><string>40.779297,-73.97437</string>
+<string>45218</string><string>New York Public Library for the Performing Arts</string><string></string><string>NewYorkPublicLibraryforthePerformingArtsNewYork.jpg</string><string>40.772022,-73.98303</string>
+<string>45219</string><string>Ed Sullivan Theater</string><string></string><string>EdSullivanTheaterNewYork.jpg</string><string>40.76349,-73.98274</string>
+<string>45220</string><string>Carl Schurz Park</string><string></string><string>CarlSchurzParkNewYork.jpg</string><string>40.77562,-73.944244</string>
+<string>45221</string><string>Cinema Village</string><string></string><string>CinemaVillageNewYork.jpg</string><string>40.73409,-73.99331</string>
+<string>45222</string><string>Grace</string><string></string><string>GraceNewYork.jpg</string><string>40.759132,-73.98307</string>
+<string>45223</string><string>Tom&amp;apos;s Diner</string><string></string><string>Tom&amp;apossDinerNewYork.jpg</string><string>15.7724231,104.2926543</string>
+<string>45224</string><string>Upper East Side</string><string></string><string>UpperEastSideNewYork.jpg</string><string>40.7735649,-73.9565551</string>
+<string>45225</string><string>Golden Theatre</string><string></string><string>GoldenTheatreNewYork.jpg</string><string>40.758713,-73.98795</string>
+<string>45226</string><string>Shrine of St. Elizabeth Ann Seton</string><string></string><string>ShrineofSt.ElizabethAnnSetonNewYork.jpg</string><string>40.702465,-74.01357</string>
+<string>45227</string><string>American Airlines Theater</string><string></string><string>AmericanAirlinesTheaterNewYork.jpg</string><string>40.7408964,-74.0025495</string>
+<string>45228</string><string>Film Society of Lincoln Center</string><string></string><string>FilmSocietyofLincolnCenterNewYork.jpg</string><string>40.77343,-73.9832</string>
+<string>45229</string><string>The Bowery Ballroom</string><string></string><string>TheBoweryBallroomNewYork.jpg</string><string>40.72027,-73.99346</string>
+<string>45230</string><string>Town Hall</string><string></string><string>TownHallNewYork.jpg</string><string>40.756016,-73.98433</string>
+<string>45231</string><string>Swedish Cottage Marionette Theatre</string><string></string><string>SwedishCottageMarionetteTheatreNewYork.jpg</string><string>40.779977,-73.970395</string>
+<string>45232</string><string>New York Theatre Experience</string><string></string><string>NewYorkTheatreExperienceNewYork.jpg</string><string>40.71929,-74.012215</string>
+<string>45233</string><string>Equinox</string><string></string><string>EquinoxNewYork.jpg</string><string>40.738953,-73.99006</string>
+<string>45234</string><string>Bowlmor Lanes Midtown</string><string></string><string>BowlmorLanesMidtownNewYork.jpg</string><string>40.7368234,-73.9886136</string>
+<string>45235</string><string>Keyspan Park</string><string></string><string>KeyspanParkNewYork.jpg</string><string>40.7317070,-73.6116480</string>
+<string>45236</string><string>Lower East Side</string><string></string><string>LowerEastSideNewYork.jpg</string><string>40.7135097,-73.9859414</string>
+<string>45238</string><string>Charging Bull (Wall Street Bull)</string><string></string><string>ChargingBullWallStreetBullNewYork.jpg</string><string>40.70536,-74.012856</string>
+<string>45239</string><string>The Juilliard School</string><string></string><string>TheJuilliardSchoolNewYork.jpg</string><string>40.77247,-73.98271</string>
+<string>45240</string><string>FDNY Memorial</string><string></string><string>FDNYMemorialNewYork.jpg</string><string>40.71009,-74.01259</string>
+<string>45241</string><string>Tudor City</string><string></string><string>TudorCityNewYork.jpg</string><string>40.749256,-73.97099</string>
+<string>45243</string><string>Ripley&amp;apos;s Believe It or Not - Times Square</string><string></string><string>Ripley&amp;apossBelieveItorNot-TimesSquareNewYork.jpg</string><string>35.7453552,-89.5297973</string>
+<string>45245</string><string>The French Culinary Institure</string><string></string><string>TheFrenchCulinaryInstitureNewYork.jpg</string><string>40.72094,-74.00044</string>
+<string>45246</string><string>Le Scandal Cabaret</string><string></string><string>LeScandalCabaretNewYork.jpg</string><string>40.742924,-73.99027</string>
+<string>45247</string><string>New York Stock Exchange</string><string></string><string>NewYorkStockExchangeNewYork.jpg</string><string>40.706585,-74.01125</string>
+<string>45248</string><string>New York City Vietnam Veterans Memorial Plaza</string><string></string><string>NewYorkCityVietnamVeteransMemorialPlazaNewYork.jpg</string><string>40.7028410,-74.0093520</string>
+<string>45249</string><string>Schomburg Center for Research in Black Culture</string><string></string><string>SchomburgCenterforResearchinBlackCultureNewYork.jpg</string><string>40.8144795,-73.9409439</string>
+<string>45250</string><string>New Museum</string><string></string><string>NewMuseumNewYork.jpg</string><string>40.7223693,-73.9928788</string>
+<string>45251</string><string>The Church of St. Ignatius Loyola</string><string></string><string>TheChurchofSt.IgnatiusLoyolaNewYork.jpg</string><string>40.77859,-73.95874</string>
+<string>45252</string><string>Austrian Cultural Forum</string><string></string><string>AustrianCulturalForumNewYork.jpg</string><string>40.7595513,-73.9752272</string>
+<string>45253</string><string>Cakeshop</string><string></string><string>CakeshopNewYork.jpg</string><string>40.720837,-73.98791</string>
+<string>45254</string><string>United States Custom House</string><string></string><string>UnitedStatesCustomHouseNewYork.jpg</string><string>40.70462,-74.01417</string>
+<string>45255</string><string>92ND St. Y</string><string></string><string>92NDSt.YNewYork.jpg</string><string>40.7829991,-73.9525310</string>
+<string>45256</string><string>Best Buy Theater</string><string></string><string>BestBuyTheaterNewYork.jpg</string><string>40.7143528,-74.0059731</string>
+<string>45257</string><string>Stephen A. Schwarzman Building</string><string></string><string>StephenA.SchwarzmanBuildingNewYork.jpg</string><string>40.7519675,-73.9818223</string>
+<string>45258</string><string>Franklin D. Roosevelt Four Freedoms Park, LLC_</string><string></string><string>FranklinD.RooseveltFourFreedomsParkLLC_NewYork.jpg</string><string>40.7143528,-74.0059731</string>
+<string>45260</string><string>First Corinthian Baptist Church</string><string></string><string>FirstCorinthianBaptistChurchNewYork.jpg</string><string>40.8030556,-73.9530556</string>
+<string>45261</string><string>New York City Criminal Court</string><string></string><string>NewYorkCityCriminalCourtNewYork.jpg</string><string>40.71368,-73.9977</string>
+</array>
+</plist>
